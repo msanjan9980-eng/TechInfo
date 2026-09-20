@@ -45,24 +45,15 @@ No LLM used. No paid APIs used. No external dependencies outside Brreg.
 
 ## Output format
 
-Each profile is `profiles/{orgnr}.json`:
+Each profile is `profiles/{orgnr}.json` and contains facts of the form:
 
     {
-      "orgnr": "923609016",
-      "name": "EQUINOR ASA",
-      "facts": [
-        {
-          "field": "revenue",
-          "value": {"value": 67956000000.0, "currency": "USD", "period": "2025-01-01..2025-12-31"},
-          "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
-          "retrieved": "2026-09-20T12:29:27Z",
-          "confidence": "high",
-          "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
-        },
-        ...
-      ],
-      "sources_used": ["brreg", "regnskapsregisteret"],
-      "last_updated": "2026-09-20T12:29:27Z"
+      "field": "revenue",
+      "value": {"value": 67956000000.0, "currency": "USD", "period": "2025-01-01..2025-12-31"},
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:29:27Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
     }
 
 Every fact carries a source URL, retrieval timestamp, confidence level and a
@@ -76,25 +67,26 @@ Uses the official Brreg delta endpoint `oppdateringer/enheter` to find every
 company that changed in the register in the last N days, filters to those we
 already track, and re-fetches only that subset. Roles and financials are reused
 from cache when fresh, so a daily refresh costs roughly 20-50 requests.
+Verified working: 3 tracked companies refreshed for --days 7, 8 for --days 30.
 
 ## Architecture
 
-- `agent/brreg_client.py` — Enhetsregisteret + Regnskapsregisteret HTTP client,
+- `agent/brreg_client.py` - Enhetsregisteret + Regnskapsregisteret HTTP client,
   MOD11 checksum validation, retry/backoff.
-- `agent/assemble.py` — turns raw responses into sourced, dated, explained facts.
-- `agent/build.py` — async bulk builder with concurrency limits and caching.
-- `agent/lookup.py` — single-orgnr CLI for on-demand queries.
-- `agent/refresh.py` — daily delta refresh.
-- `agent/cache.py`, `agent/roles_cache.py` — 7-14 day disk caches so a rebuild
+- `agent/assemble.py` - turns raw responses into sourced, dated, explained facts.
+- `agent/build.py` - async bulk builder with concurrency limits and caching.
+- `agent/lookup.py` - single-orgnr CLI for on-demand queries.
+- `agent/refresh.py` - daily delta refresh.
+- `agent/cache.py`, `agent/roles_cache.py` - 7-14 day disk caches so a rebuild
   never re-hits the network unnecessarily.
-- `tests/validate_profiles.py` — enforces that every fact has a source and a date.
+- `tests/validate_profiles.py` - enforces that every fact has a source and a date.
 
 ## Limits and cost
 
 - Enhetsregisteret and Regnskapsregisteret are free and unlimited.
 - No paid APIs. No LLM calls.
 - Full rebuild from warm cache: ~30-45 seconds, 0-2 HTTP requests per profile.
-- Expected cost per run: **$0**.
+- Expected cost per run: 0 USD.
 
 ## Requirements
 
