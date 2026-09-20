@@ -1,0 +1,155 @@
+{
+  "orgnr": "921404352",
+  "name": "DITT APOTEK OPERA AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DITT APOTEK OPERA AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921404352",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-09-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-08-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0194",
+        "poststed": "OSLO",
+        "adresse": [
+          "Operagata 18"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.730",
+        "beskrivelse": "Detaljhandel med apotekvarer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Yunlin Zhan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352/roller",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SKI REVISJON AS"
+        ],
+        "orgnr": "984638531",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921404352/roller",
+      "retrieved": "2026-09-20T11:47:29Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T11:47:29Z"
+}
