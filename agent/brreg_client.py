@@ -3,11 +3,24 @@ from __future__ import annotations
 
 from typing import Any
 
+import logging
+from pathlib import Path as _Path
+
 import httpx
 from pydantic import BaseModel, ConfigDict, Field
 from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
 BRREG_BASE = "https://data.brreg.no/enhetsregisteret/api"
+
+_LOG_DIR = _Path("logs")
+_LOG_DIR.mkdir(exist_ok=True)
+logger = logging.getLogger("brreg")
+if not logger.handlers:
+    logger.setLevel(logging.INFO)
+    _fh = logging.FileHandler(_LOG_DIR / "fetch_errors.log", encoding="utf-8")
+    _fh.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
+    logger.addHandler(_fh)
+
 
 
 class CompanyRecord(BaseModel):
@@ -74,7 +87,10 @@ async def _get_json(
 ) -> dict | None:
     resp = await client.get(url, params=params)
     if resp.status_code == 404:
+        logger.info(f"404 for {url}")
         return None
+    if resp.status_code >= 400:
+        logger.warning(f"HTTP {resp.status_code} for {url}")
     resp.raise_for_status()
     return resp.json()
 
