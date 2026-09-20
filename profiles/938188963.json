@@ -6,41 +6,41 @@
       "field": "name",
       "value": "ØKSNES BOLIGFORVALTNING KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Official name in Enhetsregisteret."
     },
     {
       "field": "orgnr",
       "value": "938188963",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Norwegian organisation number (MOD11-validated)."
     },
     {
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered legal form (organisasjonsform)."
     },
     {
       "field": "registered_date",
       "value": "2026-08-17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Date of registration in Enhetsregisteret."
     },
     {
       "field": "founded_date",
       "value": "2026-05-21",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Founding date as recorded in Enhetsregisteret."
     },
     {
       "field": "business_address",
@@ -56,9 +56,9 @@
         "kommunenummer": "1868"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered business address."
     },
     {
       "field": "postal_address",
@@ -74,9 +74,9 @@
         "kommunenummer": "1868"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered postal address."
     },
     {
       "field": "nace_code",
@@ -85,41 +85,41 @@
         "beskrivelse": "Utleie av egen eller leid fast eiendom"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Primary industry code (NACE / SN2007)."
     },
     {
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
     },
     {
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in Foretaksregisteret."
     },
     {
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Liquidation flag."
     },
     {
       "field": "role:Daglig leder",
@@ -130,9 +130,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: DAGL"
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
     },
     {
       "field": "role:Styrets leder",
@@ -143,9 +143,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Nestleder",
@@ -156,9 +156,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Styremedlem",
@@ -169,9 +169,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Styremedlem",
@@ -182,9 +182,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Varamedlem",
@@ -195,9 +195,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Varamedlem",
@@ -208,9 +208,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Varamedlem",
@@ -221,9 +221,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Varamedlem",
@@ -234,9 +234,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: STYR"
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
     {
       "field": "role:Revisor",
@@ -249,9 +249,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: REVI"
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
     },
     {
       "field": "role:Eierkommune",
@@ -264,13 +264,13 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938188963/roller",
-      "retrieved": "2026-09-20T11:55:30Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: EIKM"
+      "note": "Registered role from Enhetsregisteret. Role group: EIKM."
     }
   ],
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T11:55:30Z"
+  "last_updated": "2026-09-20T12:31:04Z"
 }

@@ -1,0 +1,171 @@
+{
+  "orgnr": "937901372",
+  "name": "JASKIC EVENT AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JASKIC EVENT AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "937901372",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-04-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5521",
+        "poststed": "HAUGESUND",
+        "adresse": [
+          "Saltveitvegen 25"
+        ],
+        "kommune": "HAUGESUND",
+        "kommunenummer": "1106"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5501",
+        "poststed": "HAUGESUND",
+        "adresse": [
+          "Postboks 512"
+        ],
+        "kommune": "HAUGESUND",
+        "kommunenummer": "1106"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.390",
+        "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.jaskicevent.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "45 51 09 99",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ammar Jaskic",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372/roller",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ammar Jaskic",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901372/roller",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:31:19Z"
+}

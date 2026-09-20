@@ -6,41 +6,41 @@
       "field": "name",
       "value": "UNGSKOGSHELTENE UNGDOMSBEDRIFT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Official name in Enhetsregisteret."
     },
     {
       "field": "orgnr",
       "value": "938484090",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Norwegian organisation number (MOD11-validated)."
     },
     {
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered legal form (organisasjonsform)."
     },
     {
       "field": "registered_date",
       "value": "2026-09-14",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Date of registration in Enhetsregisteret."
     },
     {
       "field": "founded_date",
       "value": "2026-09-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Founding date as recorded in Enhetsregisteret."
     },
     {
       "field": "business_address",
@@ -57,41 +57,41 @@
         "kommunenummer": "3442"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered business address."
     },
     {
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
     },
     {
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in Foretaksregisteret."
     },
     {
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": ""
+      "note": "Liquidation flag."
     },
     {
       "field": "role:Kontaktperson",
@@ -102,13 +102,13 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938484090/roller",
-      "retrieved": "2026-09-20T11:55:15Z",
+      "retrieved": "2026-09-20T12:31:20Z",
       "confidence": "high",
-      "note": "Role group: KONT"
+      "note": "Registered role from Enhetsregisteret. Role group: KONT."
     }
   ],
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T11:55:15Z"
+  "last_updated": "2026-09-20T12:31:20Z"
 }

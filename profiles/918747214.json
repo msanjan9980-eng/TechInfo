@@ -6,7 +6,7 @@
       "field": "name",
       "value": "GRENSELANDET AS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Official name in Enhetsregisteret."
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "918747214",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Norwegian organisation number (MOD11-validated)."
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Aksjeselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered legal form (organisasjonsform)."
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2017-03-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Date of registration in Enhetsregisteret."
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2017-03-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Founding date as recorded in Enhetsregisteret."
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "5624"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered business address."
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "5624"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered postal address."
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Produksjon av elektrisitet fra vindkraft"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Primary industry code (NACE / SN2007)."
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Whether the company is registered in Foretaksregisteret."
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Liquidation flag."
     },
@@ -126,7 +126,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
     },
@@ -139,7 +139,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214/roller",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered role from Enhetsregisteret. Role group: DAGL."
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214/roller",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214/roller",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered role from Enhetsregisteret. Role group: STYR."
     },
@@ -180,7 +180,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214/roller",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered role from Enhetsregisteret. Role group: REVI."
     },
@@ -195,7 +195,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918747214/roller",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Registered role from Enhetsregisteret. Role group: REGN."
     },
@@ -203,7 +203,7 @@
       "field": "fiscal_year",
       "value": "2025-01-01..2025-12-31",
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Reporting period of the most recent filed annual account. Currency: NOK."
     },
@@ -211,7 +211,7 @@
       "field": "accounting_currency",
       "value": "NOK",
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
     },
@@ -219,7 +219,7 @@
       "field": "financials_filing_count",
       "value": 1,
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
     },
@@ -231,7 +231,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
     },
@@ -243,7 +243,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
     },
@@ -255,7 +255,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
     },
@@ -267,7 +267,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Total assets at end of the fiscal year."
     },
@@ -279,7 +279,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Total equity at end of the fiscal year."
     },
@@ -291,7 +291,7 @@
         "period": "2025-01-01..2025-12-31"
       },
       "source": "https://data.brreg.no/regnskapsregisteret/regnskap/918747214",
-      "retrieved": "2026-09-20T12:18:06Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
       "note": "Total liabilities (current + non-current) at end of the fiscal year."
     }
@@ -300,5 +300,5 @@
     "brreg",
     "regnskapsregisteret"
   ],
-  "last_updated": "2026-09-20T12:18:06Z"
+  "last_updated": "2026-09-20T12:31:04Z"
 }

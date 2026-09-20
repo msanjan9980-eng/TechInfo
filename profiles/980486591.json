@@ -1,78 +1,80 @@
 {
-  "orgnr": "838458432",
-  "name": "SØRNESTUNET GÅRDSUTSALG UNGDOMSBEDRIFT",
+  "orgnr": "980486591",
+  "name": "LARS AABERGE INNGÅR I DØDSBO",
   "facts": [
     {
       "field": "name",
-      "value": "SØRNESTUNET GÅRDSUTSALG UNGDOMSBEDRIFT",
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "value": "LARS AABERGE INNGÅR I DØDSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Official name in Enhetsregisteret."
     },
     {
       "field": "orgnr",
-      "value": "838458432",
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "value": "980486591",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Norwegian organisation number (MOD11-validated)."
     },
     {
       "field": "legal_form",
-      "value": "Annen juridisk person",
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Registered legal form (organisasjonsform)."
     },
     {
       "field": "registered_date",
-      "value": "2026-09-14",
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "value": "1999-02-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Date of registration in Enhetsregisteret."
-    },
-    {
-      "field": "founded_date",
-      "value": "2026-08-25",
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
-      "retrieved": "2026-09-20T12:31:19Z",
-      "confidence": "high",
-      "note": "Founding date as recorded in Enhetsregisteret."
     },
     {
       "field": "business_address",
       "value": {
         "land": "Norge",
         "landkode": "NO",
-        "postnummer": "4012",
-        "poststed": "STAVANGER",
+        "postnummer": "0884",
+        "poststed": "OSLO",
         "adresse": [
-          "Bergeland videregående skole",
-          "Vaisenhusgata 50"
+          "Brekkeveien 4B"
         ],
-        "kommune": "STAVANGER",
-        "kommunenummer": "1103"
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
       },
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Registered business address."
     },
     {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.221",
+        "beskrivelse": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
       "field": "vat_registered",
       "value": false,
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
     },
     {
       "field": "foretaksregisteret",
-      "value": false,
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Whether the company is registered in Foretaksregisteret."
@@ -80,7 +82,7 @@
     {
       "field": "bankrupt",
       "value": false,
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
@@ -88,23 +90,31 @@
     {
       "field": "under_liquidation",
       "value": false,
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
       "note": "Liquidation flag."
     },
     {
-      "field": "role:Kontaktperson",
+      "field": "phone",
+      "value": "90 52 04 03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591",
+      "retrieved": "2026-09-20T12:31:19Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
       "value": {
-        "name": "Espen Grindalen",
+        "name": "Lars Aaberge",
         "orgnr": null,
         "since": null,
         "until": null
       },
-      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838458432/roller",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980486591/roller",
       "retrieved": "2026-09-20T12:31:19Z",
       "confidence": "high",
-      "note": "Registered role from Enhetsregisteret. Role group: KONT."
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
     }
   ],
   "sources_used": [

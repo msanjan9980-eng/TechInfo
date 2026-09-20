@@ -6,33 +6,33 @@
       "field": "name",
       "value": "FREDRIKKE LYNUM PSYKOLOG",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Official name in Enhetsregisteret."
     },
     {
       "field": "orgnr",
       "value": "978710794",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Norwegian organisation number (MOD11-validated)."
     },
     {
       "field": "legal_form",
       "value": "Enkeltpersonforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered legal form (organisasjonsform)."
     },
     {
       "field": "registered_date",
       "value": "1997-07-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Date of registration in Enhetsregisteret."
     },
     {
       "field": "business_address",
@@ -48,9 +48,9 @@
         "kommunenummer": "5001"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Registered business address."
     },
     {
       "field": "nace_code",
@@ -59,65 +59,65 @@
         "beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Primary industry code (NACE / SN2007)."
     },
     {
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
     },
     {
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Whether the company is registered in Foretaksregisteret."
     },
     {
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": ""
+      "note": "Liquidation flag."
     },
     {
       "field": "email",
       "value": "f.lynum@online.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "medium",
-      "note": ""
+      "note": "Email as self-reported to Enhetsregisteret."
     },
     {
       "field": "phone",
       "value": "63 95 18 80",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "medium",
-      "note": ""
+      "note": "Phone as self-reported to Enhetsregisteret."
     },
     {
       "field": "mobile",
       "value": "91318133",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "medium",
-      "note": ""
+      "note": "Mobile as self-reported to Enhetsregisteret."
     },
     {
       "field": "role:Innehaver",
@@ -128,9 +128,9 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794/roller",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: INNH"
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
     },
     {
       "field": "role:Regnskapsfører",
@@ -143,13 +143,13 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978710794/roller",
-      "retrieved": "2026-09-20T11:54:28Z",
+      "retrieved": "2026-09-20T12:31:04Z",
       "confidence": "high",
-      "note": "Role group: REGN"
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
     }
   ],
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T11:54:28Z"
+  "last_updated": "2026-09-20T12:31:04Z"
 }

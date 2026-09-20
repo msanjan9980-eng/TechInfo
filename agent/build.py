@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 from tqdm.asyncio import tqdm_asyncio
 
-from . import cache
+from . import cache, roles_cache
 from .brreg_client import (
     fetch_company,
     fetch_financials,
@@ -52,11 +52,17 @@ async def build_one(
     if company is None:
         print(f"[miss] {orgnr} not found in Enhetsregisteret", file=sys.stderr)
         return False
-    try:
-        roles = await fetch_roles(orgnr, client)
-    except Exception as e:
-        print(f"[err-roles] {orgnr}: {e}", file=sys.stderr)
-        roles = []
+    if use_cache:
+        roles = roles_cache.load(orgnr)
+    else:
+        roles = None
+    if roles is None:
+        try:
+            roles = await fetch_roles(orgnr, client)
+        except Exception as e:
+            print(f"[err-roles] {orgnr}: {e}", file=sys.stderr)
+            roles = []
+        roles_cache.save(orgnr, roles)
     financials = await get_financials_cached(orgnr, client, use_cache=use_cache)
     profile = assemble_profile(company, roles, financials=financials)
     out_path = out_dir / f"{orgnr}.json"
