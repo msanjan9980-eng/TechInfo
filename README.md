@@ -38,10 +38,13 @@ No LLM used. No paid APIs used. No external dependencies outside Brreg.
 
 ## Profile counts
 
-- **Seeded profiles:** 1,200 companies (1,000 annual-account filers + 200 non-filers)
-- **Tracked profiles total:** ~2,400 companies (includes delta-refresh additions)
-- **Average facts per profile:** ~21
-- **~80% of profiles include financial statements** from Regnskapsregisteret
+- **Seeded profiles:** 1,200 companies (1,000 annual-account filers + 200 non-filers).
+  Of these, ~80% file annual accounts and therefore carry full financial statements.
+- **Tracked profiles total:** ~2,400 companies (seed + delta-refresh additions).
+- **Average facts per profile:** ~21.
+- **With financials (tracked total):** 779 of 2,405 (32.4%). The lower ratio reflects
+  the ~1,200 extra tracked companies, most of which are newly-registered or
+  small sole proprietorships that do not file annual accounts.
 
 ## Output format
 
@@ -93,3 +96,4 @@ Verified working: 3 tracked companies refreshed for --days 7, 8 for --days 30.
 - Python 3.11+ (tested on 3.14)
 - Windows PowerShell
 - ~500 MB disk for the bulk dump (optional; deleted after seed extraction)
+

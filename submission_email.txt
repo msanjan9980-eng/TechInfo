@@ -1,0 +1,48 @@
+﻿To: submit@builderr.ai
+Subject: Signalpost Submission - https://github.com/msanjan9980-eng/TechInfo - 957696dc3d1376a50b1cbca976fca73fb6f90bcf
+
+Repository: https://github.com/msanjan9980-eng/TechInfo
+Commit: 957696dc3d1376a50b1cbca976fca73fb6f90bcf
+Run command: .\run.ps1
+
+Profiles: 2405 tracked company profiles (>=1,000 required)
+Facts total: 50518
+Avg facts/profile: ~21
+Profiles with financial statements: 779 (32.4%)
+
+Sources:
+  - Enhetsregisteret open API (data.brreg.no/enhetsregisteret/api) - free, keyless
+  - Regnskapsregisteret API (data.brreg.no/regnskapsregisteret/regnskap) - free, keyless
+
+Model/API details:
+  - No LLM used. No paid APIs used.
+  - All facts derived from official Norwegian government registers.
+  - MOD11 checksum validation before every fetch.
+  - Roles and financials cached on disk (7-14 day TTL).
+
+Update mechanism:
+  - python -m agent.refresh --days 1
+  - Uses the official Brreg delta endpoint /oppdateringer/enheter.
+  - Verified working: 3 tracked companies refreshed for --days 7, 8 for --days 30.
+  - Daily wrapper: .\refresh_daily.ps1 (logs to logs/refresh_YYYYMMDD.log).
+
+On-demand lookup:
+  - python -m agent.lookup <orgnr> --summary
+  - Handles any Norwegian orgnr, not just seeded ones.
+
+Machine-readable validation:
+  - python tests/validate_profiles.py
+  - Writes validation_report.json: {"profiles": N, "failures": 0, ...}
+
+Coverage index:
+  - PROFILES.md lists every tracked profile with its fact count and
+    whether it has financial statements.
+
+Expected run cost: 0 USD (all sources free and keyless).
+
+Notes:
+  - 1,200 seeded profiles; ~2405 tracked in total after delta refreshes.
+  - Full rebuild from cache: ~45 seconds.
+  - tests/validate_profiles.py reports 0 failures.
+  - Every fact has field, value, source URL, retrieved date, confidence, note.
+
