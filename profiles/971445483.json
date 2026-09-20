@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LEGEKONTORENE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971445483",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "1103"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Allmennlegetjenester"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "phone",
       "value": "51895658",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "medium",
       "note": ""
     },
@@ -112,7 +112,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971445483/roller",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:02Z",
       "confidence": "high",
       "note": "Role group: KONT"
     }
@@ -120,5 +120,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:48Z"
+  "last_updated": "2026-09-20T11:55:02Z"
 }

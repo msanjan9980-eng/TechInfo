@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NIELSEN BERGEN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "980946592",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Enkeltpersonforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1999-09-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4601"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "phone",
       "value": "55 12 13 23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "medium",
       "note": ""
     },
@@ -112,7 +112,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980946592/roller",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: INNH"
     }
@@ -120,5 +120,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:42Z"
+  "last_updated": "2026-09-20T11:55:07Z"
 }

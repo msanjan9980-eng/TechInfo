@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FRODE FAUCHALD",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "920053610",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Enkeltpersonforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2017-12-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "3442"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -70,7 +70,7 @@
         "beskrivelse": "Sauehold"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -78,7 +78,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920053610/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: INNH"
     }
@@ -123,5 +123,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:33Z"
+  "last_updated": "2026-09-20T11:54:44Z"
 }

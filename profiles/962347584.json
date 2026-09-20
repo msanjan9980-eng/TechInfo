@@ -6,7 +6,7 @@
       "field": "name",
       "value": "BRAKAMOEN BARNEHAGE SA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "962347584",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Samvirkeforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1991-06-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1135"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Førskoleundervisning og drift av barnehager"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 24,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "website",
       "value": "brakamoen-barnehage.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "email",
       "value": "tanja.haheimsnes@brakamoen-barnehage.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "medium",
       "note": ""
     },
@@ -131,7 +131,7 @@
       "field": "mobile",
       "value": "402 40 581",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "medium",
       "note": ""
     },
@@ -139,7 +139,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -178,7 +178,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -191,7 +191,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -204,7 +204,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -217,7 +217,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -230,7 +230,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -243,7 +243,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -256,7 +256,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -269,7 +269,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -284,7 +284,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/962347584/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -292,5 +292,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:43Z"
+  "last_updated": "2026-09-20T11:54:55Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SCAPA BALTIC",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "916769199",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2016-06-28",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -45,7 +45,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
         "kommunenummer": "1101"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "beskrivelse": "Uoppgitt"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "else.iversen@iversen-revisjon.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199/roller",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916769199/roller",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:51Z"
+  "last_updated": "2026-09-20T11:55:05Z"
 }

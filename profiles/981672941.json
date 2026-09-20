@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FORLAGET SUND & RASK APS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "981672941",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2000-03-14",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -49,7 +49,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -60,7 +60,7 @@
         "beskrivelse": "Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "phone",
       "value": "22 20 44 00",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: REPR"
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:19Z"
+  "last_updated": "2026-09-20T11:54:31Z"
 }

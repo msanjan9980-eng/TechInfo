@@ -6,7 +6,7 @@
       "field": "name",
       "value": "PRODAN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "936901662",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2026-01-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -45,7 +45,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "info@nordicdc.dk",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662/roller",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936901662/roller",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:06Z"
+  "last_updated": "2026-09-20T11:55:22Z"
 }

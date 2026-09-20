@@ -6,7 +6,7 @@
       "field": "name",
       "value": "AURLAND HAMNEVESEN KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "980564355",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1999-03-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1998-11-05",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4641"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Andre tjenester tilknyttet sjøtransport"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 40,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "website",
       "value": "www.flamport.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "email",
       "value": "post@aurlandhavn.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "medium",
       "note": ""
     },
@@ -131,7 +131,7 @@
       "field": "phone",
       "value": "97 62 73 82",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "medium",
       "note": ""
     },
@@ -139,7 +139,7 @@
       "field": "mobile",
       "value": "90112942",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "medium",
       "note": ""
     },
@@ -147,7 +147,7 @@
       "field": "last_annual_account",
       "value": "2001",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -160,7 +160,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -186,7 +186,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -199,7 +199,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -212,7 +212,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -225,7 +225,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -238,7 +238,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -251,7 +251,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -264,7 +264,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -277,7 +277,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -290,7 +290,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -306,7 +306,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -321,7 +321,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -336,7 +336,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980564355/roller",
-      "retrieved": "2026-09-20T10:14:56Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": "Role group: EIKM"
     }
@@ -344,5 +344,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:56Z"
+  "last_updated": "2026-09-20T11:55:09Z"
 }

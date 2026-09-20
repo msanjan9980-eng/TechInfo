@@ -6,7 +6,7 @@
       "field": "name",
       "value": "GAVESTUA ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "947957929",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1988-05-02",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "1579"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Uoppgitt"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -123,7 +123,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
-      "retrieved": "2026-09-20T10:14:38Z",
+      "retrieved": "2026-09-20T11:54:51Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -144,5 +144,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:38Z"
+  "last_updated": "2026-09-20T11:54:51Z"
 }

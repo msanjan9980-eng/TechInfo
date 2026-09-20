@@ -6,7 +6,7 @@
       "field": "name",
       "value": "BACALHAU BR ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "894238402",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2009-07-02",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2009-05-25",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "5605"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Engroshandel med fisk, skalldyr og bløtdyr"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": ""
     },
@@ -105,7 +105,7 @@
       "field": "website",
       "value": "www.bacalhaubr.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "medium",
       "note": ""
     },
@@ -113,7 +113,7 @@
       "field": "phone",
       "value": "78 99 20 21",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "medium",
       "note": ""
     },
@@ -121,7 +121,7 @@
       "field": "mobile",
       "value": "41848169",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402/roller",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402/roller",
-      "retrieved": "2026-09-20T10:14:54Z",
+      "retrieved": "2026-09-20T11:55:06Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -155,5 +155,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:54Z"
+  "last_updated": "2026-09-20T11:55:06Z"
 }

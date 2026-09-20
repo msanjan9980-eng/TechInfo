@@ -6,7 +6,7 @@
       "field": "name",
       "value": "BRØNNØY KOMMUNALE KINO",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "974790882",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Organisasjonsledd",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-06-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1974-01-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1813"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
         "kommunenummer": "1813"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
         "beskrivelse": "Filmfremvisning"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882/roller",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882/roller",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:54:26Z",
       "confidence": "high",
       "note": "Role group: ORGL"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:25Z"
+  "last_updated": "2026-09-20T11:54:26Z"
 }

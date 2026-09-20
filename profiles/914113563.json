@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LUNDAMO SPORTSSKYTTERKLUBB",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "914113563",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Forening/lag/innretning",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2014-09-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1932-10-29",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "5028"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "5028"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Aktiviteter i idrettslag og -klubber"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "email",
       "value": "geirtorem@hotmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "mobile",
       "value": "992 17 223",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "medium",
       "note": ""
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -160,7 +160,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -186,7 +186,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -199,7 +199,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914113563/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -207,5 +207,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:19Z"
+  "last_updated": "2026-09-20T11:55:37Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ARKIVSENTER SØR IKS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971531673",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Interkommunalt selskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2003-02-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4204"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Drift av arkiver"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 10,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "website",
       "value": "www.arkivsentersor.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "email",
       "value": "post@arkivsentersor.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "medium",
       "note": ""
     },
@@ -131,7 +131,7 @@
       "field": "mobile",
       "value": "47790543",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "medium",
       "note": ""
     },
@@ -139,7 +139,7 @@
       "field": "last_annual_account",
       "value": "2005",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -167,7 +167,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -182,7 +182,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -197,7 +197,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -212,7 +212,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -227,7 +227,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -242,7 +242,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -257,7 +257,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -272,7 +272,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -287,7 +287,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -302,7 +302,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -317,7 +317,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -330,7 +330,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -343,7 +343,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -356,7 +356,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -369,7 +369,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -382,7 +382,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -395,7 +395,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -408,7 +408,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -421,7 +421,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -436,7 +436,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971531673/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:59Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -444,5 +444,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:46Z"
+  "last_updated": "2026-09-20T11:54:59Z"
 }

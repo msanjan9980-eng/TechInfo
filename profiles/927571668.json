@@ -6,7 +6,7 @@
       "field": "name",
       "value": "HDS KJØKKEN OG KANTINEDRIFT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "927571668",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2021-08-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2021-08-19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4601"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -80,7 +80,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -88,7 +88,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -116,7 +116,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927571668/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: OPMV"
     }
@@ -124,5 +124,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:23Z"
+  "last_updated": "2026-09-20T11:55:40Z"
 }

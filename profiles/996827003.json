@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SAMEIET KNAUSEN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "996827003",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Tingsrettslig sameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2011-04-30",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1973-04-05",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4014"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "tom.collett@online.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "mobile",
       "value": "419 15 001",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996827003/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": "Role group: KONT"
     }
@@ -144,5 +144,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:03Z"
+  "last_updated": "2026-09-20T11:55:18Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SWHISKY UNGDOMSBEDRIFT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "937416482",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2026-05-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2026-02-26",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "4202"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937416482/roller",
-      "retrieved": "2026-09-20T10:15:12Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: KONT"
     }
@@ -110,5 +110,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:12Z"
+  "last_updated": "2026-09-20T11:55:29Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FØRDE IDRETTSLAG HANDBALL",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "997569520",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2011-11-08",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4647"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -66,7 +66,7 @@
         "kommunenummer": "4647"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -77,7 +77,7 @@
         "beskrivelse": "Aktiviteter i idrettslag og -klubber"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "email",
       "value": "eva.moberg@sfj.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "medium",
       "note": ""
     },
@@ -130,7 +130,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -156,7 +156,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -169,7 +169,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -182,7 +182,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -195,7 +195,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -208,7 +208,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997569520/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:14Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -216,5 +216,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:59Z"
+  "last_updated": "2026-09-20T11:55:14Z"
 }

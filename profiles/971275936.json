@@ -6,7 +6,7 @@
       "field": "name",
       "value": "MONDELEZ NORGE PENSJONSKASSE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971275936",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Pensjonskasse",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1989-01-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "3201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Pensjonskasser"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "phone",
       "value": "22 04 40 22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -160,7 +160,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -186,7 +186,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -199,7 +199,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -212,7 +212,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -225,7 +225,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -238,7 +238,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -251,7 +251,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -264,7 +264,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -277,7 +277,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -292,7 +292,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -307,7 +307,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971275936/roller",
-      "retrieved": "2026-09-20T10:15:23Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -315,5 +315,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:23Z"
+  "last_updated": "2026-09-20T11:55:39Z"
 }

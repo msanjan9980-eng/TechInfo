@@ -6,7 +6,7 @@
       "field": "name",
       "value": "MELÅSBERGET SAG ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "876431122",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1996-05-14",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1996-05-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "3420"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Saging og høvling av tre"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -105,7 +105,7 @@
       "field": "phone",
       "value": "90 01 86 15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "medium",
       "note": ""
     },
@@ -118,7 +118,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122/roller",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -131,7 +131,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122/roller",
-      "retrieved": "2026-09-20T10:14:48Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -139,5 +139,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:48Z"
+  "last_updated": "2026-09-20T11:55:00Z"
 }

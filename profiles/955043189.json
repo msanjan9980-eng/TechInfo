@@ -6,7 +6,7 @@
       "field": "name",
       "value": "EIGERSUND OG OGNA GJENSIDIGE FISKEFARTØYASSURANSE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "955043189",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Gjensidig forsikringsselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1931-01-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1101"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Skadeforsikring"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "website",
       "value": "www.sorlandsringen.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "jan.inge.skaatoy@dabb.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "mobile",
       "value": "92832102",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "medium",
       "note": ""
     },
@@ -131,7 +131,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -144,7 +144,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -157,7 +157,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -170,7 +170,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -183,7 +183,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -196,7 +196,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -209,7 +209,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -222,7 +222,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -235,7 +235,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -248,7 +248,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -264,7 +264,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955043189/roller",
-      "retrieved": "2026-09-20T10:15:11Z",
+      "retrieved": "2026-09-20T11:55:29Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -272,5 +272,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:11Z"
+  "last_updated": "2026-09-20T11:55:29Z"
 }

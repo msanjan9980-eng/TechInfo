@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SCHNEIDER ELECTRIC INDIA PRIVATE LIMITED NUF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "934995805",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2025-03-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -46,7 +46,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "beskrivelse": "Annen teknisk konsulentvirksomhet"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -118,7 +118,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:37Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -126,5 +126,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:20Z"
+  "last_updated": "2026-09-20T11:55:37Z"
 }

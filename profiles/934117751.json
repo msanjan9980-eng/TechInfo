@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VERDIPAPIRFONDET HEIMDAL HØYRENTE PLUSS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "934117751",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Verdipapirfond",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2024-09-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2024-09-10",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1103"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Verdipapirfond"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "website",
       "value": "www.heimdalfondene.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -130,7 +130,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: FFØR"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -158,7 +158,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934117751/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -181,5 +181,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:23Z"
+  "last_updated": "2026-09-20T11:54:35Z"
 }

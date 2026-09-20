@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VISIT EIDFJORD KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "931381008",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2023-10-05",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2022-12-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4619"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Andre tjenester tilknyttet sjøtransport"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 34,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "postmottak@eidfjord.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "mobile",
       "value": "95231697",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -201,7 +201,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -214,7 +214,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -227,7 +227,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -242,7 +242,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -257,7 +257,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -272,7 +272,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931381008/roller",
-      "retrieved": "2026-09-20T10:15:15Z",
+      "retrieved": "2026-09-20T11:55:31Z",
       "confidence": "high",
       "note": "Role group: EIKM"
     }
@@ -280,5 +280,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:15Z"
+  "last_updated": "2026-09-20T11:55:31Z"
 }

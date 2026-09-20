@@ -6,7 +6,7 @@
       "field": "name",
       "value": "HEDALEN SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "976989384",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-01-27",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "3449"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -66,7 +66,7 @@
         "kommunenummer": "3449"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -77,7 +77,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "website",
       "value": "www.kirken.no/sor-aurdal",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "medium",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "email",
       "value": "post.sor-aurdal@kirken.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "medium",
       "note": ""
     },
@@ -133,7 +133,7 @@
       "field": "phone",
       "value": "61 34 85 80",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "medium",
       "note": ""
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -159,7 +159,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -172,7 +172,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -185,7 +185,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -200,7 +200,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -215,7 +215,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976989384/roller",
-      "retrieved": "2026-09-20T10:15:01Z",
+      "retrieved": "2026-09-20T11:55:16Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -223,5 +223,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:01Z"
+  "last_updated": "2026-09-20T11:55:16Z"
 }

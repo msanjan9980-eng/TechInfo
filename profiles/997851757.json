@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NOTODDEN INTERKOMMUNALE LEGEVAKT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "997851757",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Organisasjonsledd",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2012-01-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4005"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -66,7 +66,7 @@
         "kommunenummer": "4005"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -77,7 +77,7 @@
         "beskrivelse": "Allmennlegetjenester"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
       "field": "employees",
       "value": 68,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -93,7 +93,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "email",
       "value": "per.sturla.waernes@notodden.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "medium",
       "note": ""
     },
@@ -133,7 +133,7 @@
       "field": "phone",
       "value": "81 56 80 94",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "medium",
       "note": ""
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757/roller",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -161,7 +161,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757/roller",
-      "retrieved": "2026-09-20T10:15:10Z",
+      "retrieved": "2026-09-20T11:55:26Z",
       "confidence": "high",
       "note": "Role group: ORGL"
     }
@@ -169,5 +169,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:10Z"
+  "last_updated": "2026-09-20T11:55:26Z"
 }

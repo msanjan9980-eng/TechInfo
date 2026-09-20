@@ -6,7 +6,7 @@
       "field": "name",
       "value": "AMNOR BERGEN KS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "994787381",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommandittselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2009-11-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2009-11-04",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1516"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -74,7 +74,7 @@
         "kommunenummer": "1516"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
         "beskrivelse": "Forsyning for offshore"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -140,7 +140,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: KOMP"
     },
@@ -153,7 +153,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -166,7 +166,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -179,7 +179,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -192,7 +192,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -207,7 +207,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -222,7 +222,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:41Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -230,5 +230,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:29Z"
+  "last_updated": "2026-09-20T11:54:41Z"
 }

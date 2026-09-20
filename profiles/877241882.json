@@ -6,7 +6,7 @@
       "field": "name",
       "value": "AR SKOG & TRE ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "877241882",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-02-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1997-01-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "3416"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Engroshandel med maskiner og utstyr til jordbruk og skogbruk"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "phone",
       "value": "62 83 61 09",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "medium",
       "note": ""
     },
@@ -120,7 +120,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -133,7 +133,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
-      "retrieved": "2026-09-20T10:14:42Z",
+      "retrieved": "2026-09-20T11:54:55Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -154,5 +154,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:42Z"
+  "last_updated": "2026-09-20T11:54:55Z"
 }

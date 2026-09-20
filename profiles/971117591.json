@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FORKYNN ORDET STIFTELSE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971117591",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Stiftelse",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1969-10-21",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "4215"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": ""
     },
@@ -108,7 +108,7 @@
       "field": "phone",
       "value": "38 09 49 77",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "medium",
       "note": ""
     },
@@ -116,7 +116,7 @@
       "field": "mobile",
       "value": "91552991",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "medium",
       "note": ""
     },
@@ -124,7 +124,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -137,7 +137,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -150,7 +150,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -163,7 +163,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -176,7 +176,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -189,7 +189,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -204,7 +204,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -219,7 +219,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -235,7 +235,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
-      "retrieved": "2026-09-20T10:15:17Z",
+      "retrieved": "2026-09-20T11:55:34Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -243,5 +243,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:17Z"
+  "last_updated": "2026-09-20T11:55:34Z"
 }

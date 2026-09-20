@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VESTFOLD FYLKESKOMMUNE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "929882385",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Fylkeskommune",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2022-09-21",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "3905"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "kommunenummer": "3905"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -79,7 +79,7 @@
         "beskrivelse": "Generell offentlig administrasjon"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -87,7 +87,7 @@
       "field": "employees",
       "value": 2921,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -95,7 +95,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -103,7 +103,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -111,7 +111,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -119,7 +119,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -132,7 +132,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385/roller",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929882385/roller",
-      "retrieved": "2026-09-20T10:14:26Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -155,5 +155,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:26Z"
+  "last_updated": "2026-09-20T11:54:37Z"
 }

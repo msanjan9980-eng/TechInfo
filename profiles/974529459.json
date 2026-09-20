@@ -6,7 +6,7 @@
       "field": "name",
       "value": "OTELLO CORPORATION ASA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "974529459",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Allmennaksjeselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-06-27",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1995-06-22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -87,7 +87,7 @@
         "beskrivelse": "Utgivelse av annen programvare"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -95,7 +95,7 @@
       "field": "employees",
       "value": 5,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -103,7 +103,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -111,7 +111,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -119,7 +119,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -127,7 +127,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": ""
     },
@@ -135,7 +135,7 @@
       "field": "website",
       "value": "www.otellocorp.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "medium",
       "note": ""
     },
@@ -143,7 +143,7 @@
       "field": "email",
       "value": "petterl@otellocorp.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "medium",
       "note": ""
     },
@@ -151,7 +151,7 @@
       "field": "mobile",
       "value": "004791909145",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "medium",
       "note": ""
     },
@@ -159,7 +159,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -172,7 +172,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -185,7 +185,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -198,7 +198,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -211,7 +211,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -226,7 +226,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -241,7 +241,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974529459/roller",
-      "retrieved": "2026-09-20T10:14:25Z",
+      "retrieved": "2026-09-20T11:54:37Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -249,5 +249,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:25Z"
+  "last_updated": "2026-09-20T11:54:37Z"
 }

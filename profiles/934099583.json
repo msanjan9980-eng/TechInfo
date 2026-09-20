@@ -6,7 +6,7 @@
       "field": "name",
       "value": "TIGERSTADEN 2 BRL",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "934099583",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Borettslag",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2024-09-16",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2024-08-08",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Aktiviteter i borettslag og boligsameier"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -120,7 +120,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -133,7 +133,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -161,7 +161,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934099583/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:32Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -169,5 +169,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:16Z"
+  "last_updated": "2026-09-20T11:55:32Z"
 }

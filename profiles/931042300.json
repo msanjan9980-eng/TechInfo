@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ITASCA CONSULTANTS AB",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "931042300",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2023-03-16",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -45,7 +45,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -80,7 +80,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -88,7 +88,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": ""
     },
@@ -103,7 +103,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931042300/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:24Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -111,5 +111,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:07Z"
+  "last_updated": "2026-09-20T11:55:24Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NARVIK SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971576715",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-08-09",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "1806"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "website",
       "value": "kirken.no/narvik",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "medium",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "post.narvik@kirken.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "phone",
       "value": "91 75 78 11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "mobile",
       "value": "481 00 399",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -201,7 +201,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -214,7 +214,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -227,7 +227,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -240,7 +240,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -253,7 +253,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -268,7 +268,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -283,7 +283,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
-      "retrieved": "2026-09-20T10:14:53Z",
+      "retrieved": "2026-09-20T11:55:07Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -291,5 +291,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:53Z"
+  "last_updated": "2026-09-20T11:55:07Z"
 }

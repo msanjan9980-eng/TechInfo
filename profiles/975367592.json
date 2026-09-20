@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SVARTÅVEGEN SAMEIE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "975367592",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Tingsrettslig sameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-10-10",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1957-12-31",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "3439"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
         "kommunenummer": "3439"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "phone",
       "value": "61 28 40 19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
-      "retrieved": "2026-09-20T10:15:00Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -196,5 +196,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:00Z"
+  "last_updated": "2026-09-20T11:55:15Z"
 }

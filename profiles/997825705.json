@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SMØLA NÆRINGS- OG KULTURSENTER KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "997825705",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2012-01-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2011-12-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1573"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -74,7 +74,7 @@
         "kommunenummer": "1573"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
         "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -96,7 +96,7 @@
         "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -104,7 +104,7 @@
       "field": "employees",
       "value": 11,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -112,7 +112,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -120,7 +120,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -128,7 +128,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -136,7 +136,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -144,7 +144,7 @@
       "field": "website",
       "value": "www.smolakommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -152,7 +152,7 @@
       "field": "email",
       "value": "postmottak@smola.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -160,7 +160,7 @@
       "field": "phone",
       "value": "71 54 46 00",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -168,7 +168,7 @@
       "field": "mobile",
       "value": "97103906",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -194,7 +194,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -207,7 +207,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -220,7 +220,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -233,7 +233,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -246,7 +246,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -259,7 +259,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -272,7 +272,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -285,7 +285,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -298,7 +298,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -313,7 +313,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -328,7 +328,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
-      "retrieved": "2026-09-20T10:14:37Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: EIKM"
     }
@@ -336,5 +336,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:37Z"
+  "last_updated": "2026-09-20T11:54:48Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LØVOLD ALSI",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "828055372",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Enkeltpersonforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2021-11-03",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "1508"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Tjenester tilknyttet skogbruk"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": ""
     },
@@ -104,7 +104,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372/roller",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": "Role group: INNH"
     },
@@ -117,7 +117,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372/roller",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:17Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     }
@@ -125,5 +125,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:02Z"
+  "last_updated": "2026-09-20T11:55:17Z"
 }

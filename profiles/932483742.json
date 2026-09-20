@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VERDIPAPIRFONDET DNB GRØNT SKIFTE 50",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "932483742",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Verdipapirfond",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2023-11-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2023-11-06",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -74,7 +74,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
         "beskrivelse": "Verdipapirfond"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -140,7 +140,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Role group: FFØR"
     },
@@ -153,7 +153,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932483742/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -176,5 +176,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:52Z"
+  "last_updated": "2026-09-20T11:55:04Z"
 }

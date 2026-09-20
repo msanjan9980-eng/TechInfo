@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SUNNHORDLAND INTERKOMMUNALE LEGEVAKT IKS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "812998552",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Interkommunalt selskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2014-01-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2013-10-17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4614"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "4614"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Allmennlegetjenester"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "employees",
       "value": 107,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -102,7 +102,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "website",
       "value": "www.stord.kommune.no/sunnhordland-interkommunalelegevakt.iks",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "email",
       "value": "post@sunnhordland-legevakt.nhn.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -150,7 +150,7 @@
       "field": "phone",
       "value": "53 45 61 40",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -163,7 +163,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -178,7 +178,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -193,7 +193,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -208,7 +208,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -221,7 +221,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -234,7 +234,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -247,7 +247,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -260,7 +260,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -273,7 +273,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -286,7 +286,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -299,7 +299,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -312,7 +312,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -325,7 +325,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -338,7 +338,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -351,7 +351,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -366,7 +366,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -374,5 +374,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:23Z"
+  "last_updated": "2026-09-20T11:54:35Z"
 }

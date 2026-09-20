@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VERDIPAPIRFONDET STOREBRAND GLOBAL INDEKS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "989133241",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Verdipapirfond",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2005-12-19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2005-12-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "3201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "3201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Verdipapirfond"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "website",
       "value": "www.storebrand.no/fond",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "email",
       "value": "v1c@storebrand.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "phone",
       "value": "22 31 50 50",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "medium",
       "note": ""
     },
@@ -150,7 +150,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: FFØR"
     },
@@ -178,7 +178,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -193,7 +193,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989133241/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -201,5 +201,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:20Z"
+  "last_updated": "2026-09-20T11:55:38Z"
 }

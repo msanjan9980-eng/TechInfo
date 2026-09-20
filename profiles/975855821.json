@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NORHATT BYGG ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "975855821",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-11-07",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1995-10-30",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1130"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Snekkerarbeid"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": ""
     },
@@ -112,7 +112,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -125,7 +125,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975855821/roller",
-      "retrieved": "2026-09-20T10:15:19Z",
+      "retrieved": "2026-09-20T11:54:32Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -133,5 +133,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:19Z"
+  "last_updated": "2026-09-20T11:54:32Z"
 }

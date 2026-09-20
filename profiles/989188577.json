@@ -6,7 +6,7 @@
       "field": "name",
       "value": "PARTREDERI KAI OVE DA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "989188577",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Partrederi",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2006-01-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2005-11-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1804"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Fiske og fangst i sjø"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "phone",
       "value": "90 99 02 59",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "mobile",
       "value": "909 90 259",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577/roller",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: BEST"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577/roller",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989188577/roller",
-      "retrieved": "2026-09-20T10:14:31Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -170,5 +170,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:31Z"
+  "last_updated": "2026-09-20T11:54:43Z"
 }

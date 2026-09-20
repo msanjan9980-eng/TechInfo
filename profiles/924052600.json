@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SAMEIET SOLØY GRUNNEIERLAG",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "924052600",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Tingsrettslig sameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2019-12-10",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1990-06-06",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "5518"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -80,7 +80,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -88,7 +88,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": ""
     },
@@ -96,7 +96,7 @@
       "field": "email",
       "value": "stianj@live.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "medium",
       "note": ""
     },
@@ -104,7 +104,7 @@
       "field": "mobile",
       "value": "977 86 209",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "medium",
       "note": ""
     },
@@ -117,7 +117,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600/roller",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -130,7 +130,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600/roller",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600/roller",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -156,7 +156,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600/roller",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -169,7 +169,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924052600/roller",
-      "retrieved": "2026-09-20T10:14:34Z",
+      "retrieved": "2026-09-20T11:54:45Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -177,5 +177,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:34Z"
+  "last_updated": "2026-09-20T11:54:45Z"
 }

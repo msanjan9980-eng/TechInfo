@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ØYESTØL BEITELAG",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "970571574",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Selskap med begrenset ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1974-12-31",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "1114"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Tjenester tilknyttet husdyrhold"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": ""
     },
@@ -113,7 +113,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574/roller",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -126,7 +126,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574/roller",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -139,7 +139,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970571574/roller",
-      "retrieved": "2026-09-20T10:15:06Z",
+      "retrieved": "2026-09-20T11:55:22Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -147,5 +147,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:06Z"
+  "last_updated": "2026-09-20T11:55:22Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LØNSET BARNEHAGE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "971453303",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Forening/lag/innretning",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1979-03-14",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "5021"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Førskoleundervisning og drift av barnehager"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": ""
     },
@@ -105,7 +105,7 @@
       "field": "email",
       "value": "lonsetb@oppdal.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "medium",
       "note": ""
     },
@@ -113,7 +113,7 @@
       "field": "phone",
       "value": "72 42 43 80",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "medium",
       "note": ""
     },
@@ -121,7 +121,7 @@
       "field": "mobile",
       "value": "91376332",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: FFØR"
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -160,7 +160,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -186,7 +186,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -199,7 +199,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -212,7 +212,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453303/roller",
-      "retrieved": "2026-09-20T10:14:59Z",
+      "retrieved": "2026-09-20T11:55:15Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -220,5 +220,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:59Z"
+  "last_updated": "2026-09-20T11:55:15Z"
 }

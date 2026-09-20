@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SAMEIET SVARTSKARDVEGEN 288",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "921541953",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Eierseksjonssameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2018-11-16",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2017-12-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "3439"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Aktiviteter i borettslag og boligsameier"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "jorgenvont@gmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "mobile",
       "value": "916 18 858",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953/roller",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -141,7 +141,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953/roller",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -154,7 +154,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953/roller",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -167,7 +167,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953/roller",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -182,7 +182,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921541953/roller",
-      "retrieved": "2026-09-20T10:14:41Z",
+      "retrieved": "2026-09-20T11:54:52Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -190,5 +190,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:41Z"
+  "last_updated": "2026-09-20T11:54:52Z"
 }

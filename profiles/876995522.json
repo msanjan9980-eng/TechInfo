@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LINDÅS SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "876995522",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-01-27",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4631"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "website",
       "value": "kyrkja.no/lindas",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "post.lindas@kyrkja.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "phone",
       "value": "40 00 16 91",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -141,7 +141,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -154,7 +154,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -167,7 +167,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -180,7 +180,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -193,7 +193,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -206,7 +206,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -219,7 +219,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -232,7 +232,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -247,7 +247,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -262,7 +262,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -277,7 +277,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876995522/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -285,5 +285,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:33Z"
+  "last_updated": "2026-09-20T11:54:43Z"
 }

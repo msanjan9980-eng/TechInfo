@@ -6,7 +6,7 @@
       "field": "name",
       "value": "HÅKON SIMONSEN OG KNUT FRØYSAA HAGESERVICE ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "979816472",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med solidarisk ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1998-08-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1998-05-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4223"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Beplantning av hager og parkanlegg"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "phone",
       "value": "90 54 93 97",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -120,7 +120,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -133,7 +133,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
-      "retrieved": "2026-09-20T10:15:25Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -154,5 +154,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:25Z"
+  "last_updated": "2026-09-20T11:55:43Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "KARCZUNKOWSKA PARK SP Z O O",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "991710744",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Utenlandsk enhet",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2007-09-17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2007-03-06",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -53,7 +53,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -80,7 +80,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -88,7 +88,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -96,7 +96,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -104,7 +104,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": "Role group: KONT"
     }
@@ -125,5 +125,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:03Z"
+  "last_updated": "2026-09-20T11:55:18Z"
 }

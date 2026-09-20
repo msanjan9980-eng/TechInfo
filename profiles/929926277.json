@@ -6,7 +6,7 @@
       "field": "name",
       "value": "REICH MONTAGE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "929926277",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2022-10-22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -49,7 +49,7 @@
         "kommunenummer": "3218"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -60,7 +60,7 @@
         "beskrivelse": "Annet installasjonsarbeid"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "mobile",
       "value": "+37128694057",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "medium",
       "note": ""
     },
@@ -113,7 +113,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277/roller",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277/roller",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929926277/roller",
-      "retrieved": "2026-09-20T10:14:16Z",
+      "retrieved": "2026-09-20T11:54:27Z",
       "confidence": "high",
       "note": "Role group: HFOR"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:16Z"
+  "last_updated": "2026-09-20T11:54:27Z"
 }

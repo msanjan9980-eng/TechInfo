@@ -6,7 +6,7 @@
       "field": "name",
       "value": "EINA VILT OG FISKELAG",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "970540539",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Selskap med begrenset ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -46,7 +46,7 @@
         "kommunenummer": "3443"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": "Role group: KONT"
     },
@@ -117,7 +117,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970540539/roller",
-      "retrieved": "2026-09-20T10:14:29Z",
+      "retrieved": "2026-09-20T11:54:39Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -125,5 +125,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:29Z"
+  "last_updated": "2026-09-20T11:54:39Z"
 }

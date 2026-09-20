@@ -6,7 +6,7 @@
       "field": "name",
       "value": "CHEF JOHANSEN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "929713680",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Enkeltpersonforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2022-08-26",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "3205"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Catering for arrangementer"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": ""
     },
@@ -104,7 +104,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680/roller",
-      "retrieved": "2026-09-20T10:15:02Z",
+      "retrieved": "2026-09-20T11:55:18Z",
       "confidence": "high",
       "note": "Role group: INNH"
     }
@@ -112,5 +112,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:02Z"
+  "last_updated": "2026-09-20T11:55:18Z"
 }

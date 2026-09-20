@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ASBJØRN, JAN OG ALFHILD DAHLES STIFTELSE (DAHLE-STIFTELSEN)",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "915110134",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Stiftelse",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2015-04-16",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2011-07-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "email",
       "value": "john.arve.knippen@signo.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "mobile",
       "value": "982 66 460",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -196,7 +196,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
-      "retrieved": "2026-09-20T10:15:22Z",
+      "retrieved": "2026-09-20T11:55:40Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -204,5 +204,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:22Z"
+  "last_updated": "2026-09-20T11:55:40Z"
 }

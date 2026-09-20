@@ -6,7 +6,7 @@
       "field": "name",
       "value": "PARTREDERIET WAAGENE OG KJØRVIK ANS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "960213645",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Partrederi",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1991-03-04",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4645"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
         "kommunenummer": "4645"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
         "beskrivelse": "Innenriks sjøfart med gods"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: BEST"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -203,7 +203,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -218,7 +218,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
-      "retrieved": "2026-09-20T10:15:18Z",
+      "retrieved": "2026-09-20T11:55:36Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -226,5 +226,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:18Z"
+  "last_updated": "2026-09-20T11:55:36Z"
 }

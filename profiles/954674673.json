@@ -6,7 +6,7 @@
       "field": "name",
       "value": "TECH MEDIA ØSTERGREN OG GUSTAVSEN DA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "954674673",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med delt ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-19",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1986-07-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "4201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "4201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Utleie og leasing av andre husholdningsvarer og varer til personlig bruk"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "phone",
       "value": "37 15 06 83",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "medium",
       "note": ""
     },
@@ -139,7 +139,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
-      "retrieved": "2026-09-20T10:14:57Z",
+      "retrieved": "2026-09-20T11:55:10Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -173,5 +173,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:57Z"
+  "last_updated": "2026-09-20T11:55:10Z"
 }

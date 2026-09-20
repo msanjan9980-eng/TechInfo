@@ -6,7 +6,7 @@
       "field": "name",
       "value": "KIRKEAKADEMIET I ASKER",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "975436969",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1996-03-04",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -49,7 +49,7 @@
         "kommunenummer": "3203"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -60,7 +60,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "email",
       "value": "iwestly@online.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "medium",
       "note": ""
     },
@@ -108,7 +108,7 @@
       "field": "phone",
       "value": "66 78 39 46",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "medium",
       "note": ""
     },
@@ -116,7 +116,7 @@
       "field": "mobile",
       "value": "932 49 283",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "medium",
       "note": ""
     },
@@ -129,7 +129,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -142,7 +142,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -194,7 +194,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975436969/roller",
-      "retrieved": "2026-09-20T10:15:07Z",
+      "retrieved": "2026-09-20T11:55:23Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -202,5 +202,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:07Z"
+  "last_updated": "2026-09-20T11:55:23Z"
 }

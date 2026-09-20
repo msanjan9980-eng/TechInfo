@@ -6,7 +6,7 @@
       "field": "name",
       "value": "INTERKOMMUNALT UTVALG MOT AKUTT FORURENSNING HEDMARK",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "995661071",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Organisasjonsledd",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2010-06-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2010-04-15",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "3403"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "hib@hamar.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "phone",
       "value": "40 00 79 99",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071/roller",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995661071/roller",
-      "retrieved": "2026-09-20T10:14:51Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: ORGL"
     }
@@ -151,5 +151,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:51Z"
+  "last_updated": "2026-09-20T11:55:05Z"
 }

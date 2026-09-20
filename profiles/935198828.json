@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ENI PLENITUDE S.P.A SOCIETÀ BENEFIT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "935198828",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Utenlandsk enhet",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2025-03-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1997-12-04",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         ]
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -62,7 +62,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -70,7 +70,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -78,7 +78,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "website",
       "value": "corporate.eniplenitusde.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
-      "retrieved": "2026-09-20T10:14:55Z",
+      "retrieved": "2026-09-20T11:55:09Z",
       "confidence": "medium",
       "note": ""
     }
@@ -102,5 +102,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:55Z"
+  "last_updated": "2026-09-20T11:55:09Z"
 }

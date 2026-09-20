@@ -6,7 +6,7 @@
       "field": "name",
       "value": "BUSLÅTTVEGEN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "970578986",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Selskap med begrenset ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-02-20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -66,7 +66,7 @@
         "kommunenummer": "4201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -77,7 +77,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "email",
       "value": "dag-hodn@online.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "medium",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "mobile",
       "value": "901 53 558",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "medium",
       "note": ""
     },
@@ -138,7 +138,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -151,7 +151,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970578986/roller",
-      "retrieved": "2026-09-20T10:14:46Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -159,5 +159,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:46Z"
+  "last_updated": "2026-09-20T11:54:58Z"
 }

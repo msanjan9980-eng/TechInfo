@@ -6,7 +6,7 @@
       "field": "name",
       "value": "HALSABYGDA STORVILTVALD SA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "818708262",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Samvirkeforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2017-12-06",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2017-11-23",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "5055"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Jakt, fangst, viltstell og tilknyttede tjenester"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -105,7 +105,7 @@
       "field": "website",
       "value": "www.halsastorviltvald.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "medium",
       "note": ""
     },
@@ -118,7 +118,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -131,7 +131,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -144,7 +144,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -157,7 +157,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -170,7 +170,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -183,7 +183,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -196,7 +196,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -212,7 +212,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/818708262/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -220,5 +220,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:20Z"
+  "last_updated": "2026-09-20T11:55:38Z"
 }

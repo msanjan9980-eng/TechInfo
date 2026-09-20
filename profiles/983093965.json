@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SOLSTEINHØGDA UTMARKSLAG BA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "983093965",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Selskap med begrenset ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2001-05-31",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2001-04-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "3454"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": ""
     },
@@ -113,7 +113,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -126,7 +126,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -139,7 +139,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -180,7 +180,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983093965/roller",
-      "retrieved": "2026-09-20T10:14:35Z",
+      "retrieved": "2026-09-20T11:54:47Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -188,5 +188,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:35Z"
+  "last_updated": "2026-09-20T11:54:47Z"
 }

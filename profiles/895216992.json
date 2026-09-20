@@ -6,7 +6,7 @@
       "field": "name",
       "value": "HAGEBAKKEN DA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "895216992",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med delt ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2010-03-22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2010-02-22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -54,7 +54,7 @@
         "kommunenummer": "3421"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
         "beskrivelse": "Annen rengjøringsvirksomhet og snømåking"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "under_liquidation",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": ""
     },
@@ -105,7 +105,7 @@
       "field": "email",
       "value": "pehageba@bbnett.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "medium",
       "note": ""
     },
@@ -113,7 +113,7 @@
       "field": "phone",
       "value": "62 45 40 17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "medium",
       "note": ""
     },
@@ -121,7 +121,7 @@
       "field": "mobile",
       "value": "90988441",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992/roller",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -147,7 +147,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992/roller",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -160,7 +160,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992/roller",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992/roller",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/895216992/roller",
-      "retrieved": "2026-09-20T10:14:44Z",
+      "retrieved": "2026-09-20T11:54:56Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -196,5 +196,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:44Z"
+  "last_updated": "2026-09-20T11:54:56Z"
 }

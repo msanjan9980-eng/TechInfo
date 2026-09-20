@@ -6,7 +6,7 @@
       "field": "name",
       "value": "KONGSLIKAMMEN VEILAG BA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "983738281",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Selskap med begrenset ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2001-11-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2001-08-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "3403"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -108,7 +108,7 @@
       "field": "email",
       "value": "matsha@hamar.kvik.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "medium",
       "note": ""
     },
@@ -121,7 +121,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281/roller",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -134,7 +134,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983738281/roller",
-      "retrieved": "2026-09-20T10:15:04Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -142,5 +142,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:04Z"
+  "last_updated": "2026-09-20T11:55:19Z"
 }

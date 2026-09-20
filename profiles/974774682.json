@@ -6,7 +6,7 @@
       "field": "name",
       "value": "OSTERØY KOMMUNE TEKNISK ETAT",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "974774682",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Organisasjonsledd",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1996-10-26",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1988-04-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4630"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 88,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -120,7 +120,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682/roller",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -135,7 +135,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974774682/roller",
-      "retrieved": "2026-09-20T10:14:21Z",
+      "retrieved": "2026-09-20T11:54:33Z",
       "confidence": "high",
       "note": "Role group: ORGL"
     }
@@ -143,5 +143,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:21Z"
+  "last_updated": "2026-09-20T11:54:33Z"
 }

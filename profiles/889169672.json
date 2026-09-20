@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VÅRTUN KRISTNE OPPVEKSTSENTER - BARNEHAGE SA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "889169672",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Samvirkeforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2006-02-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2005-11-28",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "5037"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Førskoleundervisning og drift av barnehager"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "employees",
       "value": 22,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -84,7 +84,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -108,7 +108,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": ""
     },
@@ -116,7 +116,7 @@
       "field": "website",
       "value": "vaartun.barnehage.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "medium",
       "note": ""
     },
@@ -124,7 +124,7 @@
       "field": "email",
       "value": "mtrefjord@vko.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "medium",
       "note": ""
     },
@@ -132,7 +132,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -145,7 +145,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -158,7 +158,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -171,7 +171,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -184,7 +184,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -197,7 +197,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -210,7 +210,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -223,7 +223,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -238,7 +238,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -253,7 +253,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
-      "retrieved": "2026-09-20T10:15:08Z",
+      "retrieved": "2026-09-20T11:55:25Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -261,5 +261,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:08Z"
+  "last_updated": "2026-09-20T11:55:25Z"
 }

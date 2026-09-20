@@ -6,7 +6,7 @@
       "field": "name",
       "value": "GREFSEN SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "974789264",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1995-09-13",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "employees",
       "value": 21,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "website",
       "value": "grefsenkirke.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "email",
       "value": "post.grefsen.oslo@kirken.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "phone",
       "value": "23 62 93 10",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -188,7 +188,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -201,7 +201,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -214,7 +214,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -227,7 +227,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -240,7 +240,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -253,7 +253,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -268,7 +268,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -283,7 +283,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
-      "retrieved": "2026-09-20T10:14:36Z",
+      "retrieved": "2026-09-20T11:54:48Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -291,5 +291,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:36Z"
+  "last_updated": "2026-09-20T11:54:48Z"
 }

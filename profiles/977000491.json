@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NORDFOLD SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "977000491",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-01-27",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -46,7 +46,7 @@
         "kommunenummer": "1848"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -65,7 +65,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -73,7 +73,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -81,7 +81,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": ""
     },
@@ -97,7 +97,7 @@
       "field": "phone",
       "value": "75 77 91 94",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "medium",
       "note": ""
     },
@@ -110,7 +110,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491/roller",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -125,7 +125,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977000491/roller",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:21Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -133,5 +133,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:05Z"
+  "last_updated": "2026-09-20T11:55:21Z"
 }

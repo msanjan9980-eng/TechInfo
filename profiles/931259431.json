@@ -6,7 +6,7 @@
       "field": "name",
       "value": "SOLHØGDA LEIRSTED",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "931259431",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2023-04-24",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "1563"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -64,7 +64,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -72,7 +72,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -80,7 +80,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431/roller",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -108,7 +108,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431/roller",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -123,7 +123,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931259431/roller",
-      "retrieved": "2026-09-20T10:15:05Z",
+      "retrieved": "2026-09-20T11:55:20Z",
       "confidence": "high",
       "note": "Role group: OPMV"
     }
@@ -131,5 +131,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:05Z"
+  "last_updated": "2026-09-20T11:55:20Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FØRDE PRIVATE OMSORGSTENESTE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "993077496",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med delt ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2008-09-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2008-09-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4647"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Praktisk bistand i hjemmet"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "jordanger68@hotmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "phone",
       "value": "99 38 08 20",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -123,7 +123,7 @@
       "field": "mobile",
       "value": "976 53 756",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "medium",
       "note": ""
     },
@@ -136,7 +136,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496/roller",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -149,7 +149,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496/roller",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -162,7 +162,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496/roller",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -175,7 +175,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993077496/roller",
-      "retrieved": "2026-09-20T10:14:20Z",
+      "retrieved": "2026-09-20T11:54:31Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -183,5 +183,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:20Z"
+  "last_updated": "2026-09-20T11:54:31Z"
 }

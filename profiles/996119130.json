@@ -6,7 +6,7 @@
       "field": "name",
       "value": "RÅDHUSGATEN 8 BOLIGSAMEIE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "996119130",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Eierseksjonssameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2010-11-03",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2009-09-21",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "4203"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "4203"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Aktiviteter i borettslag og boligsameier"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "email",
       "value": "trond.haave@okonor.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "phone",
       "value": "67 57 20 10",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "mobile",
       "value": "920 51 240",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "medium",
       "note": ""
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130/roller",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996119130/roller",
-      "retrieved": "2026-09-20T10:14:39Z",
+      "retrieved": "2026-09-20T11:55:04Z",
       "confidence": "high",
       "note": "Role group: STYR"
     }
@@ -176,5 +176,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:39Z"
+  "last_updated": "2026-09-20T11:55:04Z"
 }

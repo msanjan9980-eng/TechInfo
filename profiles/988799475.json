@@ -6,7 +6,7 @@
       "field": "name",
       "value": "KONSEK TRØNDELAG IKS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "988799475",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Interkommunalt selskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2005-11-29",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2005-01-18",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "5006"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -74,7 +74,7 @@
         "kommunenummer": "5006"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
         "beskrivelse": "Generell offentlig administrasjon"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "employees",
       "value": 12,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -101,7 +101,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -133,7 +133,7 @@
       "field": "website",
       "value": "www.konsek.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -141,7 +141,7 @@
       "field": "email",
       "value": "post@konsek.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -149,7 +149,7 @@
       "field": "phone",
       "value": "46 85 19 50",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -157,7 +157,7 @@
       "field": "mobile",
       "value": "91582102",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "medium",
       "note": ""
     },
@@ -165,7 +165,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -178,7 +178,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -193,7 +193,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -208,7 +208,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -223,7 +223,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -238,7 +238,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -253,7 +253,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -268,7 +268,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -283,7 +283,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -298,7 +298,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -313,7 +313,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -328,7 +328,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -343,7 +343,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -358,7 +358,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -373,7 +373,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -388,7 +388,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -403,7 +403,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -418,7 +418,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -433,7 +433,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -448,7 +448,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -463,7 +463,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -478,7 +478,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -493,7 +493,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -508,7 +508,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -523,7 +523,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -538,7 +538,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -553,7 +553,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -568,7 +568,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -583,7 +583,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -598,7 +598,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -613,7 +613,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -628,7 +628,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -643,7 +643,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -658,7 +658,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -673,7 +673,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -688,7 +688,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -703,7 +703,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -718,7 +718,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -733,7 +733,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -748,7 +748,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -763,7 +763,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -778,7 +778,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -793,7 +793,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -808,7 +808,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -823,7 +823,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -838,7 +838,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -853,7 +853,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -868,7 +868,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -883,7 +883,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -896,7 +896,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -909,7 +909,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -922,7 +922,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -935,7 +935,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -948,7 +948,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -961,7 +961,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -974,7 +974,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -987,7 +987,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1000,7 +1000,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1013,7 +1013,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1026,7 +1026,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1039,7 +1039,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1052,7 +1052,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1065,7 +1065,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -1080,7 +1080,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988799475/roller",
-      "retrieved": "2026-09-20T10:14:19Z",
+      "retrieved": "2026-09-20T11:54:43Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -1088,5 +1088,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:19Z"
+  "last_updated": "2026-09-20T11:54:43Z"
 }

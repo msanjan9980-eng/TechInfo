@@ -6,7 +6,7 @@
       "field": "name",
       "value": "NAKED HOLLYWOOD RECORDS DA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "989997890",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Ansvarlig selskap med delt ansvar",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2006-09-07",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2006-06-06",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "5001"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "slombercontact@hotmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "mobile",
       "value": "97187006",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -141,7 +141,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -154,7 +154,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -167,7 +167,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -180,7 +180,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DELT"
     },
@@ -193,7 +193,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
-      "retrieved": "2026-09-20T10:14:33Z",
+      "retrieved": "2026-09-20T11:54:44Z",
       "confidence": "high",
       "note": "Role group: DELT"
     }
@@ -201,5 +201,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:33Z"
+  "last_updated": "2026-09-20T11:54:44Z"
 }

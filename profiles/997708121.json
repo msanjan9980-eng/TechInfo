@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LYSÅS NORD BOLIGSAMEIE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "997708121",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Eierseksjonssameie",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2012-01-09",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2011-09-22",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "3209"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "3209"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Aktiviteter i borettslag og boligsameier"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "phone",
       "value": "64 84 36 00",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "mobile",
       "value": "907 07 909",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -194,7 +194,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -207,7 +207,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -220,7 +220,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -235,7 +235,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -250,7 +250,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997708121/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -258,5 +258,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:21Z"
+  "last_updated": "2026-09-20T11:55:39Z"
 }

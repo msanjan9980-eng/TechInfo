@@ -6,7 +6,7 @@
       "field": "name",
       "value": "O.H. MELING TANKERS KS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "990633436",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommandittselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2006-12-11",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2006-11-30",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1103"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Utenriks sjøfart med gods"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -120,7 +120,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -135,7 +135,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: KOMP"
     },
@@ -148,7 +148,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -161,7 +161,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -174,7 +174,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -187,7 +187,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -202,7 +202,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990633436/roller",
-      "retrieved": "2026-09-20T10:15:20Z",
+      "retrieved": "2026-09-20T11:55:38Z",
       "confidence": "high",
       "note": "Role group: REVI"
     }
@@ -210,5 +210,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:20Z"
+  "last_updated": "2026-09-20T11:55:38Z"
 }

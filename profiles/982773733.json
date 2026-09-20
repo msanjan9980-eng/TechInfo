@@ -6,7 +6,7 @@
       "field": "name",
       "value": "ØVRE RENDAL GRUNNEIERLAG SA",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "982773733",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Samvirkeforetak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2001-01-30",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1948-09-12",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -57,7 +57,7 @@
         "kommunenummer": "3424"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -68,7 +68,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -76,7 +76,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -84,7 +84,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -92,7 +92,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -100,7 +100,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": ""
     },
@@ -108,7 +108,7 @@
       "field": "email",
       "value": "or_grlag@hotmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -116,7 +116,7 @@
       "field": "phone",
       "value": "62 46 82 81",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -124,7 +124,7 @@
       "field": "mobile",
       "value": "469 67 509",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "medium",
       "note": ""
     },
@@ -132,7 +132,7 @@
       "field": "last_annual_account",
       "value": "2015",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -145,7 +145,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -158,7 +158,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -171,7 +171,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -184,7 +184,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -197,7 +197,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -210,7 +210,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -223,7 +223,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -238,7 +238,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
-      "retrieved": "2026-09-20T10:14:23Z",
+      "retrieved": "2026-09-20T11:54:35Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -246,5 +246,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:23Z"
+  "last_updated": "2026-09-20T11:54:35Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "VIGDEN OG ELGVADSFOSS FJELLSTYRE",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "975521141",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1996-03-04",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "5035"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": ""
     },
@@ -104,7 +104,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -117,7 +117,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -130,7 +130,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -156,7 +156,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -171,7 +171,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
-      "retrieved": "2026-09-20T10:15:16Z",
+      "retrieved": "2026-09-20T11:55:33Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -179,5 +179,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:16Z"
+  "last_updated": "2026-09-20T11:55:33Z"
 }

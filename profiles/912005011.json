@@ -6,7 +6,7 @@
       "field": "name",
       "value": "KULTURFABRIKKEN SORTLAND KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "912005011",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2013-06-17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2012-06-14",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1870"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Kulturskoleundervisning til barn og unge"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -78,7 +78,7 @@
         "beskrivelse": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "website",
       "value": "www.kulturfabrikkensortland.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "email",
       "value": "postmottak@kulturfabrikkensortland.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "phone",
       "value": "76 10 91 00",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "mobile",
       "value": "91363933",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "medium",
       "note": ""
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -194,7 +194,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -207,7 +207,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -220,7 +220,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -233,7 +233,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -246,7 +246,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -259,7 +259,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -272,7 +272,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -285,7 +285,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -298,7 +298,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -311,7 +311,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -324,7 +324,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -337,7 +337,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -350,7 +350,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -363,7 +363,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -376,7 +376,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -389,7 +389,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -404,7 +404,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -419,7 +419,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912005011/roller",
-      "retrieved": "2026-09-20T10:15:21Z",
+      "retrieved": "2026-09-20T11:55:39Z",
       "confidence": "high",
       "note": "Role group: EIKM"
     }
@@ -427,5 +427,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:21Z"
+  "last_updated": "2026-09-20T11:55:39Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "JAKOBSEN MEKANISKE VERKSTED DRIFT AS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "823119542",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Aksjeselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2019-07-31",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2019-04-24",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "1834"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
         "beskrivelse": "Reparasjon og vedlikehold av sivile skip og båter"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "employees",
       "value": 6,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -83,7 +83,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542/roller",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -141,7 +141,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542/roller",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -154,7 +154,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542/roller",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -169,7 +169,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542/roller",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -184,7 +184,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823119542/roller",
-      "retrieved": "2026-09-20T10:15:24Z",
+      "retrieved": "2026-09-20T11:55:43Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -192,5 +192,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:24Z"
+  "last_updated": "2026-09-20T11:55:43Z"
 }

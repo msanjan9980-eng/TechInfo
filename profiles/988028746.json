@@ -6,7 +6,7 @@
       "field": "name",
       "value": "FJELLSTYRENE I STJØRDAL OG MERÅKER",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "988028746",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2005-05-03",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1970-01-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "5035"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "5035"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Eiendomsforvaltning på oppdrag"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "website",
       "value": "www.fjellstyreneistjordal.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "medium",
       "note": ""
     },
@@ -134,7 +134,7 @@
       "field": "email",
       "value": "fjellstyrene.stjordal@fjellstyrene.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "medium",
       "note": ""
     },
@@ -142,7 +142,7 @@
       "field": "mobile",
       "value": "917 80 975",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "medium",
       "note": ""
     },
@@ -155,7 +155,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -168,7 +168,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -181,7 +181,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -194,7 +194,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -207,7 +207,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -220,7 +220,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -233,7 +233,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -248,7 +248,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -263,7 +263,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988028746/roller",
-      "retrieved": "2026-09-20T10:15:03Z",
+      "retrieved": "2026-09-20T11:55:19Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -271,5 +271,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:15:03Z"
+  "last_updated": "2026-09-20T11:55:19Z"
 }

@@ -6,7 +6,7 @@
       "field": "name",
       "value": "EMBASSY OF THE REPUBLIC OF THE UNION OF MYANMAR",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "914883830",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Annen juridisk person",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2015-03-05",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -66,7 +66,7 @@
         "kommunenummer": "3201"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -77,7 +77,7 @@
         "beskrivelse": "Aktiviteter i internasjonale organisasjoner og organer"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -101,7 +101,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "email",
       "value": "myanmarembassyoslo@gmail.com",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "medium",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "phone",
       "value": "21 56 69 80",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "medium",
       "note": ""
     },
@@ -133,7 +133,7 @@
       "field": "mobile",
       "value": "91545106",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "medium",
       "note": ""
     },
@@ -146,7 +146,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914883830/roller",
-      "retrieved": "2026-09-20T10:14:47Z",
+      "retrieved": "2026-09-20T11:55:00Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     }
@@ -154,5 +154,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:47Z"
+  "last_updated": "2026-09-20T11:55:00Z"
 }

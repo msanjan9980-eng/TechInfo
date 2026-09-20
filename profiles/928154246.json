@@ -6,7 +6,7 @@
       "field": "name",
       "value": "REQ REAL ESTATE FUND I AS",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "928154246",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Aksjeselskap",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "2021-11-17",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "2021-10-25",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -86,7 +86,7 @@
         "beskrivelse": "Alternative investeringsfond (aif) som ikke er verdipapirfond"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -94,7 +94,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -102,7 +102,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -110,7 +110,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": ""
     },
@@ -126,7 +126,7 @@
       "field": "last_annual_account",
       "value": "2025",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -139,7 +139,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246/roller",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -152,7 +152,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246/roller",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -165,7 +165,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246/roller",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -180,7 +180,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246/roller",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -195,7 +195,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928154246/roller",
-      "retrieved": "2026-09-20T10:14:45Z",
+      "retrieved": "2026-09-20T11:54:58Z",
       "confidence": "high",
       "note": "Role group: REGN"
     }
@@ -203,5 +203,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:45Z"
+  "last_updated": "2026-09-20T11:54:58Z"
 }

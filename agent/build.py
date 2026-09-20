@@ -69,8 +69,8 @@ async def run(orgnrs: list[str], out_dir: Path, concurrency: int = 8) -> int:
 def load_orgnrs(path: Path) -> list[str]:
     seen: set[str] = set()
     out: list[str] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        o = line.strip().split(",")[0].strip()
+    for line in path.read_text(encoding="utf-8-sig").splitlines():
+        o = line.strip().lstrip("\ufeff").split(",")[0].strip()
         if o and o not in seen:
             seen.add(o)
             out.append(o)

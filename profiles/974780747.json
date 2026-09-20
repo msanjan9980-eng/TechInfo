@@ -6,7 +6,7 @@
       "field": "name",
       "value": "BOLIGBYGG OSLO KF",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "974780747",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Kommunalt foretak",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-10-29",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -38,7 +38,7 @@
       "field": "founded_date",
       "value": "1989-01-01",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -56,7 +56,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -74,7 +74,7 @@
         "kommunenummer": "0301"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -85,7 +85,7 @@
         "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -93,7 +93,7 @@
       "field": "employees",
       "value": 217,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Official registry employee count"
     },
@@ -101,7 +101,7 @@
       "field": "vat_registered",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -109,7 +109,7 @@
       "field": "foretaksregisteret",
       "value": true,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -117,7 +117,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -125,7 +125,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": ""
     },
@@ -133,7 +133,7 @@
       "field": "website",
       "value": "oslo.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -141,7 +141,7 @@
       "field": "email",
       "value": "postmottak@bby.oslo.kommune.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -149,7 +149,7 @@
       "field": "phone",
       "value": "23 46 05 00",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -157,7 +157,7 @@
       "field": "mobile",
       "value": "81548215",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "medium",
       "note": ""
     },
@@ -165,7 +165,7 @@
       "field": "last_annual_account",
       "value": "2005",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Date of most recent submitted annual accounts"
     },
@@ -178,7 +178,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -191,7 +191,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -204,7 +204,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -217,7 +217,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -230,7 +230,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -243,7 +243,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -256,7 +256,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -269,7 +269,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: STYR"
     },
@@ -284,7 +284,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -299,7 +299,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974780747/roller",
-      "retrieved": "2026-09-20T10:14:52Z",
+      "retrieved": "2026-09-20T11:55:05Z",
       "confidence": "high",
       "note": "Role group: EIKM"
     }
@@ -307,5 +307,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:52Z"
+  "last_updated": "2026-09-20T11:55:05Z"
 }

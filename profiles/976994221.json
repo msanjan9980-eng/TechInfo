@@ -6,7 +6,7 @@
       "field": "name",
       "value": "LØVSTAKKSIDEN SOKN",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -14,7 +14,7 @@
       "field": "orgnr",
       "value": "976994221",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -22,7 +22,7 @@
       "field": "legal_form",
       "value": "Den norske kirke",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -30,7 +30,7 @@
       "field": "registered_date",
       "value": "1997-01-27",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -48,7 +48,7 @@
         "kommunenummer": "4601"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -59,7 +59,7 @@
         "beskrivelse": "Aktiviteter i religiøse organisasjoner"
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -67,7 +67,7 @@
       "field": "vat_registered",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -75,7 +75,7 @@
       "field": "foretaksregisteret",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -83,7 +83,7 @@
       "field": "bankrupt",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -91,7 +91,7 @@
       "field": "under_liquidation",
       "value": false,
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": ""
     },
@@ -99,7 +99,7 @@
       "field": "website",
       "value": "www.bergen.kirken.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "medium",
       "note": ""
     },
@@ -107,7 +107,7 @@
       "field": "email",
       "value": "lovstakksiden.menighet.bergen@kirken.no",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "medium",
       "note": ""
     },
@@ -115,7 +115,7 @@
       "field": "phone",
       "value": "55 30 81 30",
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "medium",
       "note": ""
     },
@@ -128,7 +128,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": "Role group: DAGL"
     },
@@ -143,7 +143,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": "Role group: REVI"
     },
@@ -158,7 +158,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": "Role group: REGN"
     },
@@ -173,7 +173,7 @@
         "until": null
       },
       "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994221/roller",
-      "retrieved": "2026-09-20T10:14:43Z",
+      "retrieved": "2026-09-20T11:54:57Z",
       "confidence": "high",
       "note": "Role group: KIRK"
     }
@@ -181,5 +181,5 @@
   "sources_used": [
     "brreg"
   ],
-  "last_updated": "2026-09-20T10:14:43Z"
+  "last_updated": "2026-09-20T11:54:57Z"
 }
