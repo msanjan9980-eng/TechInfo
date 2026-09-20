@@ -4,3 +4,8 @@ __pycache__/
 data/enheter.json.gz
 logs/
 .env
+
+check_before.py
+check_fresh.py
+seed_delta.py
+probe_*.py
