@@ -1,0 +1,184 @@
+{
+  "orgnr": "996644561",
+  "name": "SKOGN BYGDEKVINNELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKOGN BYGDEKVINNELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "996644561",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-05-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1932-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7620",
+        "poststed": "SKOGN",
+        "adresse": [
+          "Støreshøgda 118"
+        ],
+        "kommune": "LEVANGER",
+        "kommunenummer": "5037"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "41933193",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nina Sandberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561/roller",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gina Estelle Søraker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561/roller",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elin Annette Bjørnstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561/roller",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Johanne Hatlinghus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561/roller",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Malene Lie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996644561/roller",
+      "retrieved": "2026-09-20T12:18:02Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:02Z"
+}

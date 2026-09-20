@@ -1,0 +1,132 @@
+{
+  "orgnr": "918640495",
+  "name": "SIKKERBØL DESIGN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SIKKERBØL DESIGN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "918640495",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-03-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1461",
+        "poststed": "LØRENSKOG",
+        "adresse": [
+          "Snorres vei 6"
+        ],
+        "kommune": "LØRENSKOG",
+        "kommunenummer": "3222"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "14.210",
+        "beskrivelse": "Produksjon av yttertøy"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "msikkerboel@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "930 12 035",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Marthe Helen Sikkerbøl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918640495/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:25Z"
+}

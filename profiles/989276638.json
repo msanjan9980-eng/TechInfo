@@ -1,0 +1,286 @@
+{
+  "orgnr": "989276638",
+  "name": "SYNTO AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SYNTO AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "989276638",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-01-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-12-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7900",
+        "poststed": "RØRVIK",
+        "adresse": [
+          "Gluggfjellvegen 15"
+        ],
+        "kommune": "NÆRØYSUND",
+        "kommunenummer": "5060"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "bjorn@synto.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "913 39 463",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn-Egil Sørensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørn-Egil Sørensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Erlend Sørensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENORA AS"
+        ],
+        "orgnr": "935701430",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989276638/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 989407.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 59243.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 232953.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 5834802.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 3685803.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 2149000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/989276638",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:39Z"
+}

@@ -1,0 +1,385 @@
+{
+  "orgnr": "979118198",
+  "name": "ÅRÅSVEIEN BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ÅRÅSVEIEN BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "979118198",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-08-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-06-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2003",
+        "poststed": "LILLESTRØM",
+        "adresse": [
+          "c/o BORI BBL",
+          "Bjørnsons gate 35"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2001",
+        "poststed": "LILLESTRØM",
+        "adresse": [
+          "c/o BORI BBL",
+          "Postboks 323"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.bori.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "forvaltning@bori.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "63 89 02 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "BORI BBL"
+        ],
+        "orgnr": "989987011",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Idar Jarl Warholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Truls Ove Bjørhei",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håkon Frøberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Cecilie Oksvang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Veronica Byfuglien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SLM REVISJON AS"
+        ],
+        "orgnr": "972412112",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BORI BBL"
+        ],
+        "orgnr": "989987011",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979118198/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 2319242.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 836819.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 195741.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 34808208.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 10900261.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 23907946.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/979118198",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:44Z"
+}

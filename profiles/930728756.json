@@ -1,0 +1,167 @@
+{
+  "orgnr": "930728756",
+  "name": "SVORTLAND GRUNNEIGARLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVORTLAND GRUNNEIGARLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "930728756",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-06-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1983-05-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5430",
+        "poststed": "BREMNES",
+        "adresse": [
+          "c/o Svein Arne Sortland",
+          "Varhaugvegen 56"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "sosvei@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "40 40 42 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Svein Arne Sortland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756/roller",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reidar Johan Sortland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756/roller",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Kristian Sortland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930728756/roller",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:46Z"
+}

@@ -1,0 +1,200 @@
+{
+  "orgnr": "997452712",
+  "name": "ISU STEINKJER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ISU STEINKJER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "997452712",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-10-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-09-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7713",
+        "poststed": "STEINKJER",
+        "adresse": [
+          "Kongens gate 42"
+        ],
+        "kommune": "STEINKJER",
+        "kommunenummer": "5006"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.facebook.com/profile.php?id=100002937225864",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "steinkjer@isu-norway.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "968 88 827",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arun Siva",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marcell Laszlo Erdelyi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lizaveta Navitskaya",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Daria Aulie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Guilherme Ferreira Filipe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997452712/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:40Z"
+}

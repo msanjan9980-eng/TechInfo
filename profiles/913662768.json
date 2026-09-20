@@ -1,0 +1,294 @@
+{
+  "orgnr": "913662768",
+  "name": "KJEVEORTOPED MARIT RAMSLI GJETHAMMER AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KJEVEORTOPED MARIT RAMSLI GJETHAMMER AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "913662768",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-07-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-04-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6150",
+        "poststed": "ØRSTA",
+        "adresse": [
+          "Strandgata 5A"
+        ],
+        "kommune": "ØRSTA",
+        "kommunenummer": "1520"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.230",
+        "beskrivelse": "Tannlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "412 35 937",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Marit Gjethammer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768/roller",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Marit Gjethammer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768/roller",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Ramsli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768/roller",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "HOVDEN & VATNE STATSAUTORISERTE",
+          "REVISORAR AS"
+        ],
+        "orgnr": "987832916",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768/roller",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ØB REGNSKAP AS"
+        ],
+        "orgnr": "911577003",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913662768/roller",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 10584438.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 5426898.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 4364759.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 7671527.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 4944500.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 2727027.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/913662768",
+      "retrieved": "2026-09-20T12:17:45Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:45Z"
+}

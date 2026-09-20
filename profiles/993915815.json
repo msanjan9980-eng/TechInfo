@@ -1,0 +1,270 @@
+{
+  "orgnr": "993915815",
+  "name": "HJA INVEST AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HJA INVEST AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "993915815",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-03-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-03-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5217",
+        "poststed": "HAGAVIK",
+        "adresse": [
+          "Nedre Askvik 51"
+        ],
+        "kommune": "BJØRNAFJORDEN",
+        "kommunenummer": "4624"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "30.120",
+        "beskrivelse": "Bygging av fritidsbåter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Susan Askvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815/roller",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Henrik Johannes Askvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815/roller",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Susan Askvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815/roller",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "STEINBAKK REVISJON AS"
+        ],
+        "orgnr": "994671510",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993915815/roller",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 6742.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": -180651.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": -6435400.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 3953152.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 3942139.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 11013.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/993915815",
+      "retrieved": "2026-09-20T12:16:58Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:16:58Z"
+}

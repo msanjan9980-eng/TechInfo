@@ -1,0 +1,285 @@
+{
+  "orgnr": "920435696",
+  "name": "FJELL OG GRAVELAG AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FJELL OG GRAVELAG AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "920435696",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-02-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-02-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3539",
+        "poststed": "FLÅ",
+        "adresse": [
+          "Elvemo 28"
+        ],
+        "kommune": "FLÅ",
+        "kommunenummer": "3320"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "43.120",
+        "beskrivelse": "Grunnarbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Flemming Roa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Erik André Vee",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håkon Semb-Arnstorp",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISOR TEAM AS"
+        ],
+        "orgnr": "921505744",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "REGNSKAPSTEAM HALLINGDAL AS"
+        ],
+        "orgnr": "980738787",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920435696/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 38208269.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 4013415.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 3213074.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 31362283.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 21312161.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 10050122.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/920435696",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:07Z"
+}

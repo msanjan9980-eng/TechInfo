@@ -1,0 +1,259 @@
+{
+  "orgnr": "994021893",
+  "name": "FRISK FORENING FOR MASTER I RISIKOSTYRING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRISK FORENING FOR MASTER I RISIKOSTYRING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "994021893",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-05-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-04-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4021",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "c/o TekNat fakultet",
+          "Universitetet i Stavanger",
+          "Kjell Arholms gate 41"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4021",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "Rennebergstien 24"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.facebook.com/fRISKAssociation",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "malin.eag@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "414 61 643",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Amina Kosovac",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Amina Kosovac",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Daniel Klassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jenna Vadset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thea Sofie Steinland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thea Bidne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hermine Marthinsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Christian Stokke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994021893/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:42Z"
+}

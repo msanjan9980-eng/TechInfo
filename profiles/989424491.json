@@ -1,0 +1,181 @@
+{
+  "orgnr": "989424491",
+  "name": "BRANDSEGG/FOSSEM MASKINLAG DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRANDSEGG/FOSSEM MASKINLAG DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "989424491",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-03-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-01-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7718",
+        "poststed": "STEINKJER",
+        "adresse": [
+          "Brandsegg"
+        ],
+        "kommune": "STEINKJER",
+        "kommunenummer": "5006"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7718",
+        "poststed": "STEINKJER",
+        "adresse": [
+          "Brandsegg Søndre"
+        ],
+        "kommune": "STEINKJER",
+        "kommunenummer": "5006"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.110",
+        "beskrivelse": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Rune Fossum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491/roller",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Per Øyvind Brandsegg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491/roller",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Svein Andreas Skei",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491/roller",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Rune Fossum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989424491/roller",
+      "retrieved": "2026-09-20T12:18:22Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:22Z"
+}

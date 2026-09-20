@@ -1,0 +1,117 @@
+{
+  "orgnr": "923398805",
+  "name": "AG NOORI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AG NOORI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "923398805",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4614",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "H0401",
+          "Kristian IVs gate 70A"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "96.990",
+        "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Abdul Ghafar Noori",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923398805/roller",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:42Z"
+}

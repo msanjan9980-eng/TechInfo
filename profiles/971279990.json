@@ -1,0 +1,364 @@
+{
+  "orgnr": "971279990",
+  "name": "DEN TYRKISK ISLAMSKE UNION",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DEN TYRKISK ISLAMSKE UNION",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "971279990",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-05-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0187",
+        "poststed": "OSLO",
+        "adresse": [
+          "Motzfeldtsgate 6-8"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "post@nortib.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "41171356",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kemal Yarar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harun Sahin",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tahir Baygün",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harun Kuscu",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gulumser Yapici",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mustafa Celik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Seda Nur Hamdemir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Feyza Fatma Kasikci",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emine Sariyar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ALPHA REVISJON AS"
+        ],
+        "orgnr": "975800679",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971279990/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 8674459.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 3830604.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 3534553.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 47196553.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 46712350.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 484203.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/971279990",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:16:56Z"
+}

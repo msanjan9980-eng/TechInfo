@@ -1,0 +1,150 @@
+{
+  "orgnr": "921464363",
+  "name": "VIKTORIJA PERMANENT MAKEUP VIKTORIJA VAITKEVICIENE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIKTORIJA PERMANENT MAKEUP VIKTORIJA VAITKEVICIENE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "921464363",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-09-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6010",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "Spjelkavikvegen 51"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6270",
+        "poststed": "BRATTVÅG",
+        "adresse": [
+          "Bjørlykkvegen 140"
+        ],
+        "kommune": "HARAM",
+        "kommunenummer": "1580"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "96.220",
+        "beskrivelse": "Skjønnhetspleie"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "wikute8588@yahoo.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "968 84 968",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Viktorija Vaitkeviciené",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921464363/roller",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:03Z"
+}

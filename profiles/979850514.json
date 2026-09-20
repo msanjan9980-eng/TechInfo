@@ -1,0 +1,254 @@
+{
+  "orgnr": "979850514",
+  "name": "SUNNDAL RØDE KORS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SUNNDAL RØDE KORS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "979850514",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-06-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1949-03-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6601",
+        "poststed": "SUNNDALSØRA",
+        "adresse": [],
+        "kommune": "SUNNDAL",
+        "kommunenummer": "1563"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6601",
+        "poststed": "SUNNDALSØRA",
+        "adresse": [
+          "Postboks 207"
+        ],
+        "kommune": "SUNNDAL",
+        "kommunenummer": "1563"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "88.996",
+        "beskrivelse": "Andre sosialtjenester uten botilbud ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "71 69 19 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Astrid Gravem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Daniel Botnvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Hafsås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gro-Merete Brøste",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingar Langli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Vetle Hammer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Berit Helene Løseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Dorthea Ørsund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 REGNSKAPSHUSET SMN AS"
+        ],
+        "orgnr": "936285066",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979850514/roller",
+      "retrieved": "2026-09-20T12:18:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:13Z"
+}

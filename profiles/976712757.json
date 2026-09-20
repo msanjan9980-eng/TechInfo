@@ -1,0 +1,135 @@
+{
+  "orgnr": "976712757",
+  "name": "DORTE-ELLEN FREMMEGÅRD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DORTE-ELLEN FREMMEGÅRD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "976712757",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-09-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2647",
+        "poststed": "SØR-FRON",
+        "adresse": [
+          "Baksidevegen 561"
+        ],
+        "kommune": "SØR-FRON",
+        "kommunenummer": "3438"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "01.460",
+        "beskrivelse": "Svinehold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Secondary industry code."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "61 29 97 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Dorte-Ellen Synnøve Fremmegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976712757/roller",
+      "retrieved": "2026-09-20T12:17:22Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:22Z"
+}

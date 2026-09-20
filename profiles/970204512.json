@@ -1,0 +1,132 @@
+{
+  "orgnr": "970204512",
+  "name": "RULLESTAD PEDER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RULLESTAD PEDER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "970204512",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5598",
+        "poststed": "FJÆRA",
+        "adresse": [
+          "Rullestadstranda 21"
+        ],
+        "kommune": "ETNE",
+        "kommunenummer": "4611"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "41.000",
+        "beskrivelse": "Oppføring av bygninger"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Peder Rullestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512/roller",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 SØR-NORGE",
+          "FORRETNINGSPARTNER AS"
+        ],
+        "orgnr": "990945748",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970204512/roller",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:19Z"
+}

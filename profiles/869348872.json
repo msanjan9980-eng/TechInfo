@@ -1,0 +1,129 @@
+{
+  "orgnr": "869348872",
+  "name": "SVANG KJELL TOMAS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVANG KJELL TOMAS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "869348872",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3550",
+        "poststed": "GOL",
+        "adresse": [],
+        "kommune": "GOL",
+        "kommunenummer": "3324"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Kjell Thomas Svang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HALLINGDAL ØKONOMISERVICE AS"
+        ],
+        "orgnr": "980057925",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869348872/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:00Z"
+}

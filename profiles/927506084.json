@@ -1,0 +1,352 @@
+{
+  "orgnr": "927506084",
+  "name": "SAMEIET BEDDINGEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET BEDDINGEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "927506084",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-08-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-04-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "adresse": [
+          "Storgaten 20"
+        ],
+        "kommune": "TØNSBERG",
+        "kommunenummer": "3905"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0129",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 6666 St Olavsplass"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "beddingen@styrerommet.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Torgny Alstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Einar Flogeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørnar Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Harald Bjerknes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Emil Kjølner",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927506084/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 2865125.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": -377759.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": -337584.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 1307410.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 934706.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 372703.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/927506084",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:01Z"
+}

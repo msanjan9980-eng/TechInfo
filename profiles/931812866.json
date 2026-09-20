@@ -1,0 +1,145 @@
+{
+  "orgnr": "931812866",
+  "name": "TINA PERSENS HUDPLEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TINA PERSENS HUDPLEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "931812866",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-08-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9910",
+        "poststed": "BJØRNEVATN",
+        "adresse": [
+          "Nybrottsveien 1D"
+        ],
+        "kommune": "SØR-VARANGER",
+        "kommunenummer": "5605"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "96.220",
+        "beskrivelse": "Skjønnhetspleie"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "tinas_hudpleie@outlook.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "993 99 812",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Tina Cecilie Persen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866/roller",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tina Cecilie Persen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931812866/roller",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:19Z"
+}

@@ -1,0 +1,244 @@
+{
+  "orgnr": "932498847",
+  "name": "LK MOEN HOLDING AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LK MOEN HOLDING AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "932498847",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-11-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-08-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2055",
+        "poststed": "NORDKISA",
+        "adresse": [
+          "Skrythagen 3A"
+        ],
+        "kommune": "ULLENSAKER",
+        "kommunenummer": "3209"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Lars Kristian Moen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "TEMA REGNSKAP JESSHEIM  AS"
+        ],
+        "orgnr": "976890469",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932498847/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 0.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": -29303.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 116828.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 4545914.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 4526574.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 19340.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/932498847",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:16:51Z"
+}

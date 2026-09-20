@@ -1,0 +1,147 @@
+{
+  "orgnr": "985888302",
+  "name": "BJØRG HAUGEN TEKSDAL",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRG HAUGEN TEKSDAL",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "985888302",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-08-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7168",
+        "poststed": "LYSØYSUNDET",
+        "adresse": [
+          "Teksdalsveien 44"
+        ],
+        "kommune": "ØRLAND",
+        "kommunenummer": "5057"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "72 52 91 54",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "+4746471258",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Bjørg Helene Teksdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 REGNSKAPSHUSET SMN AS"
+        ],
+        "orgnr": "936285066",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985888302/roller",
+      "retrieved": "2026-09-20T12:18:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:40Z"
+}

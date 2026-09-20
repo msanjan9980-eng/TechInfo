@@ -1,0 +1,133 @@
+{
+  "orgnr": "936500889",
+  "name": "JENNY AZORA MORK KUNNSKAPSTJENESTER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JENNY AZORA MORK KUNNSKAPSTJENESTER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "936500889",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-11-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2624",
+        "poststed": "LILLEHAMMER",
+        "adresse": [
+          "c/o Jenny Azora Mork",
+          "Sørsvevegen 49A"
+        ],
+        "kommune": "LILLEHAMMER",
+        "kommunenummer": "3405"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.597",
+        "beskrivelse": "Annen undervisning ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "jennyamork@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "40168836",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jenny Azora Mork",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936500889/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:44Z"
+}

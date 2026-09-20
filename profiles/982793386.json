@@ -1,0 +1,211 @@
+{
+  "orgnr": "982793386",
+  "name": "SEB KORT BANK AB OSLOFILIALEN NORSK AVDELING AV UTENLANDSK FORETAK NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SEB KORT BANK AB OSLOFILIALEN NORSK AVDELING AV UTENLANDSK FORETAK NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "982793386",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-12-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0250",
+        "poststed": "OSLO",
+        "adresse": [
+          "Filipstadveien 10"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0114",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1373, Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.920",
+        "beskrivelse": "Annen kredittgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "employees",
+      "value": 65,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Headcount as reported to Enhetsregisteret. Brreg hides counts below 5."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "mastercard@sebkort.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "21 01 53 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tomm Fredrik Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386/roller",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386/roller",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT INTUNOR AS"
+        ],
+        "orgnr": "981085892",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386/roller",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "SEB KORT BANK AB"
+        ],
+        "orgnr": "982793327",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982793386/roller",
+      "retrieved": "2026-09-20T12:18:38Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: HFOR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:38Z"
+}

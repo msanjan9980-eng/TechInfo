@@ -1,0 +1,140 @@
+{
+  "orgnr": "969335425",
+  "name": "SKJÆRMOEN RUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKJÆRMOEN RUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "969335425",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2416",
+        "poststed": "JØMNA",
+        "adresse": [
+          "Hornbergsenga 179"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "runskja@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "62418815",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2006",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Rune Skjærmoen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969335425/roller",
+      "retrieved": "2026-09-20T12:17:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:19Z"
+}

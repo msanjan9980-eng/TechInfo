@@ -1,0 +1,150 @@
+{
+  "orgnr": "937459424",
+  "name": "KMT CAPITAL AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KMT CAPITAL AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "937459424",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-03-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-03-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3160",
+        "poststed": "STOKKE",
+        "adresse": [
+          "Varveien 42"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "John Thomas Freitag",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Madelen Lensberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Andre Lensberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937459424/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:41Z"
+}

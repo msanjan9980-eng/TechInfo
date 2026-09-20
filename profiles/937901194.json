@@ -1,0 +1,124 @@
+{
+  "orgnr": "937901194",
+  "name": "HAFSKJÆR INVEST AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAFSKJÆR INVEST AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "937901194",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6515",
+        "poststed": "KRISTIANSUND N",
+        "adresse": [
+          "Tangstien 8"
+        ],
+        "kommune": "KRISTIANSUND",
+        "kommunenummer": "1505"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Dani Hafskjær",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901194/roller",
+      "retrieved": "2026-09-20T12:17:48Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:48Z"
+}

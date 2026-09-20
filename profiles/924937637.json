@@ -1,0 +1,129 @@
+{
+  "orgnr": "924937637",
+  "name": "OALORVIKHRSTØTTE ODDBJØRN ALSTAD LORVIK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OALORVIKHRSTØTTE ODDBJØRN ALSTAD LORVIK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "924937637",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-04-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8850",
+        "poststed": "HERØY",
+        "adresse": [
+          "Karsvikveien 23"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1818"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Oddbjørn Lorvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637/roller",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Oddbjørn Lorvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924937637/roller",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:15Z"
+}

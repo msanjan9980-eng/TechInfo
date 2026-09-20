@@ -1,0 +1,200 @@
+{
+  "orgnr": "938256969",
+  "name": "SANT CARE AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SANT CARE AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "938256969",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-08-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-06-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4980",
+        "poststed": "GJERSTAD",
+        "adresse": [
+          "c/o Kjell Trygve Grunnsvoll",
+          "Indre vei 327"
+        ],
+        "kommune": "GJERSTAD",
+        "kommunenummer": "4211"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.992",
+        "beskrivelse": "Forebyggende helsearbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "employees",
+      "value": 6,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Headcount as reported to Enhetsregisteret. Brreg hides counts below 5."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kjell Trygve Grunnsvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sonny Stefan Mikael Liden",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nancy Heiland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjell Trygve Grunnsvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Angelo Andy Prodani",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SALDO REGNSKAP AS"
+        ],
+        "orgnr": "970918523",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938256969/roller",
+      "retrieved": "2026-09-20T12:18:36Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:36Z"
+}

@@ -1,0 +1,174 @@
+{
+  "orgnr": "882007022",
+  "name": "DOVRE SOLSTUDIO ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DOVRE SOLSTUDIO ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "882007022",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-06-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-05-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2662",
+        "poststed": "DOVRE",
+        "adresse": [],
+        "kommune": "DOVRE",
+        "kommunenummer": "3431"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.130",
+        "beskrivelse": "Treningssentervirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Inga Olea Dokken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022/roller",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Inga Olea Dokken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022/roller",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ola Håkon Korsvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022/roller",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ola Håkon Korsvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022/roller",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inga Olea Dokken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882007022/roller",
+      "retrieved": "2026-09-20T12:18:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:39Z"
+}

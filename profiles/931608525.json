@@ -1,0 +1,116 @@
+{
+  "orgnr": "931608525",
+  "name": "NILS OLE REFVIK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NILS OLE REFVIK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "931608525",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-06-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6814",
+        "poststed": "FØRDE",
+        "adresse": [
+          "Slåttebakkane 49"
+        ],
+        "kommune": "SUNNFJORD",
+        "kommunenummer": "4647"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "59.110",
+        "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Nils Ole Refvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931608525/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:51Z"
+}

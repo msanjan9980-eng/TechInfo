@@ -1,0 +1,142 @@
+{
+  "orgnr": "970945237",
+  "name": "AUEN INGER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AUEN INGER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "970945237",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3947",
+        "poststed": "LANGANGEN",
+        "adresse": [
+          "Auenvegen 260"
+        ],
+        "kommune": "PORSGRUNN",
+        "kommunenummer": "4001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Secondary industry code."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Inger Auen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "WAHLSTRØM REGNSKAP OG RÅDGIVNING AS"
+        ],
+        "orgnr": "929479947",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970945237/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:08Z"
+}

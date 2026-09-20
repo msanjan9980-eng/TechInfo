@@ -1,0 +1,278 @@
+{
+  "orgnr": "986279423",
+  "name": "INTERACTIVE AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "INTERACTIVE AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "986279423",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-11-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-10-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3030",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Tiurveien 28"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "43.120",
+        "beskrivelse": "Grunnarbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "90090161",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Pål Gurrik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Gurrik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ola Wang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BRIS REGNSKAP AS"
+        ],
+        "orgnr": "936199917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986279423/roller",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 436342.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": -142221.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": -211041.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 137867.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": -2709103.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 2846970.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/986279423",
+      "retrieved": "2026-09-20T12:17:00Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:00Z"
+}

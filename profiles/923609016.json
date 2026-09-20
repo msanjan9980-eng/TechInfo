@@ -1,0 +1,466 @@
+{
+  "orgnr": "923609016",
+  "name": "EQUINOR ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EQUINOR ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "923609016",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1972-09-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4035",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "Forusbeen 50"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4035",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "Postboks 8500"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "06.100",
+        "beskrivelse": "Utvinning av råolje"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "06.200",
+        "beskrivelse": "Utvinning av naturgass"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Secondary industry code."
+    },
+    {
+      "field": "employees",
+      "value": 21272,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Headcount as reported to Enhetsregisteret. Brreg hides counts below 5."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.equinor.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "51 99 00 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anders Opedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jarle Kjell Roth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Finn Bjørn Ruyter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Haakon Stephen Bruun-Hanssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Fernanda Lopes Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hilde Møllerstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Frank Gundersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Geir Leon Vadheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Drinkwater",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mikael Roland Karlsson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dawn Summers",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Hans Einar Haldorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anette Heggholmen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Terje Werner Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: USD."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "USD",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 67956000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 5563000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 5731000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 103432000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 39182000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 64249000000.0,
+        "currency": "USD",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved": "2026-09-20T12:15:03Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:15:03Z"
+}

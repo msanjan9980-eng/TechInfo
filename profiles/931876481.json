@@ -1,0 +1,129 @@
+{
+  "orgnr": "931876481",
+  "name": "VINJE INNOVATION II",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VINJE INNOVATION II",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "931876481",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-08-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1639",
+        "poststed": "GAMLE FREDRIKSTAD",
+        "adresse": [
+          "Smaragdveien 11B"
+        ],
+        "kommune": "FREDRIKSTAD",
+        "kommunenummer": "3107"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.200",
+        "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jan-Erik Vinje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481/roller",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jan-Erik Vinje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931876481/roller",
+      "retrieved": "2026-09-20T12:17:43Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:43Z"
+}

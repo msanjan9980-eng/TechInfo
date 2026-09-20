@@ -1,0 +1,212 @@
+{
+  "orgnr": "927443376",
+  "name": "GULLIKSPLASSEN SAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GULLIKSPLASSEN SAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "927443376",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-07-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-04-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1900",
+        "poststed": "FETSUND",
+        "adresse": [
+          "Gulliksplassen 36"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0614",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/OBOS Eiendomsforvaltning AS",
+          "Postboks 393 Alnabru"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arnfinn Nyseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aina Terese Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Wenche Marie Nydahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Hilde Synnøve Lier",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927443376/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:00Z"
+}

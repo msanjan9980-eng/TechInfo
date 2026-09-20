@@ -1,0 +1,151 @@
+{
+  "orgnr": "928514811",
+  "name": "AUSTEVOLL LYDSTUDIO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AUSTEVOLL LYDSTUDIO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "928514811",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-01-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-12-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5392",
+        "poststed": "STOREBØ",
+        "adresse": [
+          "c/o Åsmund Aasebø",
+          "Nordre Eidsbøen 26"
+        ],
+        "kommune": "AUSTEVOLL",
+        "kommunenummer": "4625"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Åsmund Aasebø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811/roller",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eivind Hatlevik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811/roller",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Arne Kalvenes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928514811/roller",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:34Z"
+}

@@ -1,0 +1,163 @@
+{
+  "orgnr": "927621193",
+  "name": "EXEO MOVEMENT COLLECTIVE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EXEO MOVEMENT COLLECTIVE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "927621193",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-08-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-08-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1605",
+        "poststed": "FREDRIKSTAD",
+        "adresse": [
+          "Ilaveien 47"
+        ],
+        "kommune": "FREDRIKSTAD",
+        "kommunenummer": "3107"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "79.121",
+        "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stian Andreas Margarites",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reza Afzali",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Henrik Oskam",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dominik Cieszynski",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927621193/roller",
+      "retrieved": "2026-09-20T12:17:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:42Z"
+}

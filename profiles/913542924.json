@@ -1,0 +1,131 @@
+{
+  "orgnr": "913542924",
+  "name": "HÅNES TRAKTOR OG MASKIN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HÅNES TRAKTOR OG MASKIN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "913542924",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-04-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6265",
+        "poststed": "VATNE",
+        "adresse": [
+          "Nedstebygda 136"
+        ],
+        "kommune": "HARAM",
+        "kommunenummer": "1580"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.610",
+        "beskrivelse": "Tjenester tilknyttet planteproduksjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Stig-Are Hånes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924/roller",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "NUMERO CONSULTANTS AS"
+        ],
+        "orgnr": "979202067",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913542924/roller",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:06Z"
+}

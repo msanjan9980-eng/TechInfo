@@ -1,0 +1,184 @@
+{
+  "orgnr": "993350281",
+  "name": "U.L. NORDFLØY",
+  "facts": [
+    {
+      "field": "name",
+      "value": "U.L. NORDFLØY",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "993350281",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-12-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1929-02-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9302",
+        "poststed": "ROSSFJORDSTRAUMEN",
+        "adresse": [
+          "v Elin Myrli"
+        ],
+        "kommune": "SENJA",
+        "kommunenummer": "5530"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "977 75 972",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Janne Kristin Bjørnslett",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karoline Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reidar Ernstsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Merete Rottem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Unni Ernstsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993350281/roller",
+      "retrieved": "2026-09-20T12:18:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:25Z"
+}

@@ -1,0 +1,131 @@
+{
+  "orgnr": "988114332",
+  "name": "ELVEBAKKEN CAMPING V/KARL J. RØDSET",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ELVEBAKKEN CAMPING V/KARL J. RØDSET",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "988114332",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-04-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6210",
+        "poststed": "VALLDAL",
+        "adresse": [
+          "Olavsgata 59"
+        ],
+        "kommune": "FJORD",
+        "kommunenummer": "1578"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "55.300",
+        "beskrivelse": "Drift av campingplasser"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Karl Jostein Rødset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332/roller",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ØKORÅD FJORD AS"
+        ],
+        "orgnr": "920679919",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988114332/roller",
+      "retrieved": "2026-09-20T12:17:25Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:25Z"
+}

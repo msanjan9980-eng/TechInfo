@@ -1,0 +1,168 @@
+{
+  "orgnr": "963397844",
+  "name": "YDDIN FJELLSTUE Bjørg Lauvhaug",
+  "facts": [
+    {
+      "field": "name",
+      "value": "YDDIN FJELLSTUE Bjørg Lauvhaug",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "963397844",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2900",
+        "poststed": "FAGERNES",
+        "adresse": [
+          "Øvrevegen 16"
+        ],
+        "kommune": "NORD-AURDAL",
+        "kommunenummer": "3451"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "55.100",
+        "beskrivelse": "Drift av hoteller"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "post@yddin.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "99 47 80 19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "481 46 830",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Bjørg Lauvhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844/roller",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørg Lauvhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844/roller",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ASB REGNSKAP OG KONTOR AS"
+        ],
+        "orgnr": "996707660",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963397844/roller",
+      "retrieved": "2026-09-20T12:17:30Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:30Z"
+}

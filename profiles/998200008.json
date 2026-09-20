@@ -1,0 +1,301 @@
+{
+  "orgnr": "998200008",
+  "name": "NOODLE NOODLE AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NOODLE NOODLE AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "998200008",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2012-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4006",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "Kirkegata 41"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.110",
+        "beskrivelse": "Drift av restauranter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "employees",
+      "value": 19,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Headcount as reported to Enhetsregisteret. Brreg hides counts below 5."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "chu.shirley@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tsz Wing Chu",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Tsz Wing Chu",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kar Lai Fong",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "AAUDIT AS"
+        ],
+        "orgnr": "927653508",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AMESTO ACCOUNTHOUSE SØR AS"
+        ],
+        "orgnr": "912976904",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998200008/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 15726551.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 281213.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 216934.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 4674638.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 2642027.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 2032611.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/998200008",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:16:59Z"
+}

@@ -1,0 +1,161 @@
+{
+  "orgnr": "991180842",
+  "name": "NIGARD TOXE THOMAS LIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NIGARD TOXE THOMAS LIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "991180842",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-04-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2640",
+        "poststed": "VINSTRA",
+        "adresse": [
+          "Nigard Tokse",
+          "Sødorpvegen 141"
+        ],
+        "kommune": "NORD-FRON",
+        "kommunenummer": "3436"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.190",
+        "beskrivelse": "Dyrking av ettårige vekster ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "thomas.lie20@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "980 12 424",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Thomas Lie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Helene Toxe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OTTA REGNSKAPSKONTOR AS"
+        ],
+        "orgnr": "940828147",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991180842/roller",
+      "retrieved": "2026-09-20T12:17:41Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:41Z"
+}

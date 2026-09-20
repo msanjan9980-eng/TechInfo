@@ -1,0 +1,188 @@
+{
+  "orgnr": "911720922",
+  "name": "EQUALITY",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EQUALITY",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "911720922",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-04-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2013-03-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0353",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Bjørn Bangvoll",
+          "Majorstuveien 5"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.equalityorg.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "emil@equalityorg.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "938 60 145",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn Bangvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922/roller",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørn Bangvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922/roller",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emil Harald Fuglerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922/roller",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kajinthan Sivananthan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911720922/roller",
+      "retrieved": "2026-09-20T12:17:26Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:26Z"
+}

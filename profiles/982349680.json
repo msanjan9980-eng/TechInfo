@@ -1,0 +1,226 @@
+{
+  "orgnr": "982349680",
+  "name": "NORSK FOLKEHJELP DRAMMEN OG OMEGN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORSK FOLKEHJELP DRAMMEN OG OMEGN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "982349680",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-09-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-02-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3048",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Godsetgata 4"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "88.996",
+        "beskrivelse": "Andre sosialtjenester uten botilbud ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "drammen@folkehjelp.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "32 83 57 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2015",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kent Harald Dalager",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tove Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Margaret Wilthil",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mathilde Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Braathen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Willy Roger Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aud Karin Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982349680/roller",
+      "retrieved": "2026-09-20T12:16:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:56Z"
+}

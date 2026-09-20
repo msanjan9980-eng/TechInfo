@@ -1,0 +1,134 @@
+{
+  "orgnr": "925022314",
+  "name": "TH-IT THOMAS HEGGE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TH-IT THOMAS HEGGE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "925022314",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-05-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0158",
+        "poststed": "OSLO",
+        "adresse": [
+          "Akersgata 11"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2280",
+        "poststed": "GJESÅSEN",
+        "adresse": [
+          "Krokmoen 46"
+        ],
+        "kommune": "ÅSNES",
+        "kommunenummer": "3418"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.597",
+        "beskrivelse": "Annen undervisning ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Thomas Hegge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925022314/roller",
+      "retrieved": "2026-09-20T12:16:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:59Z"
+}

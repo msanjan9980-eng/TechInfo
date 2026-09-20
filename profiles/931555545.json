@@ -1,0 +1,150 @@
+{
+  "orgnr": "931555545",
+  "name": "WOODEN VIKING DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WOODEN VIKING DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "931555545",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-06-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-05-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2170",
+        "poststed": "FENSTAD",
+        "adresse": [
+          "Eidsvollvegen 753"
+        ],
+        "kommune": "NES",
+        "kommunenummer": "3228"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "31.000",
+        "beskrivelse": "Produksjon av møbler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Philip Alexander Løvlien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545/roller",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Philip Alexander Løvlien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545/roller",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Mathias Ekeberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931555545/roller",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:21Z"
+}

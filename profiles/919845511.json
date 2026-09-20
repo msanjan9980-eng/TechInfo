@@ -1,0 +1,345 @@
+{
+  "orgnr": "919845511",
+  "name": "BORETTSLAGET HAUKELANDSVEIEN 50B",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BORETTSLAGET HAUKELANDSVEIEN 50B",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "919845511",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-09-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5096",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Haukelandsveien 50B"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5258",
+        "poststed": "BLOMSTERDALEN",
+        "adresse": [
+          "c/o ECIT Økonomiforum AS",
+          "Espehaugen 32"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "ECIT SERVICES AS"
+        ],
+        "orgnr": "993800139",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hanna Victoria Miller",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Odin Knapstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per-Harald Molvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dina Maria Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Andreas Grødem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "FAKTA REVISJON AS"
+        ],
+        "orgnr": "986462406",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT SERVICES AS"
+        ],
+        "orgnr": "993800139",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919845511/roller",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 252012.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 310140.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 260236.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 14042384.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 13413475.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 628910.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/919845511",
+      "retrieved": "2026-09-20T12:17:37Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:37Z"
+}

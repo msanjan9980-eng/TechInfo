@@ -1,0 +1,155 @@
+{
+  "orgnr": "938451605",
+  "name": "UNISA AUTO AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "UNISA AUTO AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "938451605",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-09-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-08-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0950",
+        "poststed": "OSLO",
+        "adresse": [
+          "Bedriftsveien 10"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2008",
+        "poststed": "FJERDINGBY",
+        "adresse": [
+          "Grinavegen 8A"
+        ],
+        "kommune": "RÆLINGEN",
+        "kommunenummer": "3224"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.810",
+        "beskrivelse": "Detaljhandel med motorvogner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Usman Khalid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605/roller",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Usman Khalid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938451605/roller",
+      "retrieved": "2026-09-20T12:17:15Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:15Z"
+}

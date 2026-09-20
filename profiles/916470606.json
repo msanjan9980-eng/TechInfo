@@ -1,0 +1,131 @@
+{
+  "orgnr": "916470606",
+  "name": "KRØLLEN FRISØR V/ HOMEIRA ALIZADEH",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRØLLEN FRISØR V/ HOMEIRA ALIZADEH",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "916470606",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-12-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0491",
+        "poststed": "OSLO",
+        "adresse": [
+          "Kjelsåsveien 160"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "96.210",
+        "beskrivelse": "Frisering og barbering"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Homeira Alizadeh",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606/roller",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SOLID REGNSKAP AS"
+        ],
+        "orgnr": "914910900",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916470606/roller",
+      "retrieved": "2026-09-20T12:17:13Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:13Z"
+}

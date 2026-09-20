@@ -1,0 +1,218 @@
+{
+  "orgnr": "990455066",
+  "name": "SKAGERRAK BIOENERGI ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKAGERRAK BIOENERGI ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "990455066",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-11-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-10-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4821",
+        "poststed": "RYKENE",
+        "adresse": [
+          "Vigelandsveien 379"
+        ],
+        "kommune": "ARENDAL",
+        "kommunenummer": "4203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4886",
+        "poststed": "GRIMSTAD",
+        "adresse": [
+          "c/o Landvik Regnskapslag",
+          "Gjærbrøndveien 280"
+        ],
+        "kommune": "GRIMSTAD",
+        "kommunenummer": "4202"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "16.280",
+        "beskrivelse": "Produksjon av andre trevarer og varer av kork, strå og flettematerialer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "908 98 262",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Sivert Svane",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Sivert Svane",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ingunn Ottersland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sivert Svane",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingunn Ottersland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "LANDVIK REGNSKAP AS"
+        ],
+        "orgnr": "933113302",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990455066/roller",
+      "retrieved": "2026-09-20T12:17:08Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:08Z"
+}

@@ -1,0 +1,132 @@
+{
+  "orgnr": "986527966",
+  "name": "DUNIA GRILL EXPRESS ARAS ABAS GLI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DUNIA GRILL EXPRESS ARAS ABAS GLI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "986527966",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-02-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0186",
+        "poststed": "OSLO",
+        "adresse": [
+          "Brugata 8"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.110",
+        "beskrivelse": "Drift av restauranter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "22 36 11 46",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "403 01 308",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Aras Abas Gli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986527966/roller",
+      "retrieved": "2026-09-20T12:18:15Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:15Z"
+}

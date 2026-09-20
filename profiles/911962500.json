@@ -1,0 +1,246 @@
+{
+  "orgnr": "911962500",
+  "name": "PHONR APPLICATIONS AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PHONR APPLICATIONS AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "911962500",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2013-04-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1366",
+        "poststed": "LYSAKER",
+        "adresse": [
+          "c/o Norwegian Real Estate AS",
+          "Strandveien 15"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.100",
+        "beskrivelse": "Dataprogrammeringstjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Rune Solstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500/roller",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christian Thorsrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500/roller",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENORA AS"
+        ],
+        "orgnr": "935701430",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911962500/roller",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": -15238.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": -15238.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 2.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": -152927.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 152929.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/911962500",
+      "retrieved": "2026-09-20T12:17:59Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:59Z"
+}

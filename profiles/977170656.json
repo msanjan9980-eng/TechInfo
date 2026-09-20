@@ -1,0 +1,139 @@
+{
+  "orgnr": "977170656",
+  "name": "GRY MERETE BRAADLI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRY MERETE BRAADLI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "977170656",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4389",
+        "poststed": "VIKESÅ",
+        "adresse": [
+          "Gloppedalsvegen 316"
+        ],
+        "kommune": "BJERKREIM",
+        "kommunenummer": "1114"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "51 45 11 17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Gry Merete Bentsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BJERKREIM REKNESKAPSKONTOR AS"
+        ],
+        "orgnr": "971068450",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977170656/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:51Z"
+}

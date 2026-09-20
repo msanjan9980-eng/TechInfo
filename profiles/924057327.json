@@ -1,0 +1,116 @@
+{
+  "orgnr": "924057327",
+  "name": "SIGMUND GRØNMO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SIGMUND GRØNMO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "924057327",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-12-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1366",
+        "poststed": "LYSAKER",
+        "adresse": [
+          "Munthes plass 32"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.111",
+        "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Sigmund Harold Grønmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924057327/roller",
+      "retrieved": "2026-09-20T12:18:33Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:33Z"
+}

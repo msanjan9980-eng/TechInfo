@@ -1,0 +1,238 @@
+{
+  "orgnr": "984081235",
+  "name": "SAMEIET GODESETDALEN 10",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET GODESETDALEN 10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "984081235",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-04-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-04-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4156",
+        "poststed": "MOSTERØY",
+        "adresse": [
+          "c/o Viggo Danielsen",
+          "Askjeveien 30"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4156",
+        "poststed": "MOSTERØY",
+        "adresse": [
+          "Askjeveien 30"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "vaktmester@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "51 51 72 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2012",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "DANIELSEN SERVICE AS"
+        ],
+        "orgnr": "990753032",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kjell Jan Finnestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Erik Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Rein Christian Fløisvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "IDSØ & RAVNÅS REVISJON AS"
+        ],
+        "orgnr": "989048732",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HAV REGNSKAP STAVANGER AS"
+        ],
+        "orgnr": "931313657",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984081235/roller",
+      "retrieved": "2026-09-20T12:17:07Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:07Z"
+}

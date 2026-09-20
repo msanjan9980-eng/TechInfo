@@ -1,0 +1,147 @@
+{
+  "orgnr": "982357985",
+  "name": "HARDANGER FJORDHYTTER Laupsa",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HARDANGER FJORDHYTTER Laupsa",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "982357985",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-09-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5610",
+        "poststed": "ØYSTESE",
+        "adresse": [
+          "Hardangerfjordvegen 797"
+        ],
+        "kommune": "KVAM",
+        "kommunenummer": "4622"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "55.200",
+        "beskrivelse": "Drift av vandrerhjem og ferieleiligheter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "lahytter@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "56 55 51 80",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Anne-Torill Laupsa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985/roller",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VEKSTRA HARDANGER OG VOSS AS"
+        ],
+        "orgnr": "992106468",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982357985/roller",
+      "retrieved": "2026-09-20T12:18:42Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:42Z"
+}

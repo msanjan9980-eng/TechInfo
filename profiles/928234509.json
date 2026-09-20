@@ -1,0 +1,151 @@
+{
+  "orgnr": "928234509",
+  "name": "SAMEIET ROMLEHAUGEN 8",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET ROMLEHAUGEN 8",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "928234509",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-11-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5310",
+        "poststed": "HAUGLANDSHELLA",
+        "adresse": [
+          "c/o Tarek Abdulrahman Altinawi",
+          "Romlehaugen 8B"
+        ],
+        "kommune": "ASKØY",
+        "kommunenummer": "4627"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Tarek Abdulrahman Altinawi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509/roller",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emmanuel Stourm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509/roller",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Martin Solstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928234509/roller",
+      "retrieved": "2026-09-20T12:17:09Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:09Z"
+}

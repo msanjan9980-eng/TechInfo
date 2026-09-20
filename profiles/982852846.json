@@ -1,0 +1,192 @@
+{
+  "orgnr": "982852846",
+  "name": "STORKIOSK NR 26 SAGDALEN ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STORKIOSK NR 26 SAGDALEN ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "982852846",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-01-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-12-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1466",
+        "poststed": "STRØMMEN",
+        "adresse": [
+          "Skjettenveien 2A"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2010",
+        "poststed": "STRØMMEN",
+        "adresse": [
+          "Gamle Strømsvei 92"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.110",
+        "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "99 69 63 09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "990 10 705",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2002",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Christin Søderholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Christin Søderholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Vanja Jørum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982852846/roller",
+      "retrieved": "2026-09-20T12:17:44Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DELT."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:44Z"
+}

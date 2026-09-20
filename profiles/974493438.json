@@ -1,0 +1,392 @@
+{
+  "orgnr": "974493438",
+  "name": "ASSA ABLOY GLOBAL SOLUTIONS NORWAY AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASSA ABLOY GLOBAL SOLUTIONS NORWAY AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "974493438",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-05-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "adresse": [
+          "Anolitveien 1 - 3"
+        ],
+        "kommune": "NORDRE FOLLO",
+        "kommunenummer": "3207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1402",
+        "poststed": "SKI",
+        "adresse": [
+          "Postboks 340"
+        ],
+        "kommune": "NORDRE FOLLO",
+        "kommunenummer": "3207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "25.620",
+        "beskrivelse": "Produksjon av låser og beslag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "employees",
+      "value": 87,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Headcount as reported to Enhetsregisteret. Brreg hides counts below 5."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "assaabloy.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "69 24 50 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2024",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hilde Margareta Hesleskaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stephanie Josette Rose Ordan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hilde Margareta Hesleskaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Li Wang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "James Paul Earnshaw",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jon Lars Engebretsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Petter Magnus Vestberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anniken Hornsletten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "MGI REGNSKAP AS"
+        ],
+        "orgnr": "996413764",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974493438/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2024-01-01..2024-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 656341361.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 35615873.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 49567451.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 360439505.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 49619980.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 310819525.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/974493438",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:40Z"
+}

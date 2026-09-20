@@ -1,0 +1,116 @@
+{
+  "orgnr": "931331833",
+  "name": "WARENIUS CONSULTING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WARENIUS CONSULTING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "931331833",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-05-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1626",
+        "poststed": "MANSTAD",
+        "adresse": [
+          "Bossumdalen 20"
+        ],
+        "kommune": "FREDRIKSTAD",
+        "kommunenummer": "3107"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.597",
+        "beskrivelse": "Annen undervisning ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Bengt Rene Warenius",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931331833/roller",
+      "retrieved": "2026-09-20T12:18:34Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:34Z"
+}

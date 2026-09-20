@@ -1,0 +1,265 @@
+{
+  "orgnr": "983464882",
+  "name": "GAMLE OSLO FRP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GAMLE OSLO FRP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "983464882",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-07-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-12-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0190",
+        "poststed": "OSLO",
+        "adresse": [
+          "Platous gate 29"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.920",
+        "beskrivelse": "Aktiviteter i partipolitiske organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.gamleoslo.frp.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "sigurd.fredeng@oslo.online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "975 06 787",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Sigurd Fredeng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sigurd Fredeng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kai-Morten Vestly",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hårek Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Michael Michelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Arne Monsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sølvi Veronika Aasgaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørn Erling Brahman",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Else Berit Haneseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Eddie Thomas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983464882/roller",
+      "retrieved": "2026-09-20T12:18:19Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:19Z"
+}

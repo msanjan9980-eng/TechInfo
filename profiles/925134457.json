@@ -1,0 +1,131 @@
+{
+  "orgnr": "925134457",
+  "name": "TF TECHNOLOGIES TERJE FJELDVIG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TF TECHNOLOGIES TERJE FJELDVIG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "925134457",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-05-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1446",
+        "poststed": "DRØBAK",
+        "adresse": [
+          "Sogstieika 14B"
+        ],
+        "kommune": "FROGN",
+        "kommunenummer": "3214"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Terje Fjeldvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457/roller",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "FIDELIS REGNSKAP AS"
+        ],
+        "orgnr": "912102157",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925134457/roller",
+      "retrieved": "2026-09-20T12:17:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: FFØR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:46Z"
+}

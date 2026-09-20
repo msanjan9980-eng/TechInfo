@@ -1,0 +1,161 @@
+{
+  "orgnr": "984580096",
+  "name": "KCS NORGE Kim-Andre Kollerud",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KCS NORGE Kim-Andre Kollerud",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "984580096",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-06-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3039",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Svelvikveien 154C"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.200",
+        "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.kollerud.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "kim-andre@kollerud.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "32 27 03 04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "474 65 724",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Kim-Andre Kollerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096/roller",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kim-Andre Kollerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984580096/roller",
+      "retrieved": "2026-09-20T12:17:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:51Z"
+}

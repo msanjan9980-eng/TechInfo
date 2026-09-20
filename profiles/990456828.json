@@ -1,0 +1,332 @@
+{
+  "orgnr": "990456828",
+  "name": "RAVINEVEIEN EIENDOM AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RAVINEVEIEN EIENDOM AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "990456828",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-11-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-09-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2318",
+        "poststed": "HAMAR",
+        "adresse": [
+          "Vangsvegen 111"
+        ],
+        "kommune": "HAMAR",
+        "kommunenummer": "3403"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2303",
+        "poststed": "HAMAR",
+        "adresse": [
+          "Postboks 403"
+        ],
+        "kommune": "HAMAR",
+        "kommunenummer": "3403"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "post@upl.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "62 54 00 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Stian Gunnerius Aasterud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Monica Amanda Haugan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sjur Petter Ajer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Paul Morten Brodahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REVI."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AZETS INSIGHT AS"
+        ],
+        "orgnr": "983338917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990456828/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "fiscal_year",
+      "value": "2025-01-01..2025-12-31",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Reporting period of the most recent filed annual account. Currency: NOK."
+    },
+    {
+      "field": "accounting_currency",
+      "value": "NOK",
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Reporting currency of the filed annual accounts. All monetary facts below are in this currency."
+    },
+    {
+      "field": "financials_filing_count",
+      "value": 1,
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Number of annual-account filings available in Regnskapsregisteret for this company."
+    },
+    {
+      "field": "revenue",
+      "value": {
+        "value": 35726231.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Operating revenue (sum of operating income) from the most recent annual accounts."
+    },
+    {
+      "field": "operating_result",
+      "value": {
+        "value": 28159440.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Operating result (EBIT-equivalent) from the most recent annual accounts."
+    },
+    {
+      "field": "net_result",
+      "value": {
+        "value": 15879319.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Net result for the year (aarsresultat) from the most recent annual accounts."
+    },
+    {
+      "field": "total_assets",
+      "value": {
+        "value": 279812705.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Total assets at end of the fiscal year."
+    },
+    {
+      "field": "equity",
+      "value": {
+        "value": 126636397.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Total equity at end of the fiscal year."
+    },
+    {
+      "field": "total_liabilities",
+      "value": {
+        "value": 153176307.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source": "https://data.brreg.no/regnskapsregisteret/regnskap/990456828",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Total liabilities (current + non-current) at end of the fiscal year."
+    }
+  ],
+  "sources_used": [
+    "brreg",
+    "regnskapsregisteret"
+  ],
+  "last_updated": "2026-09-20T12:17:47Z"
+}

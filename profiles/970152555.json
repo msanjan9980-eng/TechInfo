@@ -1,0 +1,157 @@
+{
+  "orgnr": "970152555",
+  "name": "CHRISTIAN BRUN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CHRISTIAN BRUN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "970152555",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3580",
+        "poststed": "GEILO",
+        "adresse": [
+          "Slåttalivegen 31"
+        ],
+        "kommune": "HOL",
+        "kommunenummer": "3330"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3581",
+        "poststed": "GEILO",
+        "adresse": [
+          "Postboks 148"
+        ],
+        "kommune": "HOL",
+        "kommunenummer": "3330"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "81.100",
+        "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "32 09 03 84",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Christian Brun",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HALLINGDAL ØKONOMISERVICE AS"
+        ],
+        "orgnr": "980057925",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970152555/roller",
+      "retrieved": "2026-09-20T12:17:39Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:39Z"
+}

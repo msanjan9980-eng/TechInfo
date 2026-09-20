@@ -1,0 +1,177 @@
+{
+  "orgnr": "930624128",
+  "name": "KVERNMOSÆTRA SKILØYPELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KVERNMOSÆTRA SKILØYPELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "930624128",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-11-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-04-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1927",
+        "poststed": "RÅNÅSFOSS",
+        "adresse": [
+          "c/o Berit Busk",
+          "Bjørkeholtet 20"
+        ],
+        "kommune": "NES",
+        "kommunenummer": "3228"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.292",
+        "beskrivelse": "Fritidsvirksomhet ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Berit Busk",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128/roller",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Are Gustav Havelin",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128/roller",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigbjørn Magne Moen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128/roller",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan-Erik Buer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128/roller",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Roger Jenssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930624128/roller",
+      "retrieved": "2026-09-20T12:17:53Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:53Z"
+}

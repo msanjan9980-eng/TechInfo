@@ -1,0 +1,145 @@
+{
+  "orgnr": "990360472",
+  "name": "BYGG & EIENDOMSSERVICE RAGNAR MARTIN JOHANSEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BYGG & EIENDOMSSERVICE RAGNAR MARTIN JOHANSEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "990360472",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9007",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Nansenvegen 32A"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.120",
+        "beskrivelse": "Utvikling og salg av byggeprosjekter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "ragnarmartin@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "949 71 005",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Ragnar Martin Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ragnar Martin Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990360472/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:14Z"
+}

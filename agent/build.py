@@ -10,11 +10,37 @@ from pathlib import Path
 import httpx
 from tqdm.asyncio import tqdm_asyncio
 
-from .brreg_client import fetch_company, fetch_roles, validate_orgnr
+from . import cache
+from .brreg_client import (
+    fetch_company,
+    fetch_financials,
+    fetch_roles,
+    validate_orgnr,
+)
 from .assemble import assemble_profile
 
 
-async def build_one(orgnr: str, client: httpx.AsyncClient, out_dir: Path) -> bool:
+async def get_financials_cached(
+    orgnr: str, client: httpx.AsyncClient, use_cache: bool = True
+) -> list[dict]:
+    if use_cache:
+        hit = cache.load(orgnr)
+        if hit is not None:
+            return hit
+    try:
+        accounts = await fetch_financials(orgnr, client)
+    except Exception:
+        accounts = None
+    cache.save(orgnr, accounts)
+    return accounts or []
+
+
+async def build_one(
+    orgnr: str,
+    client: httpx.AsyncClient,
+    out_dir: Path,
+    use_cache: bool,
+) -> bool:
     if not validate_orgnr(orgnr):
         print(f"[skip] {orgnr} failed MOD11 checksum", file=sys.stderr)
         return False
@@ -31,7 +57,8 @@ async def build_one(orgnr: str, client: httpx.AsyncClient, out_dir: Path) -> boo
     except Exception as e:
         print(f"[err-roles] {orgnr}: {e}", file=sys.stderr)
         roles = []
-    profile = assemble_profile(company, roles)
+    financials = await get_financials_cached(orgnr, client, use_cache=use_cache)
+    profile = assemble_profile(company, roles, financials=financials)
     out_path = out_dir / f"{orgnr}.json"
     out_path.write_text(
         json.dumps(profile, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -39,7 +66,12 @@ async def build_one(orgnr: str, client: httpx.AsyncClient, out_dir: Path) -> boo
     return True
 
 
-async def run(orgnrs: list[str], out_dir: Path, concurrency: int = 8) -> int:
+async def run(
+    orgnrs: list[str],
+    out_dir: Path,
+    concurrency: int = 8,
+    use_cache: bool = True,
+) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
     sem = asyncio.Semaphore(concurrency)
     headers = {"User-Agent": "norwegian-company-agent/1.0 (research)"}
@@ -52,7 +84,7 @@ async def run(orgnrs: list[str], out_dir: Path, concurrency: int = 8) -> int:
         async def worker(o: str) -> bool:
             async with sem:
                 try:
-                    return await build_one(o, client, out_dir)
+                    return await build_one(o, client, out_dir, use_cache)
                 except Exception as e:
                     print(f"[err] {o}: {e}", file=sys.stderr)
                     return False
@@ -82,11 +114,19 @@ def main() -> int:
     ap.add_argument("--orgnrs", required=True, help="Text file with one orgnr per line")
     ap.add_argument("--output", default="profiles", help="Output directory")
     ap.add_argument("--concurrency", type=int, default=8)
+    ap.add_argument("--no-cache", action="store_true", help="Ignore financial cache and refetch")
     args = ap.parse_args()
 
     orgnrs = load_orgnrs(Path(args.orgnrs))
     print(f"Loaded {len(orgnrs)} orgnrs")
-    ok = asyncio.run(run(orgnrs, Path(args.output), args.concurrency))
+    ok = asyncio.run(
+        run(
+            orgnrs,
+            Path(args.output),
+            args.concurrency,
+            use_cache=not args.no_cache,
+        )
+    )
     print(f"Built {ok}/{len(orgnrs)} profiles into {args.output}")
     return 0 if ok else 1
 

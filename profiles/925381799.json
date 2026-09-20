@@ -1,0 +1,151 @@
+{
+  "orgnr": "925381799",
+  "name": "SKUTEHAMNA NAUSTLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKUTEHAMNA NAUSTLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "925381799",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-07-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-05-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5936",
+        "poststed": "MANGER",
+        "adresse": [
+          "c/o Øystein Myrtveit",
+          "Sætrevegen 2"
+        ],
+        "kommune": "ALVER",
+        "kommunenummer": "4631"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Atle Henning Mariussen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799/roller",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Myrtveit",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799/roller",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Dalland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925381799/roller",
+      "retrieved": "2026-09-20T12:17:56Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:56Z"
+}

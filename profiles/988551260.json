@@ -1,0 +1,155 @@
+{
+  "orgnr": "988551260",
+  "name": "THORSEN PRODUKSJONER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "THORSEN PRODUKSJONER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "988551260",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-08-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4353",
+        "poststed": "KLEPP STASJON",
+        "adresse": [
+          "Vågsvegen 5"
+        ],
+        "kommune": "KLEPP",
+        "kommunenummer": "1120"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "tangfent@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "38 01 51 66",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "92216826",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Torfinn Thorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260/roller",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SKARTVEIT REGNSKAP OG RÅDGIVNING AS"
+        ],
+        "orgnr": "927213753",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988551260/roller",
+      "retrieved": "2026-09-20T12:18:03Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:03Z"
+}

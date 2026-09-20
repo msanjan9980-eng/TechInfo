@@ -1,0 +1,162 @@
+{
+  "orgnr": "922162026",
+  "name": "TBA INTERNATIONAL LLC",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TBA INTERNATIONAL LLC",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "922162026",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-02-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5073",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Fjøsangerveien 179"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "www.thebarbarbarianagency.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "98836104",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": "Christian Gregory Baumgartner",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REPR."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECONIO AS"
+        ],
+        "orgnr": "925947210",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "TBA INTERNATIONAL LLC"
+        ],
+        "orgnr": "922230722",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922162026/roller",
+      "retrieved": "2026-09-20T12:17:47Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: HFOR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:47Z"
+}

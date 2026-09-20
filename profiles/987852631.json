@@ -1,0 +1,140 @@
+{
+  "orgnr": "987852631",
+  "name": "PSYKOLOG ANNE-BRITT SKARBØ",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PSYKOLOG ANNE-BRITT SKARBØ",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "987852631",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-02-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0258",
+        "poststed": "OSLO",
+        "adresse": [
+          "Riddervolds gate 7"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.930",
+        "beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "bibbis@chello.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "phone",
+      "value": "21 92 92 24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "922 92 729",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Anne-Britt Skarbø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987852631/roller",
+      "retrieved": "2026-09-20T12:16:51Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:51Z"
+}

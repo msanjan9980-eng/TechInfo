@@ -1,0 +1,125 @@
+{
+  "orgnr": "914303265",
+  "name": "TILLAAS FILM SIMON TILLAAS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TILLAAS FILM SIMON TILLAAS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "914303265",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-10-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0187",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Åsmund Hasli",
+          "Urtegata 46"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.529",
+        "beskrivelse": "Annen undervisning innenfor kultur"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "simon.tillaas@hotmail.se",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Simon Tillaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914303265/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:35Z"
+}

@@ -1,0 +1,147 @@
+{
+  "orgnr": "993019410",
+  "name": "JAN ARVID AAMO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JAN ARVID AAMO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "993019410",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-08-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2550",
+        "poststed": "OS I ØSTERDALEN",
+        "adresse": [
+          "Vangrøftdalsveien 129"
+        ],
+        "kommune": "OS",
+        "kommunenummer": "3430"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.420",
+        "beskrivelse": "Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "jan.arvid.aamo@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "917 63 654",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jan Arvid Aamo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410/roller",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ØKORÅD OS REGNSKAP AS"
+        ],
+        "orgnr": "998355362",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993019410/roller",
+      "retrieved": "2026-09-20T12:17:21Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:21Z"
+}

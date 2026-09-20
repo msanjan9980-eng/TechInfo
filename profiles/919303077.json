@@ -1,0 +1,116 @@
+{
+  "orgnr": "919303077",
+  "name": "ANDERS FORSMO GOFOTANESTESI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANDERS FORSMO GOFOTANESTESI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "919303077",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-07-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3142",
+        "poststed": "VESTSKOGEN",
+        "adresse": [
+          "Hellalia 86"
+        ],
+        "kommune": "FÆRDER",
+        "kommunenummer": "3911"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.597",
+        "beskrivelse": "Annen undervisning ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Anders Forsmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919303077/roller",
+      "retrieved": "2026-09-20T12:18:00Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:00Z"
+}

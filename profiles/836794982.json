@@ -1,0 +1,132 @@
+{
+  "orgnr": "836794982",
+  "name": "SONDRE TROMMESTAD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SONDRE TROMMESTAD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "836794982",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-12-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4816",
+        "poststed": "KOLBJØRNSVIK",
+        "adresse": [
+          "Gamle Sandvigvei 106"
+        ],
+        "kommune": "ARENDAL",
+        "kommunenummer": "4203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.190",
+        "beskrivelse": "Dyrking av ettårige vekster ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Sondre Trommestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AGDER REGNSKAPSSERVICE",
+          "KAI CHRISTIANSEN AS"
+        ],
+        "orgnr": "884460522",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836794982/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:14Z"
+}

@@ -1,0 +1,210 @@
+{
+  "orgnr": "924440015",
+  "name": "FAU - VED TRESFJORD ENSPIRE SKULE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FAU - VED TRESFJORD ENSPIRE SKULE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "924440015",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-02-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6391",
+        "poststed": "TRESFJORD",
+        "adresse": [
+          "Kjersemhaugvegen 46"
+        ],
+        "kommune": "VESTNES",
+        "kommunenummer": "1535"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "408 84 157",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Lars Christian Martin Skystedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tone Øverås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marianne Skjegstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Silje Maria Lenning",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lasse Øvstedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torstein Hoel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nadia Høgseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924440015/roller",
+      "retrieved": "2026-09-20T12:17:27Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:27Z"
+}

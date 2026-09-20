@@ -1,0 +1,197 @@
+{
+  "orgnr": "997400550",
+  "name": "KRIK KVITSUND",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRIK KVITSUND",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "997400550",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-08-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3850",
+        "poststed": "KVITESEID",
+        "adresse": [
+          "Kvitsund Gymnas"
+        ],
+        "kommune": "KVITESEID",
+        "kommunenummer": "4028"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "98087606",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Håkon Andreas Monsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigurd Holhjem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Maria Rydland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Markus Brekka",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Henrik Ljosland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helene Halsos",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997400550/roller",
+      "retrieved": "2026-09-20T12:18:35Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:35Z"
+}

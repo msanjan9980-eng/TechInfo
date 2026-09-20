@@ -1,0 +1,224 @@
+{
+  "orgnr": "994239244",
+  "name": "TREVATN VEL",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TREVATN VEL",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "994239244",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-12-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1982-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2840",
+        "poststed": "REINSVOLL",
+        "adresse": [
+          "Trevatn"
+        ],
+        "kommune": "SØNDRE LAND",
+        "kommunenummer": "3447"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2840",
+        "poststed": "REINSVOLL",
+        "adresse": [
+          "Trevatn",
+          "Trevassvegen 1528"
+        ],
+        "kommune": "SØNDRE LAND",
+        "kommunenummer": "3447"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered postal address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "website",
+      "value": "trevatn-vel.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "medium",
+      "note": "Website as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "email",
+      "value": "bredehau@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jarl Brede Hauge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: DAGL."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anders Norman Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Martin Klevengen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jarl Brede Hauge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Britt Nagel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Margrethe Holmen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994239244/roller",
+      "retrieved": "2026-09-20T12:18:05Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:05Z"
+}

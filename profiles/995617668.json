@@ -1,0 +1,166 @@
+{
+  "orgnr": "995617668",
+  "name": "HVASSER PENSJONISTFORENING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HVASSER PENSJONISTFORENING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "995617668",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-06-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2010-05-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3148",
+        "poststed": "HVASSER",
+        "adresse": [
+          "Krukeveien 27"
+        ],
+        "kommune": "FÆRDER",
+        "kommunenummer": "3911"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "blaa@hvasser.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "930 84 137",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Evelyn Abrahamsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Oskar Schei",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabeth Thorbjørnsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995617668/roller",
+      "retrieved": "2026-09-20T12:17:01Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:01Z"
+}

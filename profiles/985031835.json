@@ -1,0 +1,150 @@
+{
+  "orgnr": "985031835",
+  "name": "THORBJØRN GAUSTADSÆTHER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "THORBJØRN GAUSTADSÆTHER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "985031835",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-11-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2240",
+        "poststed": "MAGNOR",
+        "adresse": [
+          "Nordalsvegen 15"
+        ],
+        "kommune": "EIDSKOG",
+        "kommunenummer": "3416"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.110",
+        "beskrivelse": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Secondary industry code."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "phone",
+      "value": "67 14 87 09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "medium",
+      "note": "Phone as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Thorbjørn Gaustadsæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "PROGRESSUM KONGSVINGER AS"
+        ],
+        "orgnr": "936011489",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985031835/roller",
+      "retrieved": "2026-09-20T12:18:14Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:18:14Z"
+}

@@ -117,6 +117,32 @@ async def fetch_roles(
     return out
 
 
+REGNSKAP_BASE = "https://data.brreg.no/regnskapsregisteret/regnskap"
+
+
+async def fetch_financials(
+    orgnr: str, client: httpx.AsyncClient
+) -> list[dict] | None:
+    """Return the list of filed annual accounts for a company, or None.
+
+    The Regnskapsregisteret endpoint returns a JSON array with one element
+    per filed accounting period, most recent first.
+    """
+    try:
+        data = await _get_json(client, f"{REGNSKAP_BASE}/{orgnr}")
+    except httpx.HTTPStatusError:
+        return None
+    except httpx.HTTPError:
+        return None
+    if not data:
+        return None
+    if isinstance(data, list):
+        return data
+    if isinstance(data, dict):
+        return [data]
+    return None
+
+
 async def fetch_updates(
     since_date: str, client: httpx.AsyncClient
 ) -> list[str]:

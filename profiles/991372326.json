@@ -1,0 +1,174 @@
+{
+  "orgnr": "991372326",
+  "name": "LHL MODUM",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LHL MODUM",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "991372326",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-03-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "1976-01-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3360",
+        "poststed": "GEITHUS",
+        "adresse": [
+          "Tomtaveien 6"
+        ],
+        "kommune": "MODUM",
+        "kommunenummer": "3316"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "88.996",
+        "beskrivelse": "Andre sosialtjenester uten botilbud ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "email",
+      "value": "lhl.modum@lhl.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "medium",
+      "note": "Email as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "mobile",
+      "value": "470 32 539",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2010",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Date of most recently submitted annual accounts per Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Lise-Lotte Hovde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326/roller",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mette-Marit Hovde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326/roller",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Oddveig Evelyn Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991372326/roller",
+      "retrieved": "2026-09-20T12:17:12Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:12Z"
+}

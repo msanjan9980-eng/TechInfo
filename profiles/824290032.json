@@ -1,0 +1,131 @@
+{
+  "orgnr": "824290032",
+  "name": "PEDERSEN OG CO HANDYMAN SERVICE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PEDERSEN OG CO HANDYMAN SERVICE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "824290032",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-12-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3442",
+        "poststed": "HYGGEN",
+        "adresse": [
+          "Hallhagan 25"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "96.990",
+        "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jan-Erik Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032/roller",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SON REGNSKAP AS"
+        ],
+        "orgnr": "932065215",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/824290032/roller",
+      "retrieved": "2026-09-20T12:17:06Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: REGN."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:06Z"
+}

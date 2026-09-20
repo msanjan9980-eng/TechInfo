@@ -1,0 +1,116 @@
+{
+  "orgnr": "987416505",
+  "name": "ISABEL Vibeke Isabel Oskal",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ISABEL Vibeke Isabel Oskal",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "987416505",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-11-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6823",
+        "poststed": "SANDANE",
+        "adresse": [
+          "Øvre Valborgkleiva 22"
+        ],
+        "kommune": "GLOPPEN",
+        "kommunenummer": "4650"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Vibeke Isabel Oskal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987416505/roller",
+      "retrieved": "2026-09-20T12:16:46Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: INNH."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:16:46Z"
+}

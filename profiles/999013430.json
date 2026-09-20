@@ -1,0 +1,171 @@
+{
+  "orgnr": "999013430",
+  "name": "NORDRE HOLTAN BRYGGELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDRE HOLTAN BRYGGELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Official name in Enhetsregisteret."
+    },
+    {
+      "field": "orgnr",
+      "value": "999013430",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Norwegian organisation number (MOD11-validated)."
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered legal form (organisasjonsform)."
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-03-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Date of registration in Enhetsregisteret."
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-04-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Founding date as recorded in Enhetsregisteret."
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3219",
+        "poststed": "SANDEFJORD",
+        "adresse": [
+          "Skuteveien 3"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered business address."
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Primary industry code (NACE / SN2007)."
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in the Norwegian VAT register (MVA)."
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Whether the company is registered in Foretaksregisteret."
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Bankruptcy flag. false means no open bankruptcy at retrieval time."
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Liquidation flag."
+    },
+    {
+      "field": "mobile",
+      "value": "91190769",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "medium",
+      "note": "Mobile as self-reported to Enhetsregisteret."
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Truls Glittum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Roger Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjell Einar Sørby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tor-Erling Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999013430/roller",
+      "retrieved": "2026-09-20T12:17:40Z",
+      "confidence": "high",
+      "note": "Registered role from Enhetsregisteret. Role group: STYR."
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T12:17:40Z"
+}
