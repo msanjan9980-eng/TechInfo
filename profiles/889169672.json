@@ -1,0 +1,265 @@
+{
+  "orgnr": "889169672",
+  "name": "VÅRTUN KRISTNE OPPVEKSTSENTER - BARNEHAGE SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VÅRTUN KRISTNE OPPVEKSTSENTER - BARNEHAGE SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "889169672",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-02-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-11-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7607",
+        "poststed": "LEVANGER",
+        "adresse": [
+          "Vårtun",
+          "Alstadhaugvegen 150"
+        ],
+        "kommune": "LEVANGER",
+        "kommunenummer": "5037"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.100",
+        "beskrivelse": "Førskoleundervisning og drift av barnehager"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 22,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "vaartun.barnehage.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "mtrefjord@vko.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Margit Johanne Trefjord",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kjetil Kopstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Maren Skarpsno",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tonje Fjellvang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Evy Johanne Willis",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Einar Braseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Asbjørn Einar Hogstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "PBL REGNSKAP AS"
+        ],
+        "orgnr": "988954691",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889169672/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:08Z"
+}

@@ -1,0 +1,112 @@
+{
+  "orgnr": "936028969",
+  "name": "VALMET AUTOMATION OY",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VALMET AUTOMATION OY",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936028969",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-08-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1999-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Finland",
+        "landkode": "FI",
+        "poststed": "FI-02150 ESPOO",
+        "adresse": [
+          "Keilasatama 5"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Færøyene",
+        "landkode": "FO",
+        "poststed": "FI-02151 ESPOO",
+        "adresse": [
+          "P.O. Box 11"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936028969",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

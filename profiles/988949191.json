@@ -1,0 +1,167 @@
+{
+  "orgnr": "988949191",
+  "name": "BLÅHAMMEREN SKOGSVEIFORENING BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BLÅHAMMEREN SKOGSVEIFORENING BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988949191",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-01-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-10-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7506",
+        "poststed": "STJØRDAL",
+        "adresse": [
+          "v/Olav Beistad Fornes",
+          "Beistadgrenda"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "74 82 82 91",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97053715",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "John Reidar Vold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørn Helge Hofstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Fornes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988949191/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:14Z"
+}

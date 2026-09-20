@@ -1,0 +1,295 @@
+{
+  "orgnr": "971576715",
+  "name": "NARVIK SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NARVIK SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971576715",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-08-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8516",
+        "poststed": "NARVIK",
+        "adresse": [
+          "Frydenlundgata 9"
+        ],
+        "kommune": "NARVIK",
+        "kommunenummer": "1806"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "kirken.no/narvik",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.narvik@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "91 75 78 11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "481 00 399",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Grethe Feragen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øivind Bakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hugo Terje Vanje-Remlo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Boy-Arne Persson-Buyle",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl-Børre Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eirin Lovise Føre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Ivar Sivertsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øydis Jakobsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lisbeth Knustad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Irene Marita Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "WI REGNSKAP OG REVISJON AS"
+        ],
+        "orgnr": "925809896",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "NARVIK KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976999851",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971576715/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:53Z"
+}

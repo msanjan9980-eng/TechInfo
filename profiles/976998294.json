@@ -1,0 +1,233 @@
+{
+  "orgnr": "976998294",
+  "name": "KIRKELIG FELLESRÅD I TRONDHEIM",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KIRKELIG FELLESRÅD I TRONDHEIM",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976998294",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7013",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "Munkegata 6"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7004",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "Postboks 2300 Torgarden"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "96.300",
+        "beskrivelse": "Begravelsesbyråvirksomhet og lignende tjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 259,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "kirken.no/trondheim",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.trondheim@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "994 36 000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kjell Inge Nordgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Odd Anders With",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Steen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "TRONDHEIM KOMMUNEREVISJON"
+        ],
+        "orgnr": "976663438",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AIDER AS"
+        ],
+        "orgnr": "922633452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998294/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

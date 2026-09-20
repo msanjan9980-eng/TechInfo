@@ -1,0 +1,314 @@
+{
+  "orgnr": "837900212",
+  "name": "ØRSKOG SPAREBANK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØRSKOG SPAREBANK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "837900212",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1855-04-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6240",
+        "poststed": "ØRSKOG",
+        "adresse": [
+          "Sjøholtvegen 21"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6249",
+        "poststed": "ØRSKOG",
+        "adresse": [
+          "Postboks 235"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 30,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.orskogsparebank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@orskogsparebank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 27 35 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Eirik Kavli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Fredrik Furstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torstein Stavseng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Wenche Kristin Lehre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Silje Teigen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Petter Leon Fauske",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Rune Westerås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "John Erik Mathiesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lene Christin Bratseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Monica Henningsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837900212/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:42Z"
+}

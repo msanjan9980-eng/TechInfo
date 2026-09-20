@@ -1,0 +1,250 @@
+{
+  "orgnr": "990966435",
+  "name": "BORETTSLAGET STONGAFJELLET",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BORETTSLAGET STONGAFJELLET",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990966435",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-03-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-01-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5301",
+        "poststed": "KLEPPESTØ",
+        "adresse": [
+          "Stongafjellsvegen 36C"
+        ],
+        "kommune": "ASKØY",
+        "kommunenummer": "4627"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0667",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Millor AS",
+          "Brynsveien 12"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "CHIMAERA REGNSKAP BERGEN AS"
+        ],
+        "orgnr": "992017767",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Alex Rottmann",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Erik Klepsvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Joachim Sebastian Giovanni Bertelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Veronica Grunér",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ICI REVISJON AS"
+        ],
+        "orgnr": "999079539",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "MILLOR AS"
+        ],
+        "orgnr": "914994888",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990966435/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:57Z"
+}

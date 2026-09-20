@@ -1,0 +1,114 @@
+{
+  "orgnr": "938512280",
+  "name": "LEBANGLE UNGDOMSBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LEBANGLE UNGDOMSBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938512280",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-09-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-09-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4365",
+        "poststed": "NÆRBØ",
+        "adresse": [
+          "Tryggheim vidaregåande skule",
+          "Tryggheimvegen 13"
+        ],
+        "kommune": "HÅ",
+        "kommunenummer": "1119"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Tora Marie Kjerkreit",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938512280/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

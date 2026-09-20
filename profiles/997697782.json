@@ -1,0 +1,156 @@
+{
+  "orgnr": "997697782",
+  "name": "SAMEIET GAMLE HVERVEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET GAMLE HVERVEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997697782",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-09-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1344",
+        "poststed": "HASLUM",
+        "adresse": [
+          "c/o Eilif M Brudtkorb",
+          "Kirkeveien 150"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "ninabrodtkorb.spilling@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "90 53 50 35",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Eilif Magnus Brodtkorb",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nina Spilling",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eilif Magnus Brodtkorb",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997697782/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:38Z"
+}

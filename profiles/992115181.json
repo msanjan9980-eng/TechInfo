@@ -1,0 +1,324 @@
+{
+  "orgnr": "992115181",
+  "name": "MOLDE KOMMUNALE PENSJONSKASSE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOLDE KOMMUNALE PENSJONSKASSE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "992115181",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Pensjonskasse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-01-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-09-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6413",
+        "poststed": "MOLDE",
+        "adresse": [
+          "Rådhusplassen 1"
+        ],
+        "kommune": "MOLDE",
+        "kommunenummer": "1506"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "65.300",
+        "beskrivelse": "Pensjonskasser"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.molde.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "pensjonskassen@molde.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 11 10 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "93231443",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Lars Larsen-Lassabliere",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Roar Beck",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Petter Kjerstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kari Gagnat",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thorbjørn Myhre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne-Karin Sjøli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ingvild Wold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Svein Atle Roset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Terje Tovan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Øystein Solli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Karen Setnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "GABLER ACCOUNTING AS"
+        ],
+        "orgnr": "992142278",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992115181/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:15Z"
+}

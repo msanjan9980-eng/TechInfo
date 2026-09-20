@@ -1,0 +1,159 @@
+{
+  "orgnr": "815660552",
+  "name": "CK-TEKNIKK NORWAY",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CK-TEKNIKK NORWAY",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "815660552",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-07-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "7200 Grindsted",
+        "adresse": [
+          "Trehøjevej 5"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "DK-7400 HERNING",
+        "adresse": [
+          "c/o Advokat Lise Jakobsen",
+          "Golfvej 12"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.640",
+        "beskrivelse": "Engroshandel med maskiner og utstyr ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "TIMEVAT AS"
+        ],
+        "orgnr": "923458204",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Sine Borup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "CK-TEKNIK A/S"
+        ],
+        "orgnr": "915660819",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/815660552/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

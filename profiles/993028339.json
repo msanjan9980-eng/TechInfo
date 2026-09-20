@@ -1,0 +1,175 @@
+{
+  "orgnr": "993028339",
+  "name": "APOTEKERGADEN 9 A + B KS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "APOTEKERGADEN 9 A + B KS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "993028339",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-09-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-08-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6004",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "Apotekergata 9A"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "APOTEKERGADEN 9 A + 9 B AS"
+        ],
+        "orgnr": "993038601",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Malin Gjørtz",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lasse Kjønstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE BOREALIS AS"
+        ],
+        "orgnr": "936295800",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993028339/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:21Z"
+}

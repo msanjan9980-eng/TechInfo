@@ -1,0 +1,396 @@
+{
+  "orgnr": "923971890",
+  "name": "IKT NORDHORDLAND KOMMUNALT OPPGÅVEFELLESSKAP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "IKT NORDHORDLAND KOMMUNALT OPPGÅVEFELLESSKAP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "923971890",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-01-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-11-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5914",
+        "poststed": "ISDALSTØ",
+        "adresse": [
+          "Hagellia 6"
+        ],
+        "kommune": "ALVER",
+        "kommunenummer": "4631"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 36,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "iktnh.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@iktnh.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53 00 34 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Thomas Rønn-Aar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ETNE KOMMUNE"
+        ],
+        "orgnr": "959435375",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "TYSNES KOMMUNE"
+        ],
+        "orgnr": "959412340",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VINDAFJORD KOMMUNE"
+        ],
+        "orgnr": "988893226",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ALVER KOMMUNE"
+        ],
+        "orgnr": "920290922",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "AURLAND KOMMUNE"
+        ],
+        "orgnr": "964968063",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "AUSTRHEIM KOMMUNE"
+        ],
+        "orgnr": "948350823",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "AUSTEVOLL KOMMUNE"
+        ],
+        "orgnr": "941139787",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FEDJE KOMMUNE"
+        ],
+        "orgnr": "944041036",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "GULEN KOMMUNE"
+        ],
+        "orgnr": "938497524",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MASFJORDEN KOMMUNE"
+        ],
+        "orgnr": "945627913",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MODALEN KOMMUNE"
+        ],
+        "orgnr": "964969302",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "OSTERØY KOMMUNE"
+        ],
+        "orgnr": "864338712",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SAMNANGER KOMMUNE"
+        ],
+        "orgnr": "964968985",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SVEIO KOMMUNE"
+        ],
+        "orgnr": "864967272",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VAKSDAL KOMMUNE"
+        ],
+        "orgnr": "961821967",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTLANDSREVISJON AS"
+        ],
+        "orgnr": "995198827",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923971890/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

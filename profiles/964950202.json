@@ -1,0 +1,181 @@
+{
+  "orgnr": "964950202",
+  "name": "NANNESTAD KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NANNESTAD KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "964950202",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2030",
+        "poststed": "NANNESTAD",
+        "adresse": [
+          "Teiealleen 31"
+        ],
+        "kommune": "NANNESTAD",
+        "kommunenummer": "3238"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2031",
+        "poststed": "NANNESTAD",
+        "adresse": [
+          "Postboks 3"
+        ],
+        "kommune": "NANNESTAD",
+        "kommunenummer": "3238"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 1780,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.nannestad.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@nannestad.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "66 10 50 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Finn-Arild Bystrøm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ROMERIKE REVISJON IKS"
+        ],
+        "orgnr": "913150619",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964950202/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:13Z"
+}

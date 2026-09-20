@@ -1,0 +1,189 @@
+{
+  "orgnr": "995507250",
+  "name": "HELLAS AMBASSADE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HELLAS AMBASSADE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "995507250",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-06-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1980-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0268",
+        "poststed": "OSLO",
+        "adresse": [
+          "Nobels gate 45"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0244",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 4020 AMB"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "99.000",
+        "beskrivelse": "Aktiviteter i internasjonale organisasjoner og organer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "mfa.gr",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "gremb.osl@mfa.gr",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 44 27 28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90718162",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Efthymios Charlaftis",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ALPHA FORRETNINGSFØRSEL AS"
+        ],
+        "orgnr": "996841162",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995507250/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:46Z"
+}

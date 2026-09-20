@@ -1,0 +1,479 @@
+{
+  "orgnr": "913748174",
+  "name": "AKER SOLUTIONS ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKER SOLUTIONS ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "913748174",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-05-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1366",
+        "poststed": "LYSAKER",
+        "adresse": [
+          "Oksenøyveien 8"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1325",
+        "poststed": "LYSAKER",
+        "adresse": [
+          "Postboks 169"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "09.109",
+        "beskrivelse": "Andre tjenester tilknyttet utvinning av råolje og naturgass"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Pål Eikeseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Leif Arne Langøy",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lone Schrøder",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabeth Tørstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Line Breidablikk",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hilde Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Christian Rødby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øyvind Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigurd Sævareid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Birgit Aagaard-Svendsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harald Lauritz Thorstein",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Anders Oscar Lindberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Arnstein Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sigurd Andre Maraas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Rolf Arne Grønning",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Leif Egil Thorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Wenke Heien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jenny Fortun",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ragnhild Torgersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Torstein Engevik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Torgeir Opdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jorunn Wilhelmsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Thomas Halleraker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kjell Inge Røkke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "INFOSYS NORWAY AS"
+        ],
+        "orgnr": "930520101",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913748174/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:07Z"
+}

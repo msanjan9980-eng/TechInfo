@@ -1,0 +1,128 @@
+{
+  "orgnr": "998816378",
+  "name": "ARBEIDSGRUPPEN FOR ANTIBIOTIKASPØRSMÅL OG METODER FOR RESISTENSBESTEMMELSE (AFA)",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARBEIDSGRUPPEN FOR ANTIBIOTIKASPØRSMÅL OG METODER FOR RESISTENSBESTEMMELSE (AFA)",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "998816378",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Administrativ enhet - offentlig sektor",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-09-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9016",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Stallovegen 34"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kritonby@ous-hf.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Kristian Tonby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Adm. enhet - offentlig sektor",
+      "value": {
+        "name": [
+          "HELSEDIREKTORATET"
+        ],
+        "orgnr": "983544622",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998816378/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: ADOS"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:13Z"
+}

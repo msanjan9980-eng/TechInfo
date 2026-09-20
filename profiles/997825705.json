@@ -1,0 +1,340 @@
+{
+  "orgnr": "997825705",
+  "name": "SMØLA NÆRINGS- OG KULTURSENTER KF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SMØLA NÆRINGS- OG KULTURSENTER KF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997825705",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommunalt foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-01-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-12-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6570",
+        "poststed": "SMØLA",
+        "adresse": [
+          "Rådhusveien 15"
+        ],
+        "kommune": "SMØLA",
+        "kommunenummer": "1573"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6571",
+        "poststed": "SMØLA",
+        "adresse": [
+          "Postboks 34"
+        ],
+        "kommune": "SMØLA",
+        "kommunenummer": "1573"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.130",
+        "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "79.121",
+        "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.smolakommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@smola.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 54 46 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97103906",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Gunnlaug Kristiansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sigmund Roksvåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Ingunn Merete Hopmark",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ann Helen Stamnsve",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Odd Harald Solheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Roksvåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Yngve Vean",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lena Knutsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Arve Iversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Heidi Lura",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "MØRE OG ROMSDAL REVISJON SA"
+        ],
+        "orgnr": "923746552",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Eierkommune",
+      "value": {
+        "name": [
+          "SMØLA KOMMUNE"
+        ],
+        "orgnr": "945012986",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997825705/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: EIKM"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:37Z"
+}

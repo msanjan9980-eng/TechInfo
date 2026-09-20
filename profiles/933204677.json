@@ -1,0 +1,177 @@
+{
+  "orgnr": "933204677",
+  "name": "RINGEBU ØSTFJELL STATSALLMENNING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RINGEBU ØSTFJELL STATSALLMENNING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933204677",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-03-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1957-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2634",
+        "poststed": "FÅVANG",
+        "adresse": [
+          "c/o Svein Arne Søreng",
+          "Sørengsvegen 51"
+        ],
+        "kommune": "RINGEBU",
+        "kommunenummer": "3439"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Svein Arne Søreng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristian Hauge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ivar Artur Kvalvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjell Arne Borgedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Arne Brenden",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933204677/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:37Z"
+}

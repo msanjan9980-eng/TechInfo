@@ -1,0 +1,308 @@
+{
+  "orgnr": "987780657",
+  "name": "ÅLESUND BRANNVESEN KF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ÅLESUND BRANNVESEN KF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987780657",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommunalt foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-02-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2004-06-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6008",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "Sjømannsvegen 1B"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.250",
+        "beskrivelse": "Brannvernaktiviteter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 243,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "brannvesenet@alesund.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 16 20 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Sindre Egeness",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Monica Molvær",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Fride Sortehaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Olav Almås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åse Karin Gjære",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Bjørkavåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Frode Andresen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ingrid Steinshamn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tor André Franck",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Helge Veum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jon Oddvar Slyngstadli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "MØRE OG ROMSDAL REVISJON SA"
+        ],
+        "orgnr": "923746552",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Eierkommune",
+      "value": {
+        "name": [
+          "ÅLESUND KOMMUNE"
+        ],
+        "orgnr": "929911709",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987780657/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: EIKM"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:43Z"
+}

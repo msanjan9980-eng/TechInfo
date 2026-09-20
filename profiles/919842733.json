@@ -1,0 +1,288 @@
+{
+  "orgnr": "919842733",
+  "name": "BINDAL EVENT DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BINDAL EVENT DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "919842733",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7982",
+        "poststed": "BINDALSEIDET",
+        "adresse": [
+          "Inngårdsveien 25"
+        ],
+        "kommune": "BINDAL",
+        "kommunenummer": "1811"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7982",
+        "poststed": "BINDALSEIDET",
+        "adresse": [
+          "Nygårdsveien 10"
+        ],
+        "kommune": "BINDAL",
+        "kommunenummer": "1811"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "tomhelstad@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "412 03 469",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tom Rune Helstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Jørund Vegar Lislien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Hans Otto Helstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Tom Rune Helstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Dag Christer Brønmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Kenneth Thomassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Otto Helstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jørund Vegar Lislien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kenneth Thomassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dag Christer Brønmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tom Rune Helstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919842733/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:24Z"
+}

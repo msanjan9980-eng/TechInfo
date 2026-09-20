@@ -1,0 +1,116 @@
+{
+  "orgnr": "932348802",
+  "name": "STUDIO OM BY MARTA OBI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STUDIO OM BY MARTA OBI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "932348802",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-10-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4316",
+        "poststed": "SANDNES",
+        "adresse": [
+          "Solaveien 65"
+        ],
+        "kommune": "SANDNES",
+        "kommunenummer": "1108"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "71.110",
+        "beskrivelse": "Arkitektvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Marta Obi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932348802/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:28Z"
+}

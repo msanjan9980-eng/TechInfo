@@ -1,0 +1,114 @@
+{
+  "orgnr": "936208320",
+  "name": "SKAPERGLEDE UNGDOMSBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKAPERGLEDE UNGDOMSBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936208320",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-09-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-09-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5244",
+        "poststed": "FANA",
+        "adresse": [
+          "Stend vidaregåande skule",
+          "Fanavegen 249"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Evy Dame",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936208320/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:16Z"
+}

@@ -1,0 +1,166 @@
+{
+  "orgnr": "945442522",
+  "name": "FØRLAND MAT DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FØRLAND MAT DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "945442522",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-11-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5570",
+        "poststed": "AKSDAL",
+        "adresse": [],
+        "kommune": "TYSVÆR",
+        "kommunenummer": "1146"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5570",
+        "poststed": "AKSDAL",
+        "adresse": [
+          "FØRLAND"
+        ],
+        "kommune": "TYSVÆR",
+        "kommunenummer": "1146"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.110",
+        "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Øyvind Hopland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Øyvind Hopland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Eva Hopland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/945442522/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:57Z"
+}

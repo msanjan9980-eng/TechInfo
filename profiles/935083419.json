@@ -1,0 +1,171 @@
+{
+  "orgnr": "935083419",
+  "name": "VALTER BYGG AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VALTER BYGG AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935083419",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-02-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-02-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4056",
+        "poststed": "TANANGER",
+        "adresse": [
+          "Plattformvegen 2"
+        ],
+        "kommune": "SOLA",
+        "kommunenummer": "1124"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4003",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "v/Adv. Trond Geitung-Larsen",
+          "Postboks 719 Sentrum"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "41.000",
+        "beskrivelse": "Oppføring av bygninger"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": "Bengt Arvid Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "VALTER BYGG AS"
+        ],
+        "orgnr": "927561263",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935083419/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:21Z"
+}

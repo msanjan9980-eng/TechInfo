@@ -1,0 +1,154 @@
+{
+  "orgnr": "993301639",
+  "name": "STATENS KUNSTNERSTIPEND",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STATENS KUNSTNERSTIPEND",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "993301639",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Administrativ enhet - offentlig sektor",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0459",
+        "poststed": "OSLO",
+        "adresse": [
+          "Mølleparken 2"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0421",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 4782 Nydalen"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Esmail Azadfar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "DIREKTORATET FOR FORVALTNING OG",
+          "ØKONOMISTYRING"
+        ],
+        "orgnr": "986252932",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Adm. enhet - offentlig sektor",
+      "value": {
+        "name": [
+          "KULTURDIREKTORATET"
+        ],
+        "orgnr": "971527412",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993301639/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: ADOS"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:11Z"
+}

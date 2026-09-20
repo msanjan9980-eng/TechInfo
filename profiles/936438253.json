@@ -1,0 +1,159 @@
+{
+  "orgnr": "936438253",
+  "name": "KLØFTA BYGG OG TRANSPORT AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KLØFTA BYGG OG TRANSPORT AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936438253",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2040",
+        "poststed": "KLØFTA",
+        "adresse": [
+          "c/o Attila Artur Szabo",
+          "Gamle-Kløfta 8"
+        ],
+        "kommune": "ULLENSAKER",
+        "kommunenummer": "3209"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2013",
+        "poststed": "SKJETTEN",
+        "adresse": [
+          "v/Adv. Elin Battbakk Myrset",
+          "Hvamstubben 17"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "49.410",
+        "beskrivelse": "Godstransport på vei"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "KLØFTA BYGG OG TRANSPORT AS"
+        ],
+        "orgnr": "931368206",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936438253/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:06Z"
+}

@@ -1,0 +1,144 @@
+{
+  "orgnr": "927998467",
+  "name": "PROTECNIUM NORWAY NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PROTECNIUM NORWAY NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927998467",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-11-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Spania",
+        "landkode": "ES",
+        "poststed": "ES-06800 MERIDA BADAJOZ",
+        "adresse": [
+          "c/Manuel Nunez, 3, Ptl. 6, 4 Pta A"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "71.129",
+        "beskrivelse": "Annen teknisk konsulentvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Antonio Carl Francisco Holstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BD VAT AND TAX SERVICES AS"
+        ],
+        "orgnr": "975801179",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "PROTECNIUM, INGENIERIA Y SERVICIOS",
+          "S.L."
+        ],
+        "orgnr": "928126048",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927998467/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:38Z"
+}

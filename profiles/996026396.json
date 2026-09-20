@@ -1,0 +1,174 @@
+{
+  "orgnr": "996026396",
+  "name": "EL & IT-KLUBBEN MOELVEN ELEKTRO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EL & IT-KLUBBEN MOELVEN ELEKTRO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "996026396",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-10-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-11-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2390",
+        "poststed": "MOELV",
+        "adresse": [],
+        "kommune": "RINGSAKER",
+        "kommunenummer": "3411"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2391",
+        "poststed": "MOELV",
+        "adresse": [
+          "Postboks 54"
+        ],
+        "kommune": "RINGSAKER",
+        "kommunenummer": "3411"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.200",
+        "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "jan_arve.sinnerud@c2i.net",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan Arve Sinnerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Cato Skoglund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Amund Godager",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996026396/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:13Z"
+}

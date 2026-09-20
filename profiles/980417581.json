@@ -1,0 +1,207 @@
+{
+  "orgnr": "980417581",
+  "name": "SAMEIET EINARS VEI 35",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET EINARS VEI 35",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980417581",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1999-04-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-12-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "Dronning Eufemias gate 16"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Solibo AS",
+          "Dronning Eufemias gate 16"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.solibo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "SOLIBO AS"
+        ],
+        "orgnr": "920800572",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Einar Nielssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Mortensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigurd Thyholdt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SOLIBO AS"
+        ],
+        "orgnr": "920800572",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980417581/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

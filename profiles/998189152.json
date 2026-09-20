@@ -1,0 +1,149 @@
+{
+  "orgnr": "998189152",
+  "name": "KAROLINA SOLBERGS DØDSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KAROLINA SOLBERGS DØDSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "998189152",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Andre bo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2012-03-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5014",
+        "poststed": "BERGEN",
+        "adresse": [
+          "c/o advokat Marie Aarseth",
+          "Torgallmenningen 3B"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5804",
+        "poststed": "BERGEN",
+        "adresse": [
+          "c/o advokat Marie Aarseth",
+          "Postboks 271 Sentrum"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "ma@advokatbergen.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "55 55 96 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Marie Aarseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998189152/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:20Z"
+}

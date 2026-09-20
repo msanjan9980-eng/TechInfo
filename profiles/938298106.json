@@ -1,0 +1,154 @@
+{
+  "orgnr": "938298106",
+  "name": "BØHMERGATEN 6 SAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BØHMERGATEN 6 SAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938298106",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-08-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-03-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5057",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Bøhmergaten 6"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "SENIT AS"
+        ],
+        "orgnr": "925047104",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Joar Sognefest",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SENIT AS"
+        ],
+        "orgnr": "925047104",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938298106/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:11Z"
+}

@@ -1,0 +1,205 @@
+{
+  "orgnr": "989997890",
+  "name": "NAKED HOLLYWOOD RECORDS DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NAKED HOLLYWOOD RECORDS DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989997890",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-09-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-06-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7054",
+        "poststed": "RANHEIM",
+        "adresse": [
+          "Fykenvegen 23"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "59.200",
+        "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "slombercontact@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97187006",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Odd-Reidar Liasjø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Odd-Reidar Liasjø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Thomas Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Andreas Rekstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Tom Andre Hånsnar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Eivind Vatshaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989997890/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

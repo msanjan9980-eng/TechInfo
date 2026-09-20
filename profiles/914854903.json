@@ -1,0 +1,220 @@
+{
+  "orgnr": "914854903",
+  "name": "GRAND CANYON 2 KS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRAND CANYON 2 KS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "914854903",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-01-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-12-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6092",
+        "poststed": "FOSNAVÅG",
+        "adresse": [
+          "Mjølstadnesvegen 24"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1515"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6001",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "c/o Volstad Management AS",
+          "Postboks 1137"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "77.340",
+        "beskrivelse": "Utleie og leasing av sjøtransportmateriell"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Christoffer Syversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "GRAND CANYON 2 AS"
+        ],
+        "orgnr": "914800501",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stein Pettersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Rabben",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Njål Sævik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914854903/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:06Z"
+}

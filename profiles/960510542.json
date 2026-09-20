@@ -1,0 +1,181 @@
+{
+  "orgnr": "960510542",
+  "name": "VOSS HERAD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VOSS HERAD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "960510542",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5700",
+        "poststed": "VOSS",
+        "adresse": [
+          "Uttrågata 9"
+        ],
+        "kommune": "VOSS",
+        "kommunenummer": "4621"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5701",
+        "poststed": "VOSS",
+        "adresse": [
+          "Postboks 145"
+        ],
+        "kommune": "VOSS",
+        "kommunenummer": "4621"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 2358,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.voss.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@voss.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "56 51 94 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Martin William Kulild",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTLANDSREVISJON IKS"
+        ],
+        "orgnr": "925841153",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960510542/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:17Z"
+}

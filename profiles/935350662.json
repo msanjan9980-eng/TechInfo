@@ -1,0 +1,159 @@
+{
+  "orgnr": "935350662",
+  "name": "AIDAN WHITLEY ART & DESIGN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AIDAN WHITLEY ART & DESIGN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935350662",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-04-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8297",
+        "poststed": "TRANØY",
+        "adresse": [
+          "c/o Hamsundgalleriet på Tranøy",
+          "Nikolai Walsøes vei 6"
+        ],
+        "kommune": "HAMARØY",
+        "kommunenummer": "1875"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8294",
+        "poststed": "HAMARØY",
+        "adresse": [
+          "Vestfjordveien 1699"
+        ],
+        "kommune": "HAMARØY",
+        "kommunenummer": "1875"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.690",
+        "beskrivelse": "Detaljhandel med kulturvarer ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.vinnybonger.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "aidanwhitleycreative@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+420605097646",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Aidan Niall Baharie Whitley",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935350662/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:16Z"
+}

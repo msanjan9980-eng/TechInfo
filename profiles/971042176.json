@@ -1,0 +1,161 @@
+{
+  "orgnr": "971042176",
+  "name": "VEST-AGDER FYLKESKOMMUNE ØKONOMISEKSJONEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VEST-AGDER FYLKESKOMMUNE ØKONOMISEKSJONEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971042176",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4611",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "V/KOMMUNEKASSEREREN"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4605",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "Postboks 517  Lundsiden"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tine Sundtoft",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "VEST-AGDER FYLKESKOMMUNE",
+          "UNDER SLETTING FRA 01.01.2020"
+        ],
+        "orgnr": "960895827",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971042176/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:57Z"
+}

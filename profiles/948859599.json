@@ -1,0 +1,257 @@
+{
+  "orgnr": "948859599",
+  "name": "OVENBAKKEN 27 OG 31 BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OVENBAKKEN 27 OG 31 BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "948859599",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1984-02-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0581",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o OBOS Eiendomsforvaltning AS",
+          "Standardveien 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0614",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o OBOS Eiendomsforvaltning AS",
+          "Postboks 393 Alnabru"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "02333",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Wenche Helene Braathen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Erlend Kjetil Rooth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tine Bleken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Theodor Skeie-Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bernt Follestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "TELL NORGE AS"
+        ],
+        "orgnr": "834836912",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948859599/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

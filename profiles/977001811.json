@@ -1,0 +1,173 @@
+{
+  "orgnr": "977001811",
+  "name": "BÅTSFJORD SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BÅTSFJORD SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "977001811",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9990",
+        "poststed": "BÅTSFJORD",
+        "adresse": [
+          "Prestegårdsbakken 5"
+        ],
+        "kommune": "BÅTSFJORD",
+        "kommunenummer": "5632"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9991",
+        "poststed": "BÅTSFJORD",
+        "adresse": [
+          "Postboks 343"
+        ],
+        "kommune": "BÅTSFJORD",
+        "kommunenummer": "5632"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "solfrid.hammer@batsfjordmenighet.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "78 98 33 33",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Solfrid Hammer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KOMREV NORD IKS"
+        ],
+        "orgnr": "986574689",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001811/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:32Z"
+}

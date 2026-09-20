@@ -1,0 +1,220 @@
+{
+  "orgnr": "975733505",
+  "name": "OSEN FJELLSTYRE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OSEN FJELLSTYRE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "975733505",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-03-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7740",
+        "poststed": "STEINSDALEN",
+        "adresse": [],
+        "kommune": "OSEN",
+        "kommunenummer": "5020"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.osenfjellstyre.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "osen@fjellstyrene.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "920 12 418",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OROS BJØRNØR ØKONOMI AS"
+        ],
+        "orgnr": "943315329",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Tormod Brede",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Oddbjørn Ovesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Oddgeir Green",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trond Norvald Åsegg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Susann Strand-Albertsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "NAMDALSEID REGNSKAP AS"
+        ],
+        "orgnr": "976944194",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975733505/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:29Z"
+}

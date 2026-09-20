@@ -1,0 +1,143 @@
+{
+  "orgnr": "990480613",
+  "name": "GRZEGORZ PRANSZKE BUDEX",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRZEGORZ PRANSZKE BUDEX",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990480613",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-11-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Polen",
+        "landkode": "PL",
+        "poststed": "84200 WEJHEROWO",
+        "adresse": [
+          "Os Kaszubski 10 nr lok 23"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "43.221",
+        "beskrivelse": "Rørleggerarbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "NORDIC TRADING COMPANY AS"
+        ],
+        "orgnr": "987531770",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Lasse Rino Gylvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "GRZEGORZ PRANSZKE BUDEX"
+        ],
+        "orgnr": "990480702",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990480613/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:15Z"
+}

@@ -1,0 +1,288 @@
+{
+  "orgnr": "990918546",
+  "name": "SCATEC ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SCATEC ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990918546",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-02-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-02-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0277",
+        "poststed": "OSLO",
+        "adresse": [
+          "Askekroken 11"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0218",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1049 Hoff"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "35.123",
+        "beskrivelse": "Produksjon av elektrisitet fra solenergi"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 136,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@scatec.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "48 08 55 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97414000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Terje Pilskog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jørgen Kildahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mette Krogsrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Espen Gundersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Maria Tallaksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Kildemo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kirstine Damkjær",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Finn Bjørn Ruyter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990918546/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

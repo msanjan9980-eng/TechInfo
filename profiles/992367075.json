@@ -1,0 +1,199 @@
+{
+  "orgnr": "992367075",
+  "name": "NESTTUN PLUSS KS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NESTTUN PLUSS KS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "992367075",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-02-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-01-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0380",
+        "poststed": "OSLO",
+        "adresse": [
+          "Silurveien 2"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0311",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 13"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.120",
+        "beskrivelse": "Utvikling og salg av byggeprosjekter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 13 70 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "NESTTUN PLUSS KOMPLEMENTAR AS"
+        ],
+        "orgnr": "992314958",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sverre Molvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Petter Teigland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Halvard Kverne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992367075/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:00Z"
+}

@@ -1,0 +1,159 @@
+{
+  "orgnr": "969883449",
+  "name": "NORDRE KJEMSJØLITEIG ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDRE KJEMSJØLITEIG ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "969883449",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1974-06-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2420",
+        "poststed": "TRYSIL",
+        "adresse": [
+          "v/ Harald Østmoe",
+          "Liavegen 23"
+        ],
+        "kommune": "TRYSIL",
+        "kommunenummer": "3421"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 45 70 76",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Harald Østmoe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Gunnar Østmoe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Tor Ivar Østmoe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969883449/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:11Z"
+}

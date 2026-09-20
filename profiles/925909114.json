@@ -1,0 +1,190 @@
+{
+  "orgnr": "925909114",
+  "name": "BOLIGSAMEIET SOGNSVEIEN 110 OSLO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOLIGSAMEIET SOGNSVEIEN 110 OSLO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "925909114",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-04-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-11-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0860",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Søren Nielsen",
+          "Sognsveien 110F"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Søren Nielsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Vetle Støre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Martin Christoffer Westin",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Petter Knutsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bent Jarle Lundborg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lasse Brurok",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925909114/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:46Z"
+}

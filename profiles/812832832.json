@@ -1,0 +1,147 @@
+{
+  "orgnr": "812832832",
+  "name": "HASLUM IDRETTSLAG HÅNDBALL",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HASLUM IDRETTSLAG HÅNDBALL",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "812832832",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-12-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1938-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1357",
+        "poststed": "BEKKESTUA",
+        "adresse": [
+          "Gjønnesjordet 36"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.120",
+        "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67 12 20 21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anne Torhild Hemmingsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "HASLUM IDRETTSLAG"
+        ],
+        "orgnr": "969958872",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812832832/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:51Z"
+}

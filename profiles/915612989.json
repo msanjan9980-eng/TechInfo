@@ -1,0 +1,171 @@
+{
+  "orgnr": "915612989",
+  "name": "E-MIRROR INTERNET PTY LIMITED NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "E-MIRROR INTERNET PTY LIMITED NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915612989",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-07-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0262",
+        "poststed": "OSLO",
+        "adresse": [
+          "Verdun Trade Center",
+          "Bygdøy allé 14"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0259",
+        "poststed": "OSLO",
+        "adresse": [
+          "President Harbitz' gate 23A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "63.100",
+        "beskrivelse": "Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "21 04 29 93",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Steven Michael Royce",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Steven Michael Royce",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "E-MIRROR INTERNET PTY LIMITED"
+        ],
+        "orgnr": "915613063",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915612989/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

@@ -1,0 +1,97 @@
+{
+  "orgnr": "811775142",
+  "name": "FRICO UTHYRNING AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRICO UTHYRNING AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "811775142",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-04-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2013-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "442 40 Kungälv",
+        "adresse": [
+          "Rattgatan 2"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/811775142",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:35Z"
+}

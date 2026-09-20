@@ -1,0 +1,203 @@
+{
+  "orgnr": "922967180",
+  "name": "MOTVIND NORDVEST",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOTVIND NORDVEST",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "922967180",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-06-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-05-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6060",
+        "poststed": "HAREID",
+        "adresse": [
+          "c/o Øyvind Grimstad Gryt",
+          "Geileplassen 15"
+        ],
+        "kommune": "HAREID",
+        "kommunenummer": "1517"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "John Ivar Myklebust",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjell Tandberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Hestflått",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jørgen Åkre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kaja Runde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øyvind Gryt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jarl Stig Molnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922967180/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:18Z"
+}

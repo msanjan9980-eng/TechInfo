@@ -1,0 +1,255 @@
+{
+  "orgnr": "982686970",
+  "name": "BIRKELUNDEN BOLIGSAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BIRKELUNDEN BOLIGSAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "982686970",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-12-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0181",
+        "poststed": "OSLO",
+        "adresse": [
+          "Arbeidersamfunnets plass 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0028",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 8944 Youngstorget"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "usbl.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "BOLIGBYGGELAGET USBL"
+        ],
+        "orgnr": "950285680",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Thorleif Birger Moe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torunn Ellefsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Idar Rangsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Håkon Espevik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Hans Ove Ringstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KPMG AS"
+        ],
+        "orgnr": "935174627",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BOLIGBYGGELAGET USBL"
+        ],
+        "orgnr": "950285680",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982686970/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:50Z"
+}

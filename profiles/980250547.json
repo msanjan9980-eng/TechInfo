@@ -1,0 +1,366 @@
+{
+  "orgnr": "980250547",
+  "name": "ITERA ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ITERA ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980250547",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-11-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-09-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0161",
+        "poststed": "OSLO",
+        "adresse": [
+          "Stortingsgata 6"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0114",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1384 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.200",
+        "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 20,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.itera.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "contact@itera.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 00 76 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Arne Mjøs",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Morten Thorkildsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gyrid Ingerø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åshild Hanne Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Andreas Vestre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Haakon Lomsdalen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jessica Elvira Carlsson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Henrik Hedegaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Helene Jørum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ida Marie Hildebrandt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Vishal Kaura",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Trond Lie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Emil Oliver Hamborgstrøm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bente Mikkelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980250547/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:07Z"
+}

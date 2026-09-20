@@ -1,0 +1,151 @@
+{
+  "orgnr": "923547711",
+  "name": "SAMEIET HEGGDALSVEIEN 4",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET HEGGDALSVEIEN 4",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "923547711",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-10-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2016-03-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4372",
+        "poststed": "EGERSUND",
+        "adresse": [
+          "c/o Inger Torhild Sæstad",
+          "Heggdalsveien 4D"
+        ],
+        "kommune": "EIGERSUND",
+        "kommunenummer": "1101"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Inger Torhild Sæstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kari Hannisdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Hetland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923547711/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:30Z"
+}

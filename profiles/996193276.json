@@ -1,0 +1,193 @@
+{
+  "orgnr": "996193276",
+  "name": "SKRIVERSKOGEN VEL",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKRIVERSKOGEN VEL",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "996193276",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-12-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1970-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2214",
+        "poststed": "KONGSVINGER",
+        "adresse": [
+          "c/o Kaja Maaø Hara",
+          "Djupdalsfaret 5"
+        ],
+        "kommune": "KONGSVINGER",
+        "kommunenummer": "3401"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kajamaao@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "406 12 802",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kaja Hara",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørnar Søberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jørn Kristian Undelstvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Jørgen Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emilie Herneshagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996193276/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

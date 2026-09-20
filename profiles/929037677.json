@@ -1,0 +1,132 @@
+{
+  "orgnr": "929037677",
+  "name": "SJR GEMS WORLD PATEL ART JUWELRY",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SJR GEMS WORLD PATEL ART JUWELRY",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "929037677",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-04-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1281",
+        "poststed": "OSLO",
+        "adresse": [
+          "Blakkens vei 121"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.770",
+        "beskrivelse": "Detaljhandel med ur, klokker og smykker"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "md.143@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "451 96 887",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Md Mahiboob Patel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929037677/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:48Z"
+}

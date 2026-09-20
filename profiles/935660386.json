@@ -1,0 +1,158 @@
+{
+  "orgnr": "935660386",
+  "name": "RØNNING INVEST HOLDING AS TVANGSAVVIKLINGSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RØNNING INVEST HOLDING AS TVANGSAVVIKLINGSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935660386",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3179",
+        "poststed": "ÅSGÅRDSTRAND",
+        "adresse": [
+          "Palettveien 1"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3181",
+        "poststed": "HORTEN",
+        "adresse": [
+          "v/Adv. Øivind Rief Armo",
+          "Torget 6A"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "RØNNING INVEST HOLDING AS"
+        ],
+        "orgnr": "927047969",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935660386/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

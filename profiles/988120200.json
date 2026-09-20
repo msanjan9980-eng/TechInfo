@@ -1,0 +1,158 @@
+{
+  "orgnr": "988120200",
+  "name": "SØRE FARSTAD VASSVERK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SØRE FARSTAD VASSVERK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988120200",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-04-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1955-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6444",
+        "poststed": "FARSTAD",
+        "adresse": [],
+        "kommune": "HUSTADVIKA",
+        "kommunenummer": "1579"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "982 68 979",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Brynjulv Reitan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Brynjulv Reitan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ulf Reitan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tone Helen Reitan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988120200/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

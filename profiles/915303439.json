@@ -1,0 +1,143 @@
+{
+  "orgnr": "915303439",
+  "name": "BALLOGRAF AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BALLOGRAF AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915303439",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-05-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-426 52 VÄSTRA FRÖLUNDA",
+        "adresse": [
+          "Klangfärgsgatan 6"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "28.230",
+        "beskrivelse": "Produksjon av kontormaskiner og utstyr, unntatt datamaskiner og tilleggsutstyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Sindre Hagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "BALLOGRAF AB"
+        ],
+        "orgnr": "915303471",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915303439/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:11Z"
+}

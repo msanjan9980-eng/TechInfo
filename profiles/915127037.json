@@ -1,0 +1,122 @@
+{
+  "orgnr": "915127037",
+  "name": "KPAAL LTD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KPAAL LTD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915127037",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-04-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-05-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Storbritannia",
+        "landkode": "GB",
+        "poststed": "ABERDEENSHIRE AB42 1WN SCOTLAND",
+        "adresse": [
+          "Acumen House Grange Road",
+          "Peterhead"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Storbritannia",
+        "landkode": "GB",
+        "poststed": "GLASGOW G3 6AA SCOTLAND",
+        "adresse": [
+          "Trinity House",
+          "31 Lynedoch Street"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "aue@nicolsonaccountancy.co.uk",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915127037",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:16Z"
+}

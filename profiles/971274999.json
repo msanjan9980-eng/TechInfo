@@ -1,0 +1,247 @@
+{
+  "orgnr": "971274999",
+  "name": "SAMEIET TORSHOVGATEN 37",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET TORSHOVGATEN 37",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971274999",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1984-01-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0569",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Enqvist Boligforvaltning AS",
+          "Konghellegata 3"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0502",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Enqvist Boligforvaltning AS",
+          "Postboks 6653 Rodeløkka"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.enqvist.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@enqvist.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 80 95 95",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "ENQVIST BOLIGFORVALTNING AS"
+        ],
+        "orgnr": "991398805",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anders Bredmose",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gert Ove Mollestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Johan Hagtvet",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENQVIST BOLIGFORVALTNING AS"
+        ],
+        "orgnr": "991398805",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971274999/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:30Z"
+}

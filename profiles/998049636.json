@@ -1,0 +1,217 @@
+{
+  "orgnr": "998049636",
+  "name": "SMART IT AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SMART IT AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "998049636",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2012-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2408",
+        "poststed": "ELVERUM",
+        "adresse": [
+          "Elvarheimgata 10C"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.200",
+        "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 14,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67 90 31 10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Odd Kåre Trøen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Odd Kåre Trøen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thomas Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jørgen Haseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ROBERT LER REVISJON AS"
+        ],
+        "orgnr": "992322241",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "LØRENSKOG REGNSKAP AS"
+        ],
+        "orgnr": "913191560",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998049636/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:26Z"
+}

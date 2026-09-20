@@ -1,0 +1,158 @@
+{
+  "orgnr": "934314824",
+  "name": "JMD AUTO AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JMD AUTO AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934314824",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4636",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "Barstølveien 5B"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4610",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "v/Adv. Sverre Bragdø-Ellenes",
+          "Østre Strandgate 5"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.810",
+        "beskrivelse": "Detaljhandel med motorvogner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "JMD AUTO AS"
+        ],
+        "orgnr": "922164819",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934314824/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:18Z"
+}

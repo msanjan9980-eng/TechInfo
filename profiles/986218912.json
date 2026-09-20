@@ -1,0 +1,182 @@
+{
+  "orgnr": "986218912",
+  "name": "NAIVE COMMUNICATION ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NAIVE COMMUNICATION ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986218912",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-11-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-10-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5725",
+        "poststed": "VAKSDAL",
+        "adresse": [
+          "Brekkena 11"
+        ],
+        "kommune": "VAKSDAL",
+        "kommunenummer": "4628"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.120",
+        "beskrivelse": "Skapende kunstnerisk virksomhet innenfor visuell kunst"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.angelshaug.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "anneangelshaug@googlemail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "95 04 27 34",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "950 42 734",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anne Irene Angelshaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Anne Irene Angelshaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Julian David Mills",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986218912/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:44Z"
+}

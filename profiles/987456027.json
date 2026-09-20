@@ -1,0 +1,105 @@
+{
+  "orgnr": "987456027",
+  "name": "NIPPON YUSEN KABUSKHIKI KAISHA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NIPPON YUSEN KABUSKHIKI KAISHA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987456027",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-11-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1885-09-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Japan",
+        "landkode": "JP",
+        "poststed": "100-0005 TOKYO",
+        "adresse": [
+          "3-2 Marunouchi 2 Chome, Chiyoda-Ku"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+81 332845100",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987456027",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:08Z"
+}

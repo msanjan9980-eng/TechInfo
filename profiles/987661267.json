@@ -1,0 +1,216 @@
+{
+  "orgnr": "987661267",
+  "name": "FURULUND BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FURULUND BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987661267",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1946-07-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2260",
+        "poststed": "KIRKENÆR",
+        "adresse": [
+          "c/o Roy Bråthen",
+          "Granstien 6"
+        ],
+        "kommune": "GRUE",
+        "kommunenummer": "3417"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Roy Egil Bråthen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Roy Egil Bråthen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stein Terje Skyrudsmoen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger-Lise Næss",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjarne Ingar Hammer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Ole Hveberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ola Lilleåsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "May Lis Sund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987661267/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:41Z"
+}

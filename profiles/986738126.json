@@ -1,0 +1,121 @@
+{
+  "orgnr": "986738126",
+  "name": "SANDREW METRONOME AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SANDREW METRONOME AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986738126",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "114 86 Stockholm",
+        "adresse": [
+          "Floragt 4"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0105",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Schibsted ASA",
+          "Postboks 490  Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Camilla Jarlsby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986738126/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:42Z"
+}

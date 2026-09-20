@@ -1,0 +1,215 @@
+{
+  "orgnr": "971326441",
+  "name": "STIFTELSEN RJUKAN IDRETT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN RJUKAN IDRETT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971326441",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3650",
+        "poststed": "TINN AUSTBYGD",
+        "adresse": [
+          "c/o Mikkel Edvardsen",
+          "Skirvedalsvegen 113"
+        ],
+        "kommune": "TINN",
+        "kommunenummer": "4026"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.190",
+        "beskrivelse": "Sportsaktiviteter ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Mikkel Edvardsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Andres Halvard Sætre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lill Iren Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Silje Vaa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Petter Wendt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTFOLD OG TELEMARK REVISJON IKS"
+        ],
+        "orgnr": "923822410",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AIDER AS"
+        ],
+        "orgnr": "922633452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971326441/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

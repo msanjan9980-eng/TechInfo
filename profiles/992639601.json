@@ -1,0 +1,151 @@
+{
+  "orgnr": "992639601",
+  "name": "STORALMENNINGEN GRUNNEIERLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STORALMENNINGEN GRUNNEIERLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "992639601",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1978-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8255",
+        "poststed": "RØKLAND",
+        "adresse": [
+          "Storalmenningen",
+          "v Atle Hopstad"
+        ],
+        "kommune": "SALTDAL",
+        "kommunenummer": "1840"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Atle Hopstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Johan Vassbotn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Runar Kristensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992639601/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:41Z"
+}

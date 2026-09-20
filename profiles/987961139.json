@@ -1,0 +1,165 @@
+{
+  "orgnr": "987961139",
+  "name": "WORLD CUP DRAMMEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WORLD CUP DRAMMEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987961139",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-03-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3032",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Torsbergveien 23"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3006",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Postboks 9096"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.120",
+        "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "wc@worldcupdrammen.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90022792",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Arne Madsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "KONNERUD IDRETTSLAG"
+        ],
+        "orgnr": "971307277",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987961139/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:31Z"
+}

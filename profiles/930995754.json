@@ -1,0 +1,124 @@
+{
+  "orgnr": "930995754",
+  "name": "EMBASSY OF THE STATE OF KUWAIT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EMBASSY OF THE STATE OF KUWAIT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "930995754",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-03-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-01-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0159",
+        "poststed": "OSLO",
+        "adresse": [
+          "Karl Johans gate 31"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "99.000",
+        "beskrivelse": "Aktiviteter i internasjonale organisasjoner og organer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Raed Abdulla Sayed Rajab Alrifai",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930995754/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:36Z"
+}

@@ -1,0 +1,152 @@
+{
+  "orgnr": "961385628",
+  "name": "KLEVEN TRADING ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KLEVEN TRADING ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "961385628",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1991-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3182",
+        "poststed": "HORTEN",
+        "adresse": [
+          "Storgata 73"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Sten Ramberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Jens Petter Kleven",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "MAGNAR NILSEN CONSULTING AS"
+        ],
+        "orgnr": "936025609",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/961385628/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:43Z"
+}

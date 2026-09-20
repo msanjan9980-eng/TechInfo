@@ -1,0 +1,158 @@
+{
+  "orgnr": "934834410",
+  "name": "KRINGELEN MASKINSERVICE AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRINGELEN MASKINSERVICE AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934834410",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-01-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-01-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8404",
+        "poststed": "SORTLAND",
+        "adresse": [
+          "Risevegen 133A"
+        ],
+        "kommune": "SORTLAND",
+        "kommunenummer": "1870"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8455",
+        "poststed": "STOKMARKNES",
+        "adresse": [
+          "v/Adv. Hanne Elise Skare",
+          "Postboks 48"
+        ],
+        "kommune": "HADSEL",
+        "kommunenummer": "1866"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "33.120",
+        "beskrivelse": "Reparasjon og vedlikehold av maskiner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "KRINGELEN MASKINSERVICE AS"
+        ],
+        "orgnr": "923391118",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934834410/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

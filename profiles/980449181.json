@@ -1,0 +1,338 @@
+{
+  "orgnr": "980449181",
+  "name": "COOP OTTADALEN SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "COOP OTTADALEN SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980449181",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1999-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-10-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2686",
+        "poststed": "LOM",
+        "adresse": [
+          "Sognefjellsvegen 2"
+        ],
+        "kommune": "LOM",
+        "kommunenummer": "3434"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.110",
+        "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "47.520",
+        "beskrivelse": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 86,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@ottadalen.coop.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "61 21 92 10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Rune Fossmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eva Birgitta Stee",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tor Erik Stamstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingrid Myrhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anniken Stee",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Flemming Vestergaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Knut Staalesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Unni Merete Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ingeborg Rønnaug Båtnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anne Ingebjørg Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jørn Roger Hagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Erik Bøie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ann Kristin Kolstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE BOREALIS AS"
+        ],
+        "orgnr": "936295800",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980449181/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:17Z"
+}

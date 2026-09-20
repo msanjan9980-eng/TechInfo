@@ -1,0 +1,114 @@
+{
+  "orgnr": "921634528",
+  "name": "SAMEIET HAVNVIKVEGEN VEGLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET HAVNVIKVEGEN VEGLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921634528",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-03-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-05-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6697",
+        "poststed": "VIHALS",
+        "adresse": [
+          "c/o John Olav Sagli",
+          "Skardsøyvegen 875"
+        ],
+        "kommune": "AURE",
+        "kommunenummer": "1576"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "John Olav Sagli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921634528/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

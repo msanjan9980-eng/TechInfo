@@ -1,0 +1,158 @@
+{
+  "orgnr": "877241882",
+  "name": "AR SKOG & TRE ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AR SKOG & TRE ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "877241882",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-02-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2230",
+        "poststed": "SKOTTERUD",
+        "adresse": [
+          "Vestmarkavegen 43"
+        ],
+        "kommune": "EIDSKOG",
+        "kommunenummer": "3416"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.610",
+        "beskrivelse": "Engroshandel med maskiner og utstyr til jordbruk og skogbruk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 83 61 09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Odd Anders Repshus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Rolf Anders Hassel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Odd Anders Repshus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877241882/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:42Z"
+}

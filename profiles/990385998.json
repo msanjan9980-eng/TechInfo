@@ -1,0 +1,156 @@
+{
+  "orgnr": "990385998",
+  "name": "SAMEIET GRØNLUND EIENDOM",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET GRØNLUND EIENDOM",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990385998",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-10-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-09-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4052",
+        "poststed": "RØYNEBERG",
+        "adresse": [
+          "c/o Eli Aspen",
+          "Fiskeholsvegen 34"
+        ],
+        "kommune": "SOLA",
+        "kommunenummer": "1124"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "eli.aspen@lyse.net",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "909 78 264",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Eli Aspen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eli Aspen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Leif Aspen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990385998/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:06Z"
+}

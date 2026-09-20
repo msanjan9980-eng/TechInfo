@@ -1,0 +1,200 @@
+{
+  "orgnr": "984998902",
+  "name": "NORDLEDVEGEN VEGFORENING BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDLEDVEGEN VEGFORENING BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "984998902",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-01-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4014",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "c/o Edward Prestholm",
+          "Verven 14C"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "958 88 153",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Edward Prestholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tor Børge Salvesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arvid Norås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reinert Idsø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tormod Idsø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "RYGR ØKONOMI AS"
+        ],
+        "orgnr": "976899709",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984998902/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:22Z"
+}

@@ -1,0 +1,221 @@
+{
+  "orgnr": "979519729",
+  "name": "FRIDTHJOV OG AAGOT ANDERSSENS LEGAT STI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRIDTHJOV OG AAGOT ANDERSSENS LEGAT STI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979519729",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-01-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1950-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8023",
+        "poststed": "BODØ",
+        "adresse": [
+          "v/Reidar Sletteng",
+          "Lillegjerdåsen 10"
+        ],
+        "kommune": "BODØ",
+        "kommunenummer": "1804"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "reidar.sletteng@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan Gunnar Hoff",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reidar Sletteng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helene Anderssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Synnøve Pettersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Håkon Andreas Møller",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sølve Eggebø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SALTEN KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "986655271",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979519729/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

@@ -1,0 +1,176 @@
+{
+  "orgnr": "989130633",
+  "name": "NORVEGICUM INVEST AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORVEGICUM INVEST AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989130633",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-01-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-12-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3580",
+        "poststed": "GEILO",
+        "adresse": [
+          "Ustedalen 74B"
+        ],
+        "kommune": "HOL",
+        "kommunenummer": "3330"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "74.200",
+        "beskrivelse": "Fotografvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "pauth@frisurf.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "48035565",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Casper Uthus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Pål Harald Uthus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AXIS REGNSKAP AS"
+        ],
+        "orgnr": "912202429",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989130633/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

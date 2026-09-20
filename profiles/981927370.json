@@ -1,0 +1,161 @@
+{
+  "orgnr": "981927370",
+  "name": "ALI PIZZA DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALI PIZZA DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "981927370",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-05-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-04-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1368",
+        "poststed": "STABEKK",
+        "adresse": [
+          "Skogveien 61B"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "73.110",
+        "beskrivelse": "Reklamebyråvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "navn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "firmapost@navn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "95 06 59 09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Dag Øivind Rolfsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Knut Håland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981927370/roller",
+      "retrieved": "2026-09-20T10:15:11Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:11Z"
+}

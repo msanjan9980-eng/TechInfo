@@ -1,0 +1,236 @@
+{
+  "orgnr": "930181935",
+  "name": "BOGSTADVEIEN HOLDING AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOGSTADVEIEN HOLDING AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "930181935",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-11-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2022-10-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Fearnley Business Management A",
+          "Dronning Eufemias gate 8"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0107",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Fearnley Business Management AS",
+          "Postboks 1158 Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "FEARNLEY BUSINESS MANAGEMENT AS"
+        ],
+        "orgnr": "941388930",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Herman Horn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nicolas Frederik Horn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Cornelia Horn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stephan Jervell",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "FEARNLEY BUSINESS MANAGEMENT AS"
+        ],
+        "orgnr": "941388930",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930181935/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:43Z"
+}

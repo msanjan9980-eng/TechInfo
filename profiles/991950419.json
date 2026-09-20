@@ -1,0 +1,184 @@
+{
+  "orgnr": "991950419",
+  "name": "STUBERG OG RØDDE SAMDRIFT DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STUBERG OG RØDDE SAMDRIFT DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991950419",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-11-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7517",
+        "poststed": "HELL",
+        "adresse": [
+          "Stuberg Nedre"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95241188",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jan Egil Stuberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Jan Egil Stuberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Peder Anders Gaustad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan Egil Stuberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Oddvar Arne Gaustad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991950419/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:54Z"
+}

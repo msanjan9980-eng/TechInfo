@@ -1,0 +1,373 @@
+{
+  "orgnr": "833333682",
+  "name": "SOGN KOMMUNALT OPPGÅVEFELLESSKAP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOGN KOMMUNALT OPPGÅVEFELLESSKAP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "833333682",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-08-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-02-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6856",
+        "poststed": "SOGNDAL",
+        "adresse": [
+          "Gravensteinsgata 17"
+        ],
+        "kommune": "SOGNDAL",
+        "kommunenummer": "4640"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SOGNDAL KOMMUNE"
+        ],
+        "orgnr": "922121893",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "LUSTER KOMMUNE"
+        ],
+        "orgnr": "964968241",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ÅRDAL KOMMUNE"
+        ],
+        "orgnr": "954679721",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "LÆRDAL KOMMUNE"
+        ],
+        "orgnr": "954681890",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "AURLAND KOMMUNE"
+        ],
+        "orgnr": "964968063",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VIK KOMMUNE"
+        ],
+        "orgnr": "937498764",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gunn Lerøy",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jarle Skartun",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mette Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Steinar Søgaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gunhild Alis Stang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jon Bolstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Geir Svendsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Harald Stadheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Beathe-Christin Stentvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ole Gunnar Krakhellen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Norunn Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Elin Kvam",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTLAND REVISJON KOMMUNALE",
+          "OPPGÅVEFELLESSKAP"
+        ],
+        "orgnr": "923249478",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/833333682/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:21Z"
+}

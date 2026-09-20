@@ -1,0 +1,110 @@
+{
+  "orgnr": "980986357",
+  "name": "PD SVENSKA AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PD SVENSKA AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980986357",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1999-08-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1999-08-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-550 02 Jönköping",
+        "adresse": [
+          "Box 2250"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Øystein Sæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980986357/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

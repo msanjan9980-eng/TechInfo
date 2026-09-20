@@ -1,0 +1,222 @@
+{
+  "orgnr": "995815915",
+  "name": "GRØNKJÆR SKISENTER SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRØNKJÆR SKISENTER SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "995815915",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-08-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-06-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3677",
+        "poststed": "NOTODDEN",
+        "adresse": [
+          "Terje Bakka",
+          "Flylandvegen 5"
+        ],
+        "kommune": "NOTODDEN",
+        "kommunenummer": "4005"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.110",
+        "beskrivelse": "Drift av idrettsanlegg"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@g-skisenter.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "468 54 030",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Terje Bakka",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "André Horgen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arve Særsland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Halvor Simones",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jesper Nordgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christer Kornstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HJARTDAL OG GRANSHERAD",
+          "REKNESKAPSKONTOR AS"
+        ],
+        "orgnr": "971220988",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995815915/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:39Z"
+}

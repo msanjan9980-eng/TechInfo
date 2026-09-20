@@ -1,0 +1,165 @@
+{
+  "orgnr": "928264653",
+  "name": "SAMEIET FORHÅPNINGEN 25 ØST",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET FORHÅPNINGEN 25 ØST",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "928264653",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-01-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2010-04-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9011",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Sameiet Forhåpningen 25 Øst",
+          "c/o Greta Jentoft",
+          "Forhåpningen 25B"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Svein Jentoft",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gustav Jørgen Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Greta Irene Jentoft",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Julie Leding",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928264653/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:23Z"
+}

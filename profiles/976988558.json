@@ -1,0 +1,223 @@
+{
+  "orgnr": "976988558",
+  "name": "DALSBYGDA SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DALSBYGDA SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976988558",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2550",
+        "poststed": "OS I ØSTERDALEN",
+        "adresse": [],
+        "kommune": "OS",
+        "kommunenummer": "3430"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kirkekontoret@os.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 47 03 43",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hege Marie Brynhildsvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Engebakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Toril Ousten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stig Johnsbråten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elin Krog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ida Johnsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bodil Galåen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "OS KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976999916",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988558/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:52Z"
+}

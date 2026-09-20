@@ -1,0 +1,259 @@
+{
+  "orgnr": "948195003",
+  "name": "STIFTELSEN NYBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN NYBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "948195003",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-08-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9151",
+        "poststed": "STORSLETT",
+        "adresse": [
+          "Flomstadvegen 1"
+        ],
+        "kommune": "NORDREISA",
+        "kommunenummer": "5544"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 9,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "firmapost@nybo-boligutleie.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 76 59 55",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "96890495",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ørjan Brygghaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Tore Yttregaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigleif Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lill Hege Konst",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Annie Blomli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Gunn Marit Nordberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ES REVISJON AS"
+        ],
+        "orgnr": "997820266",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "KONTOKUNST AS"
+        ],
+        "orgnr": "981339193",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948195003/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:52Z"
+}

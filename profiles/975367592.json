@@ -1,0 +1,200 @@
+{
+  "orgnr": "975367592",
+  "name": "SVARTÅVEGEN SAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVARTÅVEGEN SAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "975367592",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-10-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1957-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2632",
+        "poststed": "VENABYGD",
+        "adresse": [],
+        "kommune": "RINGEBU",
+        "kommunenummer": "3439"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2632",
+        "poststed": "VENABYGD",
+        "adresse": [
+          "Bøvegen 36"
+        ],
+        "kommune": "RINGEBU",
+        "kommunenummer": "3439"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "61 28 40 19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sven Roger Bø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trond Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Amund Oden",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Gunnar Forrestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Haugstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975367592/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:00Z"
+}

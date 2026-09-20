@@ -1,0 +1,185 @@
+{
+  "orgnr": "976990978",
+  "name": "ARNADAL SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARNADAL SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976990978",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3160",
+        "poststed": "STOKKE",
+        "adresse": [
+          "Frederik Stangs gate 20"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.sandefjord.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.sandefjord@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "33 45 44 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Line-Maria Hauen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTFOLD OG TELEMARK REVISJON IKS"
+        ],
+        "orgnr": "923822410",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "KNIF REGNSKAP AS"
+        ],
+        "orgnr": "974476495",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "SANDEFJORD KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976990676",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976990978/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:04Z"
+}

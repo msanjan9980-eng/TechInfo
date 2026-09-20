@@ -1,0 +1,314 @@
+{
+  "orgnr": "985140421",
+  "name": "VERDIPAPIRSENTRALEN ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VERDIPAPIRSENTRALEN ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985140421",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-11-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2002-11-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0152",
+        "poststed": "OSLO",
+        "adresse": [
+          "Tollbugata 2"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0107",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1174 Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "66.110",
+        "beskrivelse": "Administrasjon av finansmarkeder"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 89,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.euronext.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "esosl@euronext.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 63 53 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kristine Bastøe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Audun Bø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åsmund Skår",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ida Miriam Johnson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dag Håvar Mork",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Julie Nordgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Isabel Rute Ucha Da Silva",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pierre Eric Francois Davoust",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Julie Marie Strandskogen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lars-Erik Oppi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KPMG AS"
+        ],
+        "orgnr": "935174627",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985140421/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:44Z"
+}

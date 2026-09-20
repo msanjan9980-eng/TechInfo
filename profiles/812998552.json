@@ -1,0 +1,378 @@
+{
+  "orgnr": "812998552",
+  "name": "SUNNHORDLAND INTERKOMMUNALE LEGEVAKT IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SUNNHORDLAND INTERKOMMUNALE LEGEVAKT IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "812998552",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-01-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2013-10-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5416",
+        "poststed": "STORD",
+        "adresse": [
+          "Tysevegen 62"
+        ],
+        "kommune": "STORD",
+        "kommunenummer": "4614"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5402",
+        "poststed": "STORD",
+        "adresse": [
+          "c/o Stord kommune",
+          "Postboks 304"
+        ],
+        "kommune": "STORD",
+        "kommunenummer": "4614"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.210",
+        "beskrivelse": "Allmennlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 107,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.stord.kommune.no/sunnhordland-interkommunalelegevakt.iks",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@sunnhordland-legevakt.nhn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53 45 61 40",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Agata Barbara Kapuscinska",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BØMLO KOMMUNE"
+        ],
+        "orgnr": "834210622",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "STORD KOMMUNE"
+        ],
+        "orgnr": "939866914",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FITJAR KOMMUNE"
+        ],
+        "orgnr": "944073310",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anne Karin Fossdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Anne Økland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jon Eirik Kvalnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christine Mæland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sindre Anders Halvorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Alina-Irina Bumbar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sverre Sørensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Janett Sofie Svendsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "June Stavland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Morten Tvedterås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Diana Marie Bergeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/812998552/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:23Z"
+}

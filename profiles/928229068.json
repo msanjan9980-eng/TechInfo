@@ -1,0 +1,167 @@
+{
+  "orgnr": "928229068",
+  "name": "NORICUS 1 SAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORICUS 1 SAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "928229068",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-02-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-12-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3258",
+        "poststed": "LARVIK",
+        "adresse": [
+          "c/o Hanne Nordhaug",
+          "Frankendalsveien 9C"
+        ],
+        "kommune": "LARVIK",
+        "kommunenummer": "3909"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "hanne.nordhaug@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+4747351865",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Vidar Luth-Hanssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hanne Nordhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Morten Sørensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928229068/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:05Z"
+}

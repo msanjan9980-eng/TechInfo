@@ -1,0 +1,177 @@
+{
+  "orgnr": "954674673",
+  "name": "TECH MEDIA ØSTERGREN OG GUSTAVSEN DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TECH MEDIA ØSTERGREN OG GUSTAVSEN DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "954674673",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1986-07-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4956",
+        "poststed": "RISØR",
+        "adresse": [
+          "c/o Ingebreth Østergren",
+          "Gåseveien 15"
+        ],
+        "kommune": "RISØR",
+        "kommunenummer": "4201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4951",
+        "poststed": "RISØR",
+        "adresse": [
+          "Postboks 126"
+        ],
+        "kommune": "RISØR",
+        "kommunenummer": "4201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "77.220",
+        "beskrivelse": "Utleie og leasing av andre husholdningsvarer og varer til personlig bruk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "37 15 06 83",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ingebreth Østergren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Rolf Gustavsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Ingebreth Østergren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/954674673/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:57Z"
+}

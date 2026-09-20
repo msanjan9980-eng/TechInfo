@@ -1,0 +1,145 @@
+{
+  "orgnr": "926102354",
+  "name": "STAALE MATHISEN MUSIKK OG INSTRUMENTER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STAALE MATHISEN MUSIKK OG INSTRUMENTER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926102354",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-12-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8372",
+        "poststed": "GRAVDAL",
+        "adresse": [
+          "Haugsmyra 91"
+        ],
+        "kommune": "VESTVÅGØY",
+        "kommunenummer": "1860"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "staale.mathisen@icloud.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "901 01 641",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Ståle Mathisen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ståle Mathisen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926102354/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:43Z"
+}

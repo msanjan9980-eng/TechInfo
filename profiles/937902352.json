@@ -1,0 +1,327 @@
+{
+  "orgnr": "937902352",
+  "name": "STADSBYGD SPAREBANK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STADSBYGD SPAREBANK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937902352",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1890-12-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7100",
+        "poststed": "RISSA",
+        "adresse": [
+          "Rådhusveien 21"
+        ],
+        "kommune": "INDRE FOSEN",
+        "kommunenummer": "5054"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7101",
+        "poststed": "RISSA",
+        "adresse": [
+          "Postboks 143"
+        ],
+        "kommune": "INDRE FOSEN",
+        "kommunenummer": "5054"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 38,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.stbank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@stbank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "73 85 50 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ola Setsaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Håvard Fjeldvær",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gerald John-Ola Eriksson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Janne Myran",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Siri Vannebo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Monica Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigbjørn Oldren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørn Vangen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Linda Iversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tor Langsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Astrid Helen Fjærli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISORKONSULT AS"
+        ],
+        "orgnr": "928942767",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937902352/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:24Z"
+}

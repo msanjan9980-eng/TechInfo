@@ -1,0 +1,174 @@
+{
+  "orgnr": "894339292",
+  "name": "SAMEIET FLYTEBRYGGEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET FLYTEBRYGGEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "894339292",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-08-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4912",
+        "poststed": "GJEVING",
+        "adresse": [
+          "Gjevingpynten"
+        ],
+        "kommune": "TVEDESTRAND",
+        "kommunenummer": "4213"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5124",
+        "poststed": "MORVIK",
+        "adresse": [
+          "c/o Ståle Eriksen",
+          "Saudalen 128D"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "staeriksen@outlook.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "926 91 960",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ståle Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Morten Engedahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Henrik Høibraaten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894339292/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:04Z"
+}

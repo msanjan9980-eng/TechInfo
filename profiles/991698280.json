@@ -1,0 +1,272 @@
+{
+  "orgnr": "991698280",
+  "name": "SAMEIET AKKA BAKKA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET AKKA BAKKA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991698280",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-10-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-06-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7036",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "Lillian Byes veg"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0129",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/Obos Eiendomsforvaltning AS",
+          "Postboks 6666 St. Olavs Plass"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.obos.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "oef@obos.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 86 55 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Knut Arild Dyb",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Espen Hanssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Caroline Heggelund-Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Lene Skjølsvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Solfrid Thorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE MOMENTUM AS"
+        ],
+        "orgnr": "936032249",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991698280/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:07Z"
+}

@@ -1,0 +1,143 @@
+{
+  "orgnr": "934147405",
+  "name": "SAMEIET KALVENBUKTA PUMPELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET KALVENBUKTA PUMPELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934147405",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-09-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4916",
+        "poststed": "BORØY",
+        "adresse": [
+          "Kalvenveien"
+        ],
+        "kommune": "TVEDESTRAND",
+        "kommunenummer": "4213"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1473",
+        "poststed": "LØRENSKOG",
+        "adresse": [
+          "c/o Lisa Gjertsen Westad",
+          "Sørliveien 37"
+        ],
+        "kommune": "LØRENSKOG",
+        "kommunenummer": "3222"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Lisa Westad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934147405/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:01Z"
+}

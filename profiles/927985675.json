@@ -1,0 +1,151 @@
+{
+  "orgnr": "927985675",
+  "name": "SAMEIET STRØMDALJORDET ØST",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET STRØMDALJORDET ØST",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927985675",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-11-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-09-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3727",
+        "poststed": "SKIEN",
+        "adresse": [
+          "c/o Erik Frikstad",
+          "Strømdaljordet 35"
+        ],
+        "kommune": "SKIEN",
+        "kommunenummer": "4003"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Erik Frikstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tom Ivar Sannerholt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Heidi Eek",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927985675/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:05Z"
+}

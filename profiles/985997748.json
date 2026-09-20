@@ -1,0 +1,187 @@
+{
+  "orgnr": "985997748",
+  "name": "SØRSIA BEITELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SØRSIA BEITELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985997748",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-09-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1980-03-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6872",
+        "poststed": "LUSTER",
+        "adresse": [],
+        "kommune": "LUSTER",
+        "kommunenummer": "4644"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6874",
+        "poststed": "LUSTER",
+        "adresse": [
+          "Postboks 2"
+        ],
+        "kommune": "LUSTER",
+        "kommunenummer": "4644"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97130785",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hallvard Evjestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Hatlevoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thomas Evjestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trygve Johan Lerum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985997748/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:14Z"
+}

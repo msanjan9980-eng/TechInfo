@@ -1,0 +1,235 @@
+{
+  "orgnr": "919967072",
+  "name": "CLOUDBERRY CLEAN ENERGY ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CLOUDBERRY CLEAN ENERGY ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "919967072",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0273",
+        "poststed": "OSLO",
+        "adresse": [
+          "Frøyas gate 15"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "35.122",
+        "beskrivelse": "Produksjon av elektrisitet fra vindkraft"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 15,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anders Jørgen Lenborg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kjell-Erik Østdahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nicolai Nordstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Alexandra Koefoed",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mads Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ragnhild Marta Wiborg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECHAS REVISJON AS"
+        ],
+        "orgnr": "980906965",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:37Z"
+}

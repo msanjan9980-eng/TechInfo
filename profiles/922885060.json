@@ -1,0 +1,148 @@
+{
+  "orgnr": "922885060",
+  "name": "GRAFT HOLDING AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRAFT HOLDING AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "922885060",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-06-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-05-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0369",
+        "poststed": "OSLO",
+        "adresse": [
+          "Sørkedalsveien 10C"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.221",
+        "beskrivelse": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Christian Knudsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 REGNSKAPSHUSET VALHALL",
+          "AS"
+        ],
+        "orgnr": "980289648",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922885060/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:32Z"
+}

@@ -1,0 +1,133 @@
+{
+  "orgnr": "916351348",
+  "name": "APT TRANSLATIONS JONATHAN OWENS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "APT TRANSLATIONS JONATHAN OWENS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "916351348",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-12-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0669",
+        "poststed": "OSLO",
+        "adresse": [
+          "Leil. 2192",
+          "Erlends vei 21"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "74.300",
+        "beskrivelse": "Oversettelses- og tolkevirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "thejonnyoslo@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "908 03 072",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jonathan Andrew Owens",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916351348/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:58Z"
+}

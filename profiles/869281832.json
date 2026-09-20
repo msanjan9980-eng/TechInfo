@@ -1,0 +1,275 @@
+{
+  "orgnr": "869281832",
+  "name": "STIFTELSEN MÅLØYKOLLEKTIVENE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN MÅLØYKOLLEKTIVENE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "869281832",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1980-10-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6700",
+        "poststed": "MÅLØY",
+        "adresse": [
+          "Oppedalsvegen 311"
+        ],
+        "kommune": "KINN",
+        "kommunenummer": "4602"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6701",
+        "poststed": "MÅLØY",
+        "adresse": [
+          "Postboks 198"
+        ],
+        "kommune": "KINN",
+        "kommunenummer": "4602"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "87.991",
+        "beskrivelse": "Tjenester i barneverninstitusjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 77,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.klokkergarden.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 37 02 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95147307",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jannicke Nordbø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Per Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristoffer Peder Koch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ståle Sebastian Aarseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kåre Heggen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tormod Nicholas Torgersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Aleksander Hamre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "AKERSHUS REVISJON AS"
+        ],
+        "orgnr": "967604364",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/869281832/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:05Z"
+}

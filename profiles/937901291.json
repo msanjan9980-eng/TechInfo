@@ -1,0 +1,301 @@
+{
+  "orgnr": "937901291",
+  "name": "MELHUS SPAREBANK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MELHUS SPAREBANK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937901291",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1840-10-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7224",
+        "poststed": "MELHUS",
+        "adresse": [
+          "Gimsbruvegen 5"
+        ],
+        "kommune": "MELHUS",
+        "kommunenummer": "5028"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7221",
+        "poststed": "MELHUS",
+        "adresse": [
+          "Postboks 40"
+        ],
+        "kommune": "MELHUS",
+        "kommunenummer": "5028"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 79,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.melhusbanken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@melhusbanken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "72 87 80 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ragnar Torland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjarne Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Merethe Moum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eivind Sandø-Klemmetvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christian Langvatn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jorunn Løvseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Kristine Kvitsand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bård Kalvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Helen Hakvåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937901291/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:47Z"
+}

@@ -1,0 +1,129 @@
+{
+  "orgnr": "934348184",
+  "name": "BEYOND MEDALS CLOTHING AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BEYOND MEDALS CLOTHING AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934348184",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-10-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-09-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "46221 Värnersborg",
+        "adresse": [
+          "Postboks 95"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1396",
+        "poststed": "BILLINGSTAD",
+        "adresse": [
+          "c/o Varner Holding AS",
+          "Nesøyveien 4"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Bodil Kristiansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934348184/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:24Z"
+}

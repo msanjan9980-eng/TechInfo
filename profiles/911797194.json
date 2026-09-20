@@ -1,0 +1,174 @@
+{
+  "orgnr": "911797194",
+  "name": "BROAD LINE DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BROAD LINE DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "911797194",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-05-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2013-02-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6102",
+        "poststed": "VOLDA",
+        "adresse": [
+          "Kleppesjøvegen 9"
+        ],
+        "kommune": "VOLDA",
+        "kommunenummer": "1577"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "broadline.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "fredigland@yahoo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90024945",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Fred Igland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Fred Igland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Lars Inge Bjørneset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911797194/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:36Z"
+}

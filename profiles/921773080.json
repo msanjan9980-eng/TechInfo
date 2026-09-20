@@ -1,0 +1,189 @@
+{
+  "orgnr": "921773080",
+  "name": "SENJA KIRKELIGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SENJA KIRKELIGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921773080",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-11-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-11-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9300",
+        "poststed": "FINNSNES",
+        "adresse": [
+          "Kirkeveien 1"
+        ],
+        "kommune": "SENJA",
+        "kommunenummer": "5530"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9305",
+        "poststed": "FINNSNES",
+        "adresse": [
+          "Postboks 404"
+        ],
+        "kommune": "SENJA",
+        "kommunenummer": "5530"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 38,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "senja.kirken.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.senja@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 85 02 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Rachel Janne Hoholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KOMREV NORD IKS"
+        ],
+        "orgnr": "986574689",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921773080/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:26Z"
+}

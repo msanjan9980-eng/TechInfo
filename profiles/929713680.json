@@ -1,0 +1,116 @@
+{
+  "orgnr": "929713680",
+  "name": "CHEF JOHANSEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CHEF JOHANSEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "929713680",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-08-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2019",
+        "poststed": "SKEDSMOKORSET",
+        "adresse": [
+          "Prost Holms vei 6"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.210",
+        "beskrivelse": "Catering for arrangementer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Simen Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929713680/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:02Z"
+}

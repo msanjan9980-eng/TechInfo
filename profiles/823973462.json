@@ -1,0 +1,260 @@
+{
+  "orgnr": "823973462",
+  "name": "NITTEBERGLIA BOLIGSAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NITTEBERGLIA BOLIGSAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "823973462",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2004",
+        "poststed": "LILLESTRØM",
+        "adresse": [
+          "c/o BORI BBL",
+          "Tærudgata 16"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2001",
+        "poststed": "LILLESTRØM",
+        "adresse": [
+          "c/o BORI BBL",
+          "Postboks 323"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.bori.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "forvaltning@bori.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "63 89 02 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "BORI BBL"
+        ],
+        "orgnr": "989987011",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Joachim Tofthagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Daniel Aasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Erik Bolstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Benjamin Noel Rixon",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SLM REVISJON AS"
+        ],
+        "orgnr": "972412112",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BORI BBL"
+        ],
+        "orgnr": "989987011",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/823973462/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:02Z"
+}

@@ -1,0 +1,145 @@
+{
+  "orgnr": "937495986",
+  "name": "VIKING 2 AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIKING 2 AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937495986",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-04-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-02-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2848",
+        "poststed": "SKREIA",
+        "adresse": [
+          "Evjuvegen 30"
+        ],
+        "kommune": "ØSTRE TOTEN",
+        "kommunenummer": "3442"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.110",
+        "beskrivelse": "Drift av restauranter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Mohammad Mostafa Mostafa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Mohammad Mostafa Mostafa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937495986/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:05Z"
+}

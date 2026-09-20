@@ -1,0 +1,138 @@
+{
+  "orgnr": "921730276",
+  "name": "KORALB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KORALB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921730276",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-11-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-11-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3027",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "c/o Bekim Taraku",
+          "Søren Paulsens vei 11"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.390",
+        "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bekim Taraku",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lindita Yr Ottarsson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921730276/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:52Z"
+}

@@ -1,0 +1,148 @@
+{
+  "orgnr": "947957929",
+  "name": "GAVESTUA ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GAVESTUA ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "947957929",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-05-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6445",
+        "poststed": "MALMEFJORDEN",
+        "adresse": [],
+        "kommune": "HUSTADVIKA",
+        "kommunenummer": "1579"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Eli Frisnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Eli Frisnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Liv Anne Malmedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/947957929/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:38Z"
+}

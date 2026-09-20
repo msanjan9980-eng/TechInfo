@@ -1,0 +1,117 @@
+{
+  "orgnr": "933998894",
+  "name": "SMEDSMO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SMEDSMO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933998894",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-08-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2686",
+        "poststed": "LOM",
+        "adresse": [
+          "c/o Per Arne Vole",
+          "Sognefjellsvegen 1463"
+        ],
+        "kommune": "LOM",
+        "kommunenummer": "3434"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "88.996",
+        "beskrivelse": "Andre sosialtjenester uten botilbud ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Anja Smedsmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933998894/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:37Z"
+}

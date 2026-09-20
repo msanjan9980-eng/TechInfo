@@ -1,0 +1,151 @@
+{
+  "orgnr": "933972925",
+  "name": "SAMEIET OPPENÅSEN 113-127",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET OPPENÅSEN 113-127",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933972925",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-08-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1981-07-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3518",
+        "poststed": "HØNEFOSS",
+        "adresse": [
+          "Pål Kvernstuen",
+          "Oppenåsen 121"
+        ],
+        "kommune": "RINGERIKE",
+        "kommunenummer": "3305"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Pål Kvernstuen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Even Vardaasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sølvi Slettemoen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933972925/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

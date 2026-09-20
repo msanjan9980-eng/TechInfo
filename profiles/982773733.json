@@ -1,0 +1,250 @@
+{
+  "orgnr": "982773733",
+  "name": "ØVRE RENDAL GRUNNEIERLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØVRE RENDAL GRUNNEIERLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "982773733",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-01-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1948-09-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2484",
+        "poststed": "RENDALEN",
+        "adresse": [
+          "c/o Arnfinn Pedersen",
+          "Gamle Kongevei 4077"
+        ],
+        "kommune": "RENDALEN",
+        "kommunenummer": "3424"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "or_grlag@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 46 82 81",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "469 67 509",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2015",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn Halvor Granrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørn Halvor Granrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arnfinn Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jostein Haugseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jens Erik Høye",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Knut Bjørnar Myrberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Håvard Hangaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ØKORÅD ØSTERDALEN SA"
+        ],
+        "orgnr": "937513062",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/982773733/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:23Z"
+}

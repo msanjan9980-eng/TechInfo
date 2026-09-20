@@ -1,0 +1,150 @@
+{
+  "orgnr": "951576085",
+  "name": "KVARØY DAGLIGVARER ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KVARØY DAGLIGVARER ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "951576085",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-04-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4432",
+        "poststed": "HIDRASUND",
+        "adresse": [
+          "Kirkehavn"
+        ],
+        "kommune": "FLEKKEFJORD",
+        "kommunenummer": "4207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.110",
+        "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Torhild Nancy Hogstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Frank Erling Hogstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Torhild Nancy Hogstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951576085/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

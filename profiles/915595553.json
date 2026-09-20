@@ -1,0 +1,178 @@
+{
+  "orgnr": "915595553",
+  "name": "KRONE FLEET A/S NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRONE FLEET A/S NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915595553",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-07-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "DK-6330 PADBORG",
+        "adresse": [
+          "Kilen 5"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2030",
+        "poststed": "NANNESTAD",
+        "adresse": [
+          "Gardermovegen 95C"
+        ],
+        "kommune": "NANNESTAD",
+        "kommunenummer": "3238"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "77.120",
+        "beskrivelse": "Utleie og leasing av lastebiler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "DEUTSCH-NORWEGISCHE HANDELSKAMMER",
+          "SERVICES AS"
+        ],
+        "orgnr": "992697946",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Niels Preben Ferre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "DEUTSCH-NORWEGISCHE HANDELSKAMMER",
+          "SERVICES AS"
+        ],
+        "orgnr": "992697946",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "KRONE FLEET A/S"
+        ],
+        "orgnr": "915595561",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915595553/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:04Z"
+}

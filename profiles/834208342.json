@@ -1,0 +1,114 @@
+{
+  "orgnr": "834208342",
+  "name": "HEIMDAL FILMS STUDENTBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HEIMDAL FILMS STUDENTBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "834208342",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-10-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-09-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7600",
+        "poststed": "LEVANGER",
+        "adresse": [
+          "Nord universitet Levanger",
+          "Høgskolevegen 27"
+        ],
+        "kommune": "LEVANGER",
+        "kommunenummer": "5037"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Eirik Nordeng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834208342/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

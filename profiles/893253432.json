@@ -1,0 +1,188 @@
+{
+  "orgnr": "893253432",
+  "name": "VERDIPAPIRFONDET EIKA OMF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VERDIPAPIRFONDET EIKA OMF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "893253432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Verdipapirfond",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-06-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0254",
+        "poststed": "OSLO",
+        "adresse": [
+          "Parkveien 61"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0201",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 2349 Solli"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.311",
+        "beskrivelse": "Verdipapirfond"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 87 81 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "EIKA KAPITALFORVALTNING AS"
+        ],
+        "orgnr": "979561261",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Bjørn Slåtto",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/893253432/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:16Z"
+}

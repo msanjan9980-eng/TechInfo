@@ -1,0 +1,217 @@
+{
+  "orgnr": "925209171",
+  "name": "FUNCOM SE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FUNCOM SE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "925209171",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Europeisk selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-07-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-12-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0153",
+        "poststed": "OSLO",
+        "adresse": [
+          "Kirkegata 15"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.100",
+        "beskrivelse": "Dataprogrammeringstjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.funcom.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 92 59 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Rui Manuel Monteiro Casais",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eddie Tak Ho Chan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ming Liu",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stephane Jean Pierre Decroix",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT NORIAN AS"
+        ],
+        "orgnr": "879906792",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925209171/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

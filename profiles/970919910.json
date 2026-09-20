@@ -1,0 +1,410 @@
+{
+  "orgnr": "970919910",
+  "name": "HAUGALAND INTERKOMMUNALE MILJØVERK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAUGALAND INTERKOMMUNALE MILJØVERK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "970919910",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1983-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5574",
+        "poststed": "SKJOLD",
+        "adresse": [
+          "Haraldseidvågen 288"
+        ],
+        "kommune": "VINDAFJORD",
+        "kommunenummer": "1160"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "38.210",
+        "beskrivelse": "Materialgjenvinning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 72,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.him.as",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@him.as",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "52 76 50 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Gro Staveland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BOKN KOMMUNE"
+        ],
+        "orgnr": "964979723",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ETNE KOMMUNE"
+        ],
+        "orgnr": "959435375",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HAUGESUND KOMMUNE"
+        ],
+        "orgnr": "944073787",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "TYSVÆR KOMMUNE"
+        ],
+        "orgnr": "964979812",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VINDAFJORD KOMMUNE"
+        ],
+        "orgnr": "988893226",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Olav Linga",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Linn Therese Erve",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ann Jeanette Sunde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ove Wangensteen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Brit Turid Klungland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Birger Johan Førre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harald Lønning",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ruth Line Bertelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lars Arvid Norekvål",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kari Aakra",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Gunnstein Koch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bjørn Anders Røsdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970919910/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:26Z"
+}

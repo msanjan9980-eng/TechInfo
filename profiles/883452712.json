@@ -1,0 +1,225 @@
+{
+  "orgnr": "883452712",
+  "name": "SOLVANG LEGESENTER DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOLVANG LEGESENTER DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "883452712",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-07-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2001-06-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3208",
+        "poststed": "SANDEFJORD",
+        "adresse": [
+          "Skiringssalveien 24"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.210",
+        "beskrivelse": "Allmennlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.solvanglegesenter.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "33 42 68 20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hege Beate Løkebø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Geir Fredborg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Hans Kvalsvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Hege Beate Løkebø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ARE AUSTNES AS"
+        ],
+        "orgnr": "989100947",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SKYA REGNSKAP AS"
+        ],
+        "orgnr": "918097902",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883452712/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:39Z"
+}

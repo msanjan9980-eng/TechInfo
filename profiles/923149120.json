@@ -1,0 +1,272 @@
+{
+  "orgnr": "923149120",
+  "name": "NÆRØYSUND KIRKELIGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NÆRØYSUND KIRKELIGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "923149120",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-07-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-07-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7970",
+        "poststed": "KOLVEREID",
+        "adresse": [
+          "Idrettsvegen 1"
+        ],
+        "kommune": "NÆRØYSUND",
+        "kommunenummer": "5060"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 14,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "naroysund.menigheter.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.naroysund@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "74 39 54 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "901 43 673",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Sangeetha Maria Skarstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Aslaug Wibeke Hestø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Donata Faustmann",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sangeetha Maria Skarstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kim Roger Urdshals",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Einar Eidshaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Terje Settenøy",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON MIDT-NORGE SA"
+        ],
+        "orgnr": "919902310",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923149120/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:18Z"
+}

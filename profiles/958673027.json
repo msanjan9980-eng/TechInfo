@@ -1,0 +1,399 @@
+{
+  "orgnr": "958673027",
+  "name": "NORGES ARKTISKE STUDENTSAMSKIPNAD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORGES ARKTISKE STUDENTSAMSKIPNAD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "958673027",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annet foretak iflg. særskilt lov",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1969-01-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9019",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Teorifagbygget hus 2",
+          "Universitetsvegen 29"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "56.220",
+        "beskrivelse": "Kantinedrift og annen cateringvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 358,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.samskipnaden.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@samskipnaden.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 64 90 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Grete Kristoffersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Brage Bolstad-Andreassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristine Vilde Sandtrøen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sanne Prøitz",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Robin Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Astrid Strandbu",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Kanck-Jørgensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stine-Andrea Hasselberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Fredrik Tverfjeld",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Emil Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Yong Xin Mo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ida Marie Kokaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Christopher Starheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Merete Saus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Rune Sundelin",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jan Henning Vekve",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Merethe Bril",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/958673027/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:21Z"
+}

@@ -1,0 +1,282 @@
+{
+  "orgnr": "991248293",
+  "name": "GAMMELBRUPLASSEN I BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GAMMELBRUPLASSEN I BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991248293",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-05-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2414",
+        "poststed": "ELVERUM",
+        "adresse": [
+          "Storgata 51"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Solibo AS",
+          "Dronning Eufemias gate 16"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.solibo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "SOLIBO AS"
+        ],
+        "orgnr": "920800572",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gunnar Nygaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Martin Berntsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nina Beate Gilde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ola Langholen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Morten Stubbe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Else Nysted",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Dag Axel Stengel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SOLIBO AS"
+        ],
+        "orgnr": "920800572",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991248293/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:55Z"
+}

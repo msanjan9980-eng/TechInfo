@@ -1,0 +1,174 @@
+{
+  "orgnr": "955501381",
+  "name": "AGAT REGNSKAP ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AGAT REGNSKAP ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "955501381",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1986-09-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2150",
+        "poststed": "ÅRNES",
+        "adresse": [
+          "Furusletta 22"
+        ],
+        "kommune": "NES",
+        "kommunenummer": "3228"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "69.202",
+        "beskrivelse": "Regnskapsføring og bokføring"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "agat.regnskap@yahoo.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91707194",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bård Runnestø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Bård Runnestø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Hanh Tran",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/955501381/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}

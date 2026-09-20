@@ -1,0 +1,152 @@
+{
+  "orgnr": "924799366",
+  "name": "LAH IMPORT DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LAH IMPORT DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "924799366",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-05-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-05-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5307",
+        "poststed": "ASK",
+        "adresse": [
+          "Signalvegen 3"
+        ],
+        "kommune": "ASKØY",
+        "kommunenummer": "4627"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.830",
+        "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Rafal Hejza",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Jens Hermann Lerum-Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ØKONOMIHUSET AS"
+        ],
+        "orgnr": "984540671",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924799366/roller",
+      "retrieved": "2026-09-20T10:14:43Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:43Z"
+}

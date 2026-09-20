@@ -1,0 +1,353 @@
+{
+  "orgnr": "988983772",
+  "name": "VIKEN SKOG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIKEN SKOG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988983772",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-01-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-11-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3511",
+        "poststed": "HØNEFOSS",
+        "adresse": [
+          "Hvervenmoveien 47"
+        ],
+        "kommune": "RINGERIKE",
+        "kommunenummer": "3305"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3504",
+        "poststed": "HØNEFOSS",
+        "adresse": [
+          "Postboks 500 Sentrum"
+        ],
+        "kommune": "RINGERIKE",
+        "kommunenummer": "3305"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.400",
+        "beskrivelse": "Tjenester tilknyttet skogbruk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 116,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.viken.skog.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "e-post@viken.skog.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "32 10 30 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Vibeke Teslo-Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Olav Peder Breivik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anders Wåla",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Theodora Fretheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Malin Solbakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anders Werp",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jon Eystein Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emma Carolina K Thylander",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Målfrid Toeneiet",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Audun Ludvig Bollerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anders Kjensjord",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ole Gunnar Ingul",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sara Emilie Aarskog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988983772/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:49Z"
+}

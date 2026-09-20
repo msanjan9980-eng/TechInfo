@@ -1,0 +1,132 @@
+{
+  "orgnr": "969930145",
+  "name": "SAMEIE BJØRNSTAD SKOG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIE BJØRNSTAD SKOG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "969930145",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2002-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2219",
+        "poststed": "BRANDVAL",
+        "adresse": [
+          "BJØRNSTADBRÅTEN"
+        ],
+        "kommune": "KONGSVINGER",
+        "kommunenummer": "3401"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "99461579",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Gerd Randi Bjørnstadbråten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969930145/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:28Z"
+}

@@ -1,0 +1,89 @@
+{
+  "orgnr": "911575906",
+  "name": "MATT SERVICE MATEUSZ KRZYWINSKI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MATT SERVICE MATEUSZ KRZYWINSKI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "911575906",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-02-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Polen",
+        "landkode": "PL",
+        "poststed": "16-399 Augustow Powiat Augustowski",
+        "adresse": [
+          "Ul Mickiewicza 7 lok 14"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/911575906",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

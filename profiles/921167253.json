@@ -1,0 +1,291 @@
+{
+  "orgnr": "921167253",
+  "name": "STAD KYRKJELEGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STAD KYRKJELEGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921167253",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-06-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6770",
+        "poststed": "NORDFJORDEID",
+        "adresse": [
+          "Sjøgata 90"
+        ],
+        "kommune": "STAD",
+        "kommunenummer": "4649"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6770",
+        "poststed": "NORDFJORDEID",
+        "adresse": [
+          "Postboks 5"
+        ],
+        "kommune": "STAD",
+        "kommunenummer": "4649"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 33,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "synnove.wiik@stad.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Synnøve Beate Wiik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Torfinn Myklebust",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åge Jon Ervik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Petter Haavik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Leif Johnny Prestvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mari Saltkjel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ole Martin Rafshol",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torill Heggedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tone Helen Røyset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Paul Jacob Helgesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VESTLAND REVISJON KOMMUNALE",
+          "OPPGÅVEFELLESSKAP"
+        ],
+        "orgnr": "923249478",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921167253/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:02Z"
+}

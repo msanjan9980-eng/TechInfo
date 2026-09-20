@@ -1,0 +1,141 @@
+{
+  "orgnr": "928637646",
+  "name": "SAMEIE PUMPEHUS DAGALI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIE PUMPEHUS DAGALI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "928637646",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-02-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1984-09-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3114",
+        "poststed": "TØNSBERG",
+        "adresse": [
+          "c/o Vivien Snørteland",
+          "Basbergveien 56B"
+        ],
+        "kommune": "TØNSBERG",
+        "kommunenummer": "3905"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "vivien.snorteland@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "467 61 855",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Vivien Snørteland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/928637646/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:13Z"
+}

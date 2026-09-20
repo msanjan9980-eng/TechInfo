@@ -1,0 +1,234 @@
+{
+  "orgnr": "922854041",
+  "name": "NORDDAL ELVEEIGARLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDDAL ELVEEIGARLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "922854041",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-08-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1967-02-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6214",
+        "poststed": "NORDDAL",
+        "adresse": [
+          "c/o Asbjørn Krohn Dalen",
+          "Dalssida 143"
+        ],
+        "kommune": "FJORD",
+        "kommunenummer": "1578"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6018",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "Furmyrhatlen 1"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Asbjørn Dalen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Asbjørn Dalen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inge Normann Relling",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Storås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjartan Berdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Unni Ytredal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bjørn Relling",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Astrid Dale",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/922854041/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:38Z"
+}

@@ -1,0 +1,210 @@
+{
+  "orgnr": "944850295",
+  "name": "MIDTBYEN REGNSKAP AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MIDTBYEN REGNSKAP AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "944850295",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-08-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7010",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "Fjordgata 21"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "69.202",
+        "beskrivelse": "Regnskapsføring og bokføring"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.midtbyenregnskap.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "73 52 16 56",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kristin Johnsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Randi Storsve",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Johnsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Grete Sagvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SYSTEMREVISJON ØST AS"
+        ],
+        "orgnr": "967484415",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/944850295/roller",
+      "retrieved": "2026-09-20T10:14:37Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:37Z"
+}

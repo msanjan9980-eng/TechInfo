@@ -1,0 +1,246 @@
+{
+  "orgnr": "877141802",
+  "name": "NYE JANTZENS FOND STI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NYE JANTZENS FOND STI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "877141802",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-02-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-12-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0268",
+        "poststed": "OSLO",
+        "adresse": [
+          "Kristinelundveien 22"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0207",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 3033 - ELISENBERG"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@nordisk.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 13 56 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan William Denstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mats Erik Sæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marie Meling",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trond Solvang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Njølstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sveinung Rostad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/877141802/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:22Z"
+}

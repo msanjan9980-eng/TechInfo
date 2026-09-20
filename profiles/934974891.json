@@ -1,0 +1,158 @@
+{
+  "orgnr": "934974891",
+  "name": "TIDEMANDS CAFE AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TIDEMANDS CAFE AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934974891",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-02-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-02-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4514",
+        "poststed": "MANDAL",
+        "adresse": [
+          "Store Elvegate 15"
+        ],
+        "kommune": "LINDESNES",
+        "kommunenummer": "4205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4514",
+        "poststed": "MANDAL",
+        "adresse": [
+          "v/Adv. Rune Kristen Stangeland",
+          "Veverigata 1"
+        ],
+        "kommune": "LINDESNES",
+        "kommunenummer": "4205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.110",
+        "beskrivelse": "Drift av restauranter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "TIDEMANDS CAFE AS"
+        ],
+        "orgnr": "922235244",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934974891/roller",
+      "retrieved": "2026-09-20T10:15:21Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:21Z"
+}

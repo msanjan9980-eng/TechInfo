@@ -1,0 +1,156 @@
+{
+  "orgnr": "876997592",
+  "name": "NESSET SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NESSET SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "876997592",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6460",
+        "poststed": "EIDSVÅG I ROMSDAL",
+        "adresse": [
+          "Eidsvåg kirkekontor",
+          "Kråkholmvegen 4"
+        ],
+        "kommune": "MOLDE",
+        "kommunenummer": "1506"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.molde.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kirken@molde.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 11 14 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hans Jakob Nes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "MOLDE KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976996860",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997592/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

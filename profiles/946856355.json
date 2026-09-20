@@ -1,0 +1,285 @@
+{
+  "orgnr": "946856355",
+  "name": "SKOGBRAND FORSIKRINGSSELSKAP GJENSIDIG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKOGBRAND FORSIKRINGSSELSKAP GJENSIDIG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "946856355",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Gjensidig forsikringsselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1912-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0158",
+        "poststed": "OSLO",
+        "adresse": [
+          "Rådhusgata 23B"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "65.120",
+        "beskrivelse": "Skadeforsikring"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.skogbrand.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@skogbrand.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 35 65 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Per Asbjørn Flugstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anders Børstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christine Mathiesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Irene Killi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Brita Cathrine Knutson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Petter Madsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anders Werp",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ragnhild Hallenstvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENORA AS"
+        ],
+        "orgnr": "935701430",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946856355/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:30Z"
+}

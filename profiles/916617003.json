@@ -1,0 +1,113 @@
+{
+  "orgnr": "916617003",
+  "name": "INDUS TRAVEL APS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "INDUS TRAVEL APS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "916617003",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-01-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2015-12-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "1606 København V",
+        "adresse": [
+          "Vester Farimagsgade 6"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "33 93 30 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "26805105",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916617003",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:24Z"
+}

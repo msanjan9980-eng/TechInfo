@@ -1,0 +1,181 @@
+{
+  "orgnr": "940791901",
+  "name": "KARMØY KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KARMØY KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "940791901",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4250",
+        "poststed": "KOPERVIK",
+        "adresse": [
+          "Statsråd Vinjes gate 25"
+        ],
+        "kommune": "KARMØY",
+        "kommunenummer": "1149"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4291",
+        "poststed": "KOPERVIK",
+        "adresse": [
+          "Postboks 167"
+        ],
+        "kommune": "KARMØY",
+        "kommunenummer": "1149"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 4692,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.karmoy.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@karmoy.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "52 85 75 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Vibeke Johnsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ROGALAND REVISJON IKS"
+        ],
+        "orgnr": "887052832",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/940791901/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

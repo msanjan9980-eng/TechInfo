@@ -1,0 +1,158 @@
+{
+  "orgnr": "838006922",
+  "name": "SOTRA SNEKKERI AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOTRA SNEKKERI AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "838006922",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-06-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5357",
+        "poststed": "FJELL",
+        "adresse": [
+          "Fjellavegen 153"
+        ],
+        "kommune": "ØYGARDEN",
+        "kommunenummer": "4626"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5835",
+        "poststed": "BERGEN",
+        "adresse": [
+          "v/Adv. Jorunn K Moltu Jacobsen",
+          "Postboks 4115 Sandviken"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "43.320",
+        "beskrivelse": "Snekkerarbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "SOTRA SNEKKERI AS"
+        ],
+        "orgnr": "930883646",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/838006922/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:32Z"
+}

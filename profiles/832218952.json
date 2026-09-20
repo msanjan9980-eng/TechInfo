@@ -1,0 +1,158 @@
+{
+  "orgnr": "832218952",
+  "name": "ØREÅSVEIEN 26 AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØREÅSVEIEN 26 AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "832218952",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-10-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-10-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1255",
+        "poststed": "OSLO",
+        "adresse": [
+          "Holmlia Senter vei 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0125",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/Adv. Frank Charles Aase",
+          "Postboks 2043 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "ØREÅSVEIEN 26 AS"
+        ],
+        "orgnr": "928871606",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/832218952/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:18Z"
+}

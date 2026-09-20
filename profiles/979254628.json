@@ -1,0 +1,186 @@
+{
+  "orgnr": "979254628",
+  "name": "SONJA OG EMIL AUBERTS LEGAT STI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SONJA OG EMIL AUBERTS LEGAT STI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979254628",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1979-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3732",
+        "poststed": "SKIEN",
+        "adresse": [
+          "Gydas gate 1"
+        ],
+        "kommune": "SKIEN",
+        "kommunenummer": "4003"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "George Emil Aubert",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "George Emil Aubert",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Skjelbred",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Annette Aubert",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979254628/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

@@ -1,0 +1,116 @@
+{
+  "orgnr": "835907082",
+  "name": "ESPEN WASSANA BØ",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ESPEN WASSANA BØ",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "835907082",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-08-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4365",
+        "poststed": "NÆRBØ",
+        "adresse": [
+          "Raunevegen 12"
+        ],
+        "kommune": "HÅ",
+        "kommunenummer": "1119"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "56.210",
+        "beskrivelse": "Catering for arrangementer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Espen Bø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/835907082/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:20Z"
+}

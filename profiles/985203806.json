@@ -1,0 +1,214 @@
+{
+  "orgnr": "985203806",
+  "name": "SLOTTSPARKEN EIENDOM ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SLOTTSPARKEN EIENDOM ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985203806",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-12-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2002-12-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "Dronning Eufemias gate 10"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0103",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 400  Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 03 35 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": [
+          "NORA EIENDOM AS"
+        ],
+        "orgnr": "943174687",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": [
+          "KLP EIENDOM OSLO HOLDING AS"
+        ],
+        "orgnr": "916918127",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ellen Langeggen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christopher Raanaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Einar Kvien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985203806/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:09Z"
+}

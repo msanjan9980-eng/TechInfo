@@ -1,0 +1,185 @@
+{
+  "orgnr": "936056423",
+  "name": "RENSENN STØLSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RENSENN STØLSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936056423",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-08-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-08-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2960",
+        "poststed": "RØN",
+        "adresse": [
+          "Panoramavegen 1625"
+        ],
+        "kommune": "VESTRE SLIDRE",
+        "kommunenummer": "3452"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2960",
+        "poststed": "RØN",
+        "adresse": [
+          "c/o Nils Ole Astrup Baalsrud",
+          "Tyinvegen 1130"
+        ],
+        "kommune": "VESTRE SLIDRE",
+        "kommunenummer": "3452"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "nioab@hotmail.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "905 84 029",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nils Ole Baalsrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Erik Lisjordet",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Moen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936056423/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:36Z"
+}

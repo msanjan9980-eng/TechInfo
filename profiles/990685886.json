@@ -1,0 +1,178 @@
+{
+  "orgnr": "990685886",
+  "name": "ØYELEGE SOLFRID LANGSÆTER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØYELEGE SOLFRID LANGSÆTER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990685886",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-02-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0184",
+        "poststed": "OSLO",
+        "adresse": [
+          "Storgata 23"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0028",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 8853 Youngstorget"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.221",
+        "beskrivelse": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 11 40 46",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91767634",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Solfrid Marit Langsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Solfrid Marit Langsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "NBS ACCOUNTING AS"
+        ],
+        "orgnr": "829031132",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990685886/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

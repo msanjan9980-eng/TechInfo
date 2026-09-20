@@ -1,0 +1,168 @@
+{
+  "orgnr": "935940079",
+  "name": "VETEREN NORDRE ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VETEREN NORDRE ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935940079",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-08-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-07-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3539",
+        "poststed": "FLÅ",
+        "adresse": [
+          "Vetervegen 667"
+        ],
+        "kommune": "FLÅ",
+        "kommunenummer": "3320"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3530",
+        "poststed": "RØYSE",
+        "adresse": [
+          "Sigurd Syrs vei 3"
+        ],
+        "kommune": "HOLE",
+        "kommunenummer": "3310"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.190",
+        "beskrivelse": "Dyrking av ettårige vekster ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Per Anders Engebakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Per Anders Engebakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Kristi Wettern",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935940079/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:23Z"
+}

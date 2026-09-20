@@ -1,0 +1,179 @@
+{
+  "orgnr": "974636220",
+  "name": "FLESBERG KOMMUNE OPPVEKST- OG KULTURETATEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FLESBERG KOMMUNE OPPVEKST- OG KULTURETATEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974636220",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-08-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1969-02-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3623",
+        "poststed": "LAMPELAND",
+        "adresse": [
+          "Kommunehuset"
+        ],
+        "kommune": "FLESBERG",
+        "kommunenummer": "3334"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3623",
+        "poststed": "LAMPELAND",
+        "adresse": [],
+        "kommune": "FLESBERG",
+        "kommunenummer": "3334"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.120",
+        "beskrivelse": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 121,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@flesberg.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "31022000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jon Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "FLESBERG KOMMUNE"
+        ],
+        "orgnr": "940898862",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974636220/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:01Z"
+}

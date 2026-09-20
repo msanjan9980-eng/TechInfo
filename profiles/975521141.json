@@ -1,0 +1,183 @@
+{
+  "orgnr": "975521141",
+  "name": "VIGDEN OG ELGVADSFOSS FJELLSTYRE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIGDEN OG ELGVADSFOSS FJELLSTYRE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "975521141",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-03-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7520",
+        "poststed": "HEGRA",
+        "adresse": [
+          "FORRADAL"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Ragnar Dahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thomas Fossen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ruben Holst",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Dahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gunn Helen Flobergseter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "EIKA ØKONOMI MIDT-NORGE AS"
+        ],
+        "orgnr": "970999213",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/975521141/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:16Z"
+}

@@ -1,0 +1,159 @@
+{
+  "orgnr": "894238402",
+  "name": "BACALHAU BR ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BACALHAU BR ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "894238402",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-07-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-05-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9900",
+        "poststed": "KIRKENES",
+        "adresse": [],
+        "kommune": "SØR-VARANGER",
+        "kommunenummer": "5605"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.322",
+        "beskrivelse": "Engroshandel med fisk, skalldyr og bløtdyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.bacalhaubr.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "78 99 20 21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "41848169",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Vidar Bjarne Bye",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Marcelo Berger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/894238402/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:54Z"
+}

@@ -1,0 +1,192 @@
+{
+  "orgnr": "868191732",
+  "name": "MIDTUN ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MIDTUN ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "868191732",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1993-12-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5430",
+        "poststed": "BREMNES",
+        "adresse": [
+          "Bankbrekko 16"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5445",
+        "poststed": "BREMNES",
+        "adresse": [
+          "Postboks 70"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53 420966",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Nelly Østensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Solveig Gurianne Østensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Anfinn Østensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 SØR-NORGE",
+          "FORRETNINGSPARTNER AS"
+        ],
+        "orgnr": "990945748",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868191732/roller",
+      "retrieved": "2026-09-20T10:15:05Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:05Z"
+}

@@ -1,0 +1,177 @@
+{
+  "orgnr": "933782360",
+  "name": "EASIS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EASIS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933782360",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-07-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "DK-8230 ÅBYHØJ",
+        "adresse": [
+          "Klamsagervej 29, 1."
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0614",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Timevat AS",
+          "Postboks 11 Alnabru"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.380",
+        "beskrivelse": "Engroshandel med andre næringsmidler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "TIMEVAT AS"
+        ],
+        "orgnr": "923458204",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Sine Borup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "TIMEVAT AS"
+        ],
+        "orgnr": "923458204",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "EASIS A/S"
+        ],
+        "orgnr": "933828271",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933782360/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

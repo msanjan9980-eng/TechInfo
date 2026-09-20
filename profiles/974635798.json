@@ -1,0 +1,179 @@
+{
+  "orgnr": "974635798",
+  "name": "VANG KOMMUNE SKULE- OG KULTURETATEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VANG KOMMUNE SKULE- OG KULTURETATEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974635798",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-09-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1969-02-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2975",
+        "poststed": "VANG I VALDRES",
+        "adresse": [],
+        "kommune": "VANG",
+        "kommunenummer": "3454"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2975",
+        "poststed": "VANG I VALDRES",
+        "adresse": [
+          "Kommunehuset"
+        ],
+        "kommune": "VANG",
+        "kommunenummer": "3454"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.120",
+        "beskrivelse": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 183,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "jon.eggen@vang.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "61368542",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Erlend Haaverstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "VANG KOMMUNE"
+        ],
+        "orgnr": "961382246",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974635798/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:12Z"
+}

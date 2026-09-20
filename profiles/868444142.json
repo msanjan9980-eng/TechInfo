@@ -1,0 +1,225 @@
+{
+  "orgnr": "868444142",
+  "name": "MARKENSSGT 30 HJEMMEL ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MARKENSSGT 30 HJEMMEL ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "868444142",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-02-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4610",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "Markens gate 9"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4662",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "Postboks 209"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "FORVALTNINGSPARTNER AS"
+        ],
+        "orgnr": "976494741",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": [
+          "MARKENSGATEN 30 AS"
+        ],
+        "orgnr": "992136391",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": [
+          "IVAR MJÅLAND EIENDOM AS"
+        ],
+        "orgnr": "914320097",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ivar Mjåland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "FORVALTNINGSPARTNER AS"
+        ],
+        "orgnr": "976494741",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/868444142/roller",
+      "retrieved": "2026-09-20T10:14:57Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:57Z"
+}

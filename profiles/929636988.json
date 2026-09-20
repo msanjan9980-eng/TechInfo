@@ -1,0 +1,129 @@
+{
+  "orgnr": "929636988",
+  "name": "BASAALE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BASAALE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "929636988",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-08-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2406",
+        "poststed": "ELVERUM",
+        "adresse": [
+          "Langslettvegen 24A"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "49.330",
+        "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jamaal Basaale",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jamaal Basaale",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929636988/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:35Z"
+}

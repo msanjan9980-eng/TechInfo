@@ -1,0 +1,105 @@
+{
+  "orgnr": "990812942",
+  "name": "BP AMERICA INC",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BP AMERICA INC",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990812942",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "USA",
+        "landkode": "US",
+        "poststed": "HOUSTON TEXAS 77079",
+        "adresse": [
+          "501 Westlake Park Boulevard"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "filippgp@bp.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "2813663458",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990812942",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

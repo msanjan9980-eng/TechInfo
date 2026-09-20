@@ -1,0 +1,97 @@
+{
+  "orgnr": "988932108",
+  "name": "BLACK DIAMOND EQUIPMENT EUROPE GMBH",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BLACK DIAMOND EQUIPMENT EUROPE GMBH",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988932108",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-12-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-03-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Østerrike",
+        "landkode": "AT",
+        "poststed": "6020 INNSBRUCK",
+        "adresse": [
+          "Hans-Meier-Strasse 9"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988932108",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

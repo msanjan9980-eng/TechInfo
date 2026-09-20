@@ -1,0 +1,212 @@
+{
+  "orgnr": "950712015",
+  "name": "KS BORGHEIM SHIPPING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KS BORGHEIM SHIPPING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "950712015",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3140",
+        "poststed": "NØTTERØY",
+        "adresse": [],
+        "kommune": "FÆRDER",
+        "kommunenummer": "3911"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3483",
+        "poststed": "KANA",
+        "adresse": [
+          "Storengene 4"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "52.311",
+        "beskrivelse": "Formidlingstjenester tilknyttet godstransport via skip"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "32 79 85 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2024",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Arve Einar Mørch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "AS BORGHEIM SHIPPING"
+        ],
+        "orgnr": "950699671",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arve Einar Mørch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elena Vasilieva",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "GREPA ØKONOMI AS"
+        ],
+        "orgnr": "926067303",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950712015/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:09Z"
+}

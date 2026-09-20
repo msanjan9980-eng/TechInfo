@@ -1,0 +1,306 @@
+{
+  "orgnr": "985459614",
+  "name": "HÖEGH AUTOLINERS ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HÖEGH AUTOLINERS ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985459614",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-02-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0277",
+        "poststed": "OSLO",
+        "adresse": [
+          "Drammensveien 134"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0212",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 4    Skøyen"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "52.220",
+        "beskrivelse": "Andre tjenester tilknyttet sjøtransport"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.hoeghautoliners.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "hoeghautoliners@hoegh.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "21 03 90 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Andreas Enger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Leif Ovesøn Høegh",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Morten Westye Høegh",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Martine Evelyn Vice Holter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kasper Nilaus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjersti Aass",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sara Johanna Hagelberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gyrid Ingerø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eric Michael Tinholt Den Besten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Thor Jørgen Guttormsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985459614/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:51Z"
+}

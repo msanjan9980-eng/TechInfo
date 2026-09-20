@@ -1,0 +1,168 @@
+{
+  "orgnr": "974775700",
+  "name": "MOLDE KOMMUNE SEKTOR FOR TEKNISK, PLAN, NÆRING OG MILJØ",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOLDE KOMMUNE SEKTOR FOR TEKNISK, PLAN, NÆRING OG MILJØ",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974775700",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-09-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-04-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6413",
+        "poststed": "MOLDE",
+        "adresse": [
+          "Rådhusplassen 1"
+        ],
+        "kommune": "MOLDE",
+        "kommunenummer": "1506"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.130",
+        "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 65,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 11 10 92",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Britt Kristin Roald",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Marianne Aasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "MOLDE KOMMUNE"
+        ],
+        "orgnr": "921221967",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974775700/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:45Z"
+}

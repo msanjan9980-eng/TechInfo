@@ -1,0 +1,173 @@
+{
+  "orgnr": "979898266",
+  "name": "INGHILD OG EDVARD RØYNSTRAND KONTORFELLESSKAP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "INGHILD OG EDVARD RØYNSTRAND KONTORFELLESSKAP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979898266",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kontorfellesskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-06-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-05-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5063",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Inndalsveien 49A"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.230",
+        "beskrivelse": "Tannlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "55 29 53 95",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Edvard Røynstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "KEMAX ØKONOMI REGNSKAP AS"
+        ],
+        "orgnr": "958582528",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Inngår i kontorfellesskap",
+      "value": {
+        "name": "Inghild Laila Røynstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: KTRF"
+    },
+    {
+      "field": "role:Inngår i kontorfellesskap",
+      "value": {
+        "name": "Edvard Røynstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979898266/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: KTRF"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:26Z"
+}

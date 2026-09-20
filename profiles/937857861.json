@@ -1,0 +1,158 @@
+{
+  "orgnr": "937857861",
+  "name": "LINEBOX AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LINEBOX AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937857861",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-06-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0458",
+        "poststed": "OSLO",
+        "adresse": [
+          "Maridalsveien 44B"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0122",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/Adv. Tom Hugo Ottesen",
+          "Postboks 1752 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "49.410",
+        "beskrivelse": "Godstransport på vei"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "LINEBOX AS"
+        ],
+        "orgnr": "823356692",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937857861/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:22Z"
+}

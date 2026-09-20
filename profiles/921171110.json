@@ -1,0 +1,294 @@
+{
+  "orgnr": "921171110",
+  "name": "FIDES IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FIDES IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921171110",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-10-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-06-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7503",
+        "poststed": "STJØRDAL",
+        "adresse": [
+          "Værnesgata 16"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7501",
+        "poststed": "STJØRDAL",
+        "adresse": [
+          "Postboks 183"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "88.993",
+        "beskrivelse": "Arbeidstrening og varig tilrettelagt arbeid"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 31,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "47 71 69 91",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Morten Draveng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "STJØRDAL KOMMUNE"
+        ],
+        "orgnr": "939958851",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MERÅKER KOMMUNE"
+        ],
+        "orgnr": "835231712",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ann-Inger Leirtrø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Maren Marie Wilhelmsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Axel Ingar Sunde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eli Tyholt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Renate Bjørshol",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Idar Aspmodal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Nelly Anita Lian",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921171110/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:14Z"
+}

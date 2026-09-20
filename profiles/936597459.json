@@ -1,0 +1,176 @@
+{
+  "orgnr": "936597459",
+  "name": "SALUS CONSULT AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SALUS CONSULT AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936597459",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-11-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-11-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3721",
+        "poststed": "SKIEN",
+        "adresse": [
+          "Limiløkka 70"
+        ],
+        "kommune": "SKIEN",
+        "kommunenummer": "4003"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "thomas@salusconsult.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "907 95 684",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Thomas Dimitrije Antonovic Sneltvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Thomas Dimitrije Antonovic Sneltvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "RISING REGNSKAP AS"
+        ],
+        "orgnr": "992438681",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936597459/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:35Z"
+}

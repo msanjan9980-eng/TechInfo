@@ -1,0 +1,219 @@
+{
+  "orgnr": "926539825",
+  "name": "EIKSETERVEIEN SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EIKSETERVEIEN SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926539825",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-02-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2021-01-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3403",
+        "poststed": "LIER",
+        "adresse": [
+          "c/o Lier Regnskap AS",
+          "Vestsideveien 5D"
+        ],
+        "kommune": "LIER",
+        "kommunenummer": "3312"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3401",
+        "poststed": "LIER",
+        "adresse": [
+          "c/o Lier Regnskap AS",
+          "Postboks 107"
+        ],
+        "kommune": "LIER",
+        "kommunenummer": "3312"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "42.110",
+        "beskrivelse": "Bygging av veier og motorveier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2022",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Trond Eriksrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Trond Eriksrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per-Otto Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sverre Hartvig Renskaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Roar Dag Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "LIER REGNSKAP AS"
+        ],
+        "orgnr": "975363791",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926539825/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:19Z"
+}

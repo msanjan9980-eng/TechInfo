@@ -1,0 +1,233 @@
+{
+  "orgnr": "977001498",
+  "name": "KÅFJORD SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KÅFJORD SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "977001498",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9146",
+        "poststed": "OLDERDALEN",
+        "adresse": [
+          "Anton Antonsens vei 14A"
+        ],
+        "kommune": "KÅFJORD",
+        "kommunenummer": "5540"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "administrasjon.menighetsradet@kafjord.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 71 81 14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Torbjørn Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Terje Olaf Bakkehaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Einar Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ove Monsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ann Lovis Molund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Øyvind Jenssen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Iselin Jørgensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KOMREV NORD IKS"
+        ],
+        "orgnr": "986574689",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977001498/roller",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

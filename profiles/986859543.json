@@ -1,0 +1,189 @@
+{
+  "orgnr": "986859543",
+  "name": "SAMEIET VISTDAL KAI GNR 99 BNR 8",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET VISTDAL KAI GNR 99 BNR 8",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986859543",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-07-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-05-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6364",
+        "poststed": "VISTDAL",
+        "adresse": [
+          "Myklebostad"
+        ],
+        "kommune": "MOLDE",
+        "kommunenummer": "1506"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "robert@otterhals.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 23 51 54",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "975 66 945",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Robert Otterhals",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Turid Hanset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harald Myklebostad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Palmar Brakstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bob Andreas Winje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986859543/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:28Z"
+}

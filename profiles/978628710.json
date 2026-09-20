@@ -1,0 +1,169 @@
+{
+  "orgnr": "978628710",
+  "name": "SSL RØR SANDVIK SÆTRE & LEIKANGER DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SSL RØR SANDVIK SÆTRE & LEIKANGER DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "978628710",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-06-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-06-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6082",
+        "poststed": "GURSKEN",
+        "adresse": [],
+        "kommune": "SANDE",
+        "kommunenummer": "1514"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "24.200",
+        "beskrivelse": "Produksjon av rør, rørdeler og andre hule konstruksjoner av stål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 02 53 84",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Børge Leikanger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Børge Leikanger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Paul Arild Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Geir Magne Sætre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/978628710/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:01Z"
+}

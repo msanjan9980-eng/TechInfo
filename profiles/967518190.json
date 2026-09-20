@@ -1,0 +1,462 @@
+{
+  "orgnr": "967518190",
+  "name": "IRIS SALTEN IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "IRIS SALTEN IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "967518190",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1993-05-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8020",
+        "poststed": "BODØ",
+        "adresse": [
+          "Vikan Avfallsplass"
+        ],
+        "kommune": "BODØ",
+        "kommunenummer": "1804"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8031",
+        "poststed": "BODØ",
+        "adresse": [
+          "Postboks 6094"
+        ],
+        "kommune": "BODØ",
+        "kommunenummer": "1804"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "38.110",
+        "beskrivelse": "Innsamling av ikke-farlig avfall"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 18,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.iris-salten.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "iris@iris-salten.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "75 50 75 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn Ove Moum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "GILDESKÅL KOMMUNE"
+        ],
+        "orgnr": "845901422",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HAMARØY KOMMUNE"
+        ],
+        "orgnr": "970542507",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SALTDAL KOMMUNE"
+        ],
+        "orgnr": "972417734",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BODØ KOMMUNE"
+        ],
+        "orgnr": "972418013",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FAUSKE KOMMUNE"
+        ],
+        "orgnr": "972418021",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BEIARN KOMMUNE"
+        ],
+        "orgnr": "961147867",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "STEIGEN KOMMUNE"
+        ],
+        "orgnr": "962299385",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MELØY KOMMUNE"
+        ],
+        "orgnr": "970189866",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SØRFOLD KOMMUNE"
+        ],
+        "orgnr": "972417750",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Trond Heimtun",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Anita Hennie Skog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marit Mehus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trine Løkås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Arve Jakobsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Peter Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karen Marie Braseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tora Lovise Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jim Helge Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Odd Børge Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "TELL NORGE AS"
+        ],
+        "orgnr": "834836912",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/967518190/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

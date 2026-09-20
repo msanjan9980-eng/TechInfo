@@ -1,0 +1,187 @@
+{
+  "orgnr": "976707524",
+  "name": "SAKSÆTHER MASKINUTLEIE ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAKSÆTHER MASKINUTLEIE ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976707524",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-09-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1996-08-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1785",
+        "poststed": "HALDEN",
+        "adresse": [
+          "Asakveien 56D"
+        ],
+        "kommune": "HALDEN",
+        "kommunenummer": "3101"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "77.320",
+        "beskrivelse": "Utleie og leasing av bygge- og anleggsmaskiner og -utstyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 18 29 94",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Magne Iver Saksæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Egil Knut Saksæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Unn Rita Simensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Magne Iver Saksæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 FORRETNINGSPARTNER",
+          "ØSTLANDET AS"
+        ],
+        "orgnr": "967661643",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976707524/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:46Z"
+}

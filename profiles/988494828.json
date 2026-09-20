@@ -1,0 +1,205 @@
+{
+  "orgnr": "988494828",
+  "name": "KROSBYFJERDINGEN UTMARKSLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KROSBYFJERDINGEN UTMARKSLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988494828",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-11-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1981-02-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1870",
+        "poststed": "ØRJE",
+        "adresse": [
+          "c/o Hans Arne Kværner",
+          "Vestre Rødenesveien 571"
+        ],
+        "kommune": "MARKER",
+        "kommunenummer": "3122"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stian Holmen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Ove Fagerås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Theodor Bye",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Arne Kværner",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Helene Østbye",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Vidar Johan Østenby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENORA AS"
+        ],
+        "orgnr": "935701430",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988494828/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:55Z"
+}

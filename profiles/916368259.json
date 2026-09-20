@@ -1,0 +1,214 @@
+{
+  "orgnr": "916368259",
+  "name": "KALLAND VANNLAG TS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KALLAND VANNLAG TS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "916368259",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-01-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2015-12-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5528",
+        "poststed": "HAUGESUND",
+        "adresse": [
+          "c/o Dagfinn Våge",
+          "Kirkegata 79"
+        ],
+        "kommune": "HAUGESUND",
+        "kommunenummer": "1106"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5523",
+        "poststed": "HAUGESUND",
+        "adresse": [
+          "c/o Dagfinn Våge",
+          "Daniel Danielsens gate 34"
+        ],
+        "kommune": "HAUGESUND",
+        "kommunenummer": "1106"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "dagfinv@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "456 14 436",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Dagfinn Våge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sven Tømmerås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Árni Herjolfsson Skogland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Espen Kristiansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nina Helen Halseid-Budd",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger Lise Kalland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916368259/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:46Z"
+}

@@ -1,0 +1,162 @@
+{
+  "orgnr": "929704398",
+  "name": "ÅPENT SLOTT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ÅPENT SLOTT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "929704398",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-08-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2001-01-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0010",
+        "poststed": "OSLO",
+        "adresse": [
+          "Slottsplassen 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0010",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1    Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@slottet.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 04 87 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Tone Rygh",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "DET KONGELIGE HOFF"
+        ],
+        "orgnr": "971524545",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929704398/roller",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

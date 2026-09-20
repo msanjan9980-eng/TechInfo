@@ -1,0 +1,435 @@
+{
+  "orgnr": "987312203",
+  "name": "KONTROLLUTVALGSSERVICE I HÅLOGALAND IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KONTROLLUTVALGSSERVICE I HÅLOGALAND IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987312203",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-10-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-12-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8514",
+        "poststed": "NARVIK",
+        "adresse": [
+          "Fagernesveien 3"
+        ],
+        "kommune": "NARVIK",
+        "kommunenummer": "1806"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8507",
+        "poststed": "NARVIK",
+        "adresse": [
+          "Postboks 543"
+        ],
+        "kommune": "NARVIK",
+        "kommunenummer": "1806"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "76 97 76 20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "41650730",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Svenn Ole Wiik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "TYSFJORD KOMMUNE",
+          "UNDER SLETTING FRA 01.01.2020"
+        ],
+        "orgnr": "972417769",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BALLANGEN KOMMUNE",
+          "UNDER SLETTING FRA 01.01.2020"
+        ],
+        "orgnr": "945152931",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "NARVIK KOMMUNE"
+        ],
+        "orgnr": "959469059",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "EVENES KOMMUNE / EVENÁSSI SUOHKAN"
+        ],
+        "orgnr": "940642140",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "TJELDSUND KOMMUNE",
+          "UNDER SLETTING FRA 01.01.2020"
+        ],
+        "orgnr": "959469237",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "LØDINGEN KOMMUNE"
+        ],
+        "orgnr": "945468661",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ragnhild Christine Opdahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Frode Erling Staurset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lisa Augensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjersti Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stig Are Finn Kristensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Oddbjørn Håvard Martinussen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørnar Grunni",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Franz Eddie Henriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Nini Margrethe Petterson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Konrad Magnus Borch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bjørg Jelarry Eikseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kirsti Ramstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ann Torill Martin-Cerreto",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KOMREV NORD IKS"
+        ],
+        "orgnr": "986574689",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987312203/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:16Z"
+}

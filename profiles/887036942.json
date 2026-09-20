@@ -1,0 +1,176 @@
+{
+  "orgnr": "887036942",
+  "name": "LYGNE GRUNNEIGARLAG BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LYGNE GRUNNEIGARLAG BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "887036942",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-09-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1992-06-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4596",
+        "poststed": "EIKEN",
+        "adresse": [
+          "Eiken"
+        ],
+        "kommune": "HÆGEBOSTAD",
+        "kommunenummer": "4226"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jon Tveiten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olaf Harald Klungland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Leif Tveiten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tobias Skoland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arnfinn Haddeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/887036942/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:51Z"
+}

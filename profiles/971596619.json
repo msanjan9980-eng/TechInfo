@@ -1,0 +1,140 @@
+{
+  "orgnr": "971596619",
+  "name": "SENTER FOR HUSDYRFORSØK (SHF)",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SENTER FOR HUSDYRFORSØK (SHF)",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971596619",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1978-01-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1432",
+        "poststed": "ÅS",
+        "adresse": [
+          "Postboks 5003"
+        ],
+        "kommune": "ÅS",
+        "kommunenummer": "3218"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.402",
+        "beskrivelse": "Undervisning ved vitenskapelige høgskoler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Irma Caroline Oskam",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "NORGES MILJØ- OG BIOVITENSKAPELIGE",
+          "UNIVERSITET (NMBU)"
+        ],
+        "orgnr": "969159570",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971596619/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:04Z"
+}

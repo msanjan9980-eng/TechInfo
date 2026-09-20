@@ -1,0 +1,207 @@
+{
+  "orgnr": "932230720",
+  "name": "SANDAKERVEIEN 58 BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SANDAKERVEIEN 58 BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "932230720",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-10-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-09-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0450",
+        "poststed": "OSLO",
+        "adresse": [
+          "Sognsveien 9C"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0450",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Heimstaden Norway AS",
+          "Sognsveien 9C"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "HEIMSTADEN NORWAY AS"
+        ],
+        "orgnr": "934631005",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Alexander Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kai Sjøvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christoffer Haugan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932230720/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:45Z"
+}

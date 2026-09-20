@@ -1,0 +1,124 @@
+{
+  "orgnr": "927016206",
+  "name": "BROR GØTE ÅNNEGÅRDS DØDSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BROR GØTE ÅNNEGÅRDS DØDSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927016206",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Andre bo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-04-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-09-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7530",
+        "poststed": "MERÅKER",
+        "adresse": [
+          "Pålsnesveien 5"
+        ],
+        "kommune": "MERÅKER",
+        "kommunenummer": "5034"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Ulf Gøte Ånnegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927016206/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:07Z"
+}

@@ -1,0 +1,419 @@
+{
+  "orgnr": "959272204",
+  "name": "MOVAR IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOVAR IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "959272204",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-08-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1597",
+        "poststed": "MOSS",
+        "adresse": [
+          "Tykkemyr 2"
+        ],
+        "kommune": "MOSS",
+        "kommunenummer": "3103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "38.110",
+        "beskrivelse": "Innsamling av ikke-farlig avfall"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "36.000",
+        "beskrivelse": "Uttak fra kilde, rensing og distribusjon av vann"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 240,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.movar.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@movar.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 20 52 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ulf André Ellingsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "RÅDE KOMMUNE"
+        ],
+        "orgnr": "940802652",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VESTBY KOMMUNE"
+        ],
+        "orgnr": "943485437",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VÅLER KOMMUNE"
+        ],
+        "orgnr": "959272581",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MOSS KOMMUNE"
+        ],
+        "orgnr": "920817521",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørn Reidar Amundsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Nils-Anders Søyland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Sandtrø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anita Wulvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åsmund Frengstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christer Christensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helen Liabø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jane Aurlien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Stig Åsmund Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ronald Thorvaldsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Terese Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ida Guldvog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Øivind Nordlien",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959272204/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

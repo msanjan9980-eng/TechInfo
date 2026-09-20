@@ -1,0 +1,254 @@
+{
+  "orgnr": "971515880",
+  "name": "LANDBRUKSTJENESTER INDRE ØSTFOLD SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LANDBRUKSTJENESTER INDRE ØSTFOLD SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971515880",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1811",
+        "poststed": "ASKIM",
+        "adresse": [
+          "Løkenveien 4"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 81,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "957 83 525",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Mary-Ann Westbye",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stian Haltuff",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørn-Egil Evensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ole Arne Frøshaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jon Ansten Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Evy Kvernenes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Grøndahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Haakon Solberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "RCC REVISJON AS"
+        ],
+        "orgnr": "931296760",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971515880/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:55Z"
+}

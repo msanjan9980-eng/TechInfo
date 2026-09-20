@@ -1,0 +1,185 @@
+{
+  "orgnr": "999127843",
+  "name": "SAMEIET ROSENHOFFGATA 4 B",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET ROSENHOFFGATA 4 B",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "999127843",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-11-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0581",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/OBOS Eiendomsforvaltning AS",
+          "Standardveien 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0614",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/OBOS Eiendomsforvaltning AS",
+          "Postboks 393 Alnabru"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ove Marius Helø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Edmund Elvebakk",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Fredriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999127843/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

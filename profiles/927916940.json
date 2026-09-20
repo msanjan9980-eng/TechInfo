@@ -1,0 +1,205 @@
+{
+  "orgnr": "927916940",
+  "name": "AKERSHUS SENTERKVINNER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKERSHUS SENTERKVINNER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927916940",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-10-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0180",
+        "poststed": "OSLO",
+        "adresse": [
+          "Akersgata 51"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.920",
+        "beskrivelse": "Aktiviteter i partipolitiske organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "senterpartiet.no/senterkvinnene",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "akershus@sp.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Linde Rødfoss",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Linn Suktamuk-Rygg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jane Bråthen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mari Bjerklund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Lied",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabeth Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927916940/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:03Z"
+}

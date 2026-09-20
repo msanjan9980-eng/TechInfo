@@ -1,0 +1,204 @@
+{
+  "orgnr": "918791485",
+  "name": "NORDHORDLAND NKS RING SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDHORDLAND NKS RING SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "918791485",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-08-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-03-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5956",
+        "poststed": "HUNDVIN",
+        "adresse": [
+          "Konglevoll 19"
+        ],
+        "kommune": "ALVER",
+        "kommunenummer": "4631"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anders Konglevoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anders Konglevoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Gunnar Vaktskjold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inge Farestveit",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kåre Hole",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Atle Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "REAL ØKONOMI AS"
+        ],
+        "orgnr": "993372277",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/918791485/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:42Z"
+}

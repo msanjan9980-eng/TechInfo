@@ -1,0 +1,143 @@
+{
+  "orgnr": "974985489",
+  "name": "INDERØY PRESSESERVICE ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "INDERØY PRESSESERVICE ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974985489",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-08-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7670",
+        "poststed": "INDERØY",
+        "adresse": [],
+        "kommune": "INDERØY",
+        "kommunenummer": "5053"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.420",
+        "beskrivelse": "Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "74 15 52 47",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Stig Arne Hjelde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ove Erik Meldal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974985489/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:03Z"
+}

@@ -1,0 +1,168 @@
+{
+  "orgnr": "980173259",
+  "name": "TEXMACO ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TEXMACO ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980173259",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-10-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1262",
+        "poststed": "OSLO",
+        "adresse": [
+          "Berglyveien 41"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "74.300",
+        "beskrivelse": "Oversettelses- og tolkevirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "texintlfsy@iname.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2022",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Mirel Hadzic",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Mirela Zahro",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "STRAND ACCOUNTING SERVICES"
+        ],
+        "orgnr": "932949210",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980173259/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:49Z"
+}

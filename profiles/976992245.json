@@ -1,0 +1,171 @@
+{
+  "orgnr": "976992245",
+  "name": "FROLAND KIRKELIGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FROLAND KIRKELIGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976992245",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4820",
+        "poststed": "FROLAND",
+        "adresse": [
+          "Frolandsveien 995"
+        ],
+        "kommune": "FROLAND",
+        "kommunenummer": "4214"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 14,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "froland.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "karl.otto.braathen@agderkirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "37 23 55 20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95064834",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Karl Otto Bråthen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SØRLANDET KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "971328452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976992245/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:08Z"
+}

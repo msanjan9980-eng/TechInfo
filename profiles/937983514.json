@@ -1,0 +1,145 @@
+{
+  "orgnr": "937983514",
+  "name": "HARTVIGSEN TREFELLING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HARTVIGSEN TREFELLING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937983514",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1341",
+        "poststed": "SLEPENDEN",
+        "adresse": [
+          "Åstadbakken 50"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.100",
+        "beskrivelse": "Skogskjøtsel og andre skogbruksaktiviteter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "arne.hartvigsen@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91632800",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Arne Ingvald Hartvigsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Arne Ingvald Hartvigsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937983514/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:20Z"
+}

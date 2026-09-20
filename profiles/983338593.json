@@ -1,0 +1,247 @@
+{
+  "orgnr": "983338593",
+  "name": "HERADSBYGD SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HERADSBYGD SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "983338593",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-05-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2415",
+        "poststed": "HERADSBYGD",
+        "adresse": [
+          "c/o Line Renate Berntsen Midtlie",
+          "Lykkjegutua 42"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2415",
+        "poststed": "HERADSBYGD",
+        "adresse": [
+          "Lykkjegutua 42"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.elverum.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "lrenateb@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+4795766458",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "957 66 458",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Line Renate Midtlie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mona Kristin Solberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Nesset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ida Marie Berget",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Geir Bronken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Brit Elisabeth Melby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "ELVERUM KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976988108",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983338593/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:36Z"
+}

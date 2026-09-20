@@ -1,0 +1,171 @@
+{
+  "orgnr": "981887689",
+  "name": "E & T KARLSEN DISTRIBUSJON ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "E & T KARLSEN DISTRIBUSJON ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "981887689",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-04-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-03-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8610",
+        "poststed": "MO I RANA",
+        "adresse": [
+          "Kariåsveien 4"
+        ],
+        "kommune": "RANA",
+        "kommunenummer": "1833"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.750",
+        "beskrivelse": "Detaljhandel med kosmetikk og toalettartikler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "75 15 43 31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tom Eirik Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Elin Janne Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Tom Eirik Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Elin Janne Karlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981887689/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:29Z"
+}

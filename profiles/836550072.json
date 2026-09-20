@@ -1,0 +1,169 @@
+{
+  "orgnr": "836550072",
+  "name": "PER CHRISTIAN ISAKSSON KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PER CHRISTIAN ISAKSSON KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "836550072",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7120",
+        "poststed": "LEKSVIK",
+        "adresse": [
+          "Skjettendalsveien 2"
+        ],
+        "kommune": "INDRE FOSEN",
+        "kommunenummer": "5054"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7291",
+        "poststed": "STØREN",
+        "adresse": [
+          "v/Adv. Frode Kvernrød",
+          "Postboks 125"
+        ],
+        "kommune": "MIDTRE GAULDAL",
+        "kommunenummer": "5027"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.190",
+        "beskrivelse": "Dyrking av ettårige vekster ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Den personlige konkursen angår",
+      "value": {
+        "name": [
+          "PER CHRISTIAN ISAKSSON"
+        ],
+        "orgnr": "987659459",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/836550072/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: KENK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:58Z"
+}

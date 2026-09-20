@@ -1,0 +1,264 @@
+{
+  "orgnr": "970031553",
+  "name": "JUPTJENN VANNVERK SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JUPTJENN VANNVERK SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "970031553",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1955-08-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2123",
+        "poststed": "BRUVOLL",
+        "adresse": [],
+        "kommune": "NORD-ODAL",
+        "kommunenummer": "3414"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "36.000",
+        "beskrivelse": "Uttak fra kilde, rensing og distribusjon av vann"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2013",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ole Theodor Holth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "ODAL REGNSKAPSKONTOR AS"
+        ],
+        "orgnr": "982096154",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ole Theodor Holth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ole Petter Rudsbråten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jorunn Vestli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Odd Erik Sannerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kari Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ottar Trøften",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bente Akre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Bengt Aune",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ODAL ØKONOMI AS"
+        ],
+        "orgnr": "981241150",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970031553/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:48Z"
+}

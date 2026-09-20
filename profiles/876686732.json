@@ -1,0 +1,171 @@
+{
+  "orgnr": "876686732",
+  "name": "LOCOMUSIC DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LOCOMUSIC DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "876686732",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-08-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1996-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0661",
+        "poststed": "OSLO",
+        "adresse": [
+          "Bertrand Narvesens vei 7"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.390",
+        "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 52 10 19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Georg Buljo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Thomas Tofte",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Hans Jørgen Støp",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Kåre Christoffer Vestrheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876686732/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:20Z"
+}

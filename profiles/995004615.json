@@ -1,0 +1,195 @@
+{
+  "orgnr": "995004615",
+  "name": "ØFSTI KRETSLAG BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØFSTI KRETSLAG BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "995004615",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-03-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1967-03-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7514",
+        "poststed": "STJØRDAL",
+        "adresse": [
+          "Sørsidevegen 720"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7514",
+        "poststed": "STJØRDAL",
+        "adresse": [
+          "c/o Per Ivar Moum",
+          "Moan søndre"
+        ],
+        "kommune": "STJØRDAL",
+        "kommunenummer": "5035"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Oddveig Øfsti",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Arnfinn Flekstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Slungaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kari Iversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aase Merethe Bjørgnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995004615/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:39Z"
+}

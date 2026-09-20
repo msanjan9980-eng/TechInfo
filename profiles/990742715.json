@@ -1,0 +1,282 @@
+{
+  "orgnr": "990742715",
+  "name": "MOSJØEN HAVN KF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOSJØEN HAVN KF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990742715",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommunalt foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-01-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8663",
+        "poststed": "MOSJØEN",
+        "adresse": [
+          "Havnegata 54"
+        ],
+        "kommune": "VEFSN",
+        "kommunenummer": "1824"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8651",
+        "poststed": "MOSJØEN",
+        "adresse": [
+          "Postboks 560"
+        ],
+        "kommune": "VEFSN",
+        "kommunenummer": "1824"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "52.220",
+        "beskrivelse": "Andre tjenester tilknyttet sjøtransport"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.mosjoenhavn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@mosjoenhavn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "75 10 18 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95866094",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kurt Jessen Johansson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Wenche Elin Solli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Snorre Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Magnus Myrvoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tone Røreng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kine Mosheim-Lysfjord",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Edgar Hauan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON MIDT-NORGE SA"
+        ],
+        "orgnr": "919902310",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Eierkommune",
+      "value": {
+        "name": [
+          "VEFSN KOMMUNE"
+        ],
+        "orgnr": "844824122",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990742715/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: EIKM"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:45Z"
+}

@@ -1,0 +1,194 @@
+{
+  "orgnr": "933453995",
+  "name": "GÅRDEN EIENDOM ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GÅRDEN EIENDOM ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933453995",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2680",
+        "poststed": "VÅGÅ",
+        "adresse": [
+          "c/o Kristian Gården & Sønner AS",
+          "Industrivegen 30"
+        ],
+        "kommune": "VÅGÅ",
+        "kommunenummer": "3435"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anne Mette Holen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Anne Mette Holen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Geir Gården",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Norodd Gården",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "LARS-ANDRE STORLIEN"
+        ],
+        "orgnr": "962476414",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VÅGÅ REGNSKAP SA"
+        ],
+        "orgnr": "971089725",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933453995/roller",
+      "retrieved": "2026-09-20T10:14:46Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:46Z"
+}

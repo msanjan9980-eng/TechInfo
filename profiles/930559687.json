@@ -1,0 +1,151 @@
+{
+  "orgnr": "930559687",
+  "name": "SAMEIET KATLEVÅGEN MARINA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET KATLEVÅGEN MARINA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "930559687",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-06-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-05-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5237",
+        "poststed": "RÅDAL",
+        "adresse": [
+          "c/o Bjørn Rasmussen Nygaard",
+          "Vindharpevegen 31"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørn Nygaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torbjørn Vatle",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håkon Dyrdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930559687/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

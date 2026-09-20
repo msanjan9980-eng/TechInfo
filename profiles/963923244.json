@@ -1,0 +1,173 @@
+{
+  "orgnr": "963923244",
+  "name": "FILM & FORM K BERGER & O FLYUM ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FILM & FORM K BERGER & O FLYUM ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "963923244",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-05-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1405",
+        "poststed": "LANGHUS",
+        "adresse": [
+          "Einerveien 20"
+        ],
+        "kommune": "NORDRE FOLLO",
+        "kommunenummer": "3207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "59.110",
+        "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "930 61 432",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ketill Berger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ola Flyum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ketill Berger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT SERVICES AS"
+        ],
+        "orgnr": "993800139",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/963923244/roller",
+      "retrieved": "2026-09-20T10:15:04Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:04Z"
+}

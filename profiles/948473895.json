@@ -1,0 +1,250 @@
+{
+  "orgnr": "948473895",
+  "name": "TOPPEN BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TOPPEN BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "948473895",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1976-06-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1671",
+        "poststed": "KRÅKERØY",
+        "adresse": [
+          "Jens Wilhelmsens gate 3"
+        ],
+        "kommune": "FREDRIKSTAD",
+        "kommunenummer": "3107"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 14 70 70",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "SOLIBO FREDRIKSTAD AS"
+        ],
+        "orgnr": "984673604",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Joakim Andreas Arnesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Atle Ring",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil André Frøne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Line Jeanette Aslaksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kjell Gunnar Sveine",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sunniva Marit Rokkones",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SOLHØI REVISJON AS"
+        ],
+        "orgnr": "952011677",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SOLIBO FREDRIKSTAD AS"
+        ],
+        "orgnr": "984673604",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/948473895/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:54Z"
+}

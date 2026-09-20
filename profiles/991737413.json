@@ -1,0 +1,89 @@
+{
+  "orgnr": "991737413",
+  "name": "JENS TOBE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JENS TOBE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991737413",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-10-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Tyskland",
+        "landkode": "DE",
+        "poststed": "18196 Scharstorf",
+        "adresse": [
+          "Lindenstrasse 7"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991737413",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:00Z"
+}

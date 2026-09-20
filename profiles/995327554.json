@@ -1,0 +1,223 @@
+{
+  "orgnr": "995327554",
+  "name": "TARANS ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TARANS ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "995327554",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-03-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2010-01-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0265",
+        "poststed": "OSLO",
+        "adresse": [
+          "Elisenbergveien 5 A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.110",
+        "beskrivelse": "Kjøp og salg av egen fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 54 82 42",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Jesper Jeppesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Olav Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Isa Mustafa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ruth Magnhild Kielland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Aman Tesfamichael",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jesper Jeppesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Richard Diskerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/995327554/roller",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

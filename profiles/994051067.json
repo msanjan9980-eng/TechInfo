@@ -1,0 +1,255 @@
+{
+  "orgnr": "994051067",
+  "name": "PANORO ENERGY ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PANORO ENERGY ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994051067",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-05-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-04-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0252",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Advokatfirmaet BAHR AS",
+          "Tjuvholmen allé 16"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0117",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Advokatfirmaet BAHR AS",
+          "Postboks 1524 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "35.210",
+        "beskrivelse": "Produksjon av gass"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "442034051060",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Eric Jeremie Du Plessis D´argentre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Julien Guillaume Olivier Balkany",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Alexandra Almy Herger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gunnvor Ellingsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christophe Thierry Marie Salmon",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "John Andrew Hamilton",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AZETS INSIGHT AS"
+        ],
+        "orgnr": "983338917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994051067/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

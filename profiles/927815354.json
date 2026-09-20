@@ -1,0 +1,154 @@
+{
+  "orgnr": "927815354",
+  "name": "CHARON",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CHARON",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927815354",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-10-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Nederland",
+        "landkode": "NL",
+        "poststed": "NL-6706 JB WAGENINGEN",
+        "adresse": [
+          "Einthovenstraat 35"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2676",
+        "poststed": "HEIDAL",
+        "adresse": [
+          "Heidalsvegen 2395"
+        ],
+        "kommune": "SEL",
+        "kommunenummer": "3437"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.510",
+        "beskrivelse": "Undervisning innenfor idrett og rekreasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@placement.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ramon Manuel Eikenaar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "CHARON"
+        ],
+        "orgnr": "927955253",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927815354/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

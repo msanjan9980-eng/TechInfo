@@ -1,0 +1,277 @@
+{
+  "orgnr": "915501680",
+  "name": "OTOVO ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OTOVO ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915501680",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-07-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2015-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0181",
+        "poststed": "OSLO",
+        "adresse": [
+          "Torggata 11"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.180",
+        "beskrivelse": "Agenturhandel med spesialisert vareutvalg ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.otovo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "sol@otovo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "William Jackson Berger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Lars Erik Torjussen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tor Øystein Repstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mette Hanestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Samuel Gürtl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nanna Petersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aina Lunde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "William George Coyle Iii",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AIDER AS"
+        ],
+        "orgnr": "922633452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915501680/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:29Z"
+}

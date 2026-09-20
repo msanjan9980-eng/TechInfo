@@ -1,0 +1,153 @@
+{
+  "orgnr": "915134734",
+  "name": "BALIQUE DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BALIQUE DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915134734",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-03-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2015-03-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3409",
+        "poststed": "TRANBY",
+        "adresse": [
+          "Svendsemarka 19"
+        ],
+        "kommune": "LIER",
+        "kommunenummer": "3312"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.710",
+        "beskrivelse": "Detaljhandel med klær"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "contactbalique@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "405 54 939",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Torstein Erling Bergem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Håkon Sæterdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915134734/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:45Z"
+}

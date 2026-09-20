@@ -1,0 +1,184 @@
+{
+  "orgnr": "997824776",
+  "name": "ROOTS & BLUES MUSIC CLUB (RB MUSIC CLUB)",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ROOTS & BLUES MUSIC CLUB (RB MUSIC CLUB)",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997824776",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-01-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-12-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1352",
+        "poststed": "KOLSÅS",
+        "adresse": [
+          "Kolsåsstien 34"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "98037485",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Nina Sandberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nina Sandberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marit Five",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Stig-Ronny Kristiansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Willy Hagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997824776/roller",
+      "retrieved": "2026-09-20T10:14:42Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:42Z"
+}

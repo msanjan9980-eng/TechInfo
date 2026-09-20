@@ -1,0 +1,237 @@
+{
+  "orgnr": "976998359",
+  "name": "KVENVÆR SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KVENVÆR SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976998359",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7243",
+        "poststed": "KVENVÆR",
+        "adresse": [],
+        "kommune": "HITRA",
+        "kommunenummer": "5056"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7243",
+        "poststed": "KVENVÆR",
+        "adresse": [
+          "c/o Asbjørn Skjelvik",
+          "Skjelvikveien 34"
+        ],
+        "kommune": "HITRA",
+        "kommunenummer": "5056"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.hitra.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kirkekontoret@hitra.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "72 44 17 25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Asbjørn Skjelvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Rigmor Johanne Hermanstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marianne Østensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Asbjørn Ingvar Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Solfrid Murvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Otto Sjølie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "HITRA SOKN"
+        ],
+        "orgnr": "976998391",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976998359/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:19Z"
+}

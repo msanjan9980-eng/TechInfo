@@ -1,0 +1,114 @@
+{
+  "orgnr": "837293162",
+  "name": "NORDIC TRANSITION ADVISORY STUDENTBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDIC TRANSITION ADVISORY STUDENTBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "837293162",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-03-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-02-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3800",
+        "poststed": "BØ I TELEMARK",
+        "adresse": [
+          "Universitetet i Sør-øst Norge Bø",
+          "Gullbringvegen 36"
+        ],
+        "kommune": "MIDT-TELEMARK",
+        "kommunenummer": "4020"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Leo Sofyan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/837293162/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:01Z"
+}

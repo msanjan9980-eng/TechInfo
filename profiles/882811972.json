@@ -1,0 +1,254 @@
+{
+  "orgnr": "882811972",
+  "name": "HAVILA SHIPPING ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAVILA SHIPPING ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "882811972",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-01-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-10-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6092",
+        "poststed": "FOSNAVÅG",
+        "adresse": [
+          "Mjølstadnesvegen 24"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1515"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6099",
+        "poststed": "FOSNAVÅG",
+        "adresse": [
+          "Postboks 215"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1515"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "50.203",
+        "beskrivelse": "Forsyning for offshore"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 259,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "office@havila.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 08 09 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Njål Sævik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Henrik Grung",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Rabben",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nina Skage",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jogeir Romestrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Holst-Dyrnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/882811972/roller",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:30Z"
+}

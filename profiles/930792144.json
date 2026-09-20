@@ -1,0 +1,150 @@
+{
+  "orgnr": "930792144",
+  "name": "GAMMELSÆTERVEIEN VEILAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GAMMELSÆTERVEIEN VEILAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "930792144",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-02-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2022-10-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2510",
+        "poststed": "TYLLDALEN",
+        "adresse": [
+          "Øverbybakkan 92"
+        ],
+        "kommune": "TYNSET",
+        "kommunenummer": "3427"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Semming Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marit Eggen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Ketill Graven",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930792144/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:18Z"
+}

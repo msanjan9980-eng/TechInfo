@@ -1,0 +1,195 @@
+{
+  "orgnr": "989221612",
+  "name": "LAVPRISVVS DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LAVPRISVVS DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989221612",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-02-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-11-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1676",
+        "poststed": "KRÅKERØY",
+        "adresse": [
+          "Stenbukta 6"
+        ],
+        "kommune": "FREDRIKSTAD",
+        "kommunenummer": "3107"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.520",
+        "beskrivelse": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.lavprisvvs.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@lavprisvvs.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "48120881",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2006",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Tom Bjurhult",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Tom Bjurhult",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Aage Roland Reffsgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Amund Lunde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989221612/roller",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:39Z"
+}

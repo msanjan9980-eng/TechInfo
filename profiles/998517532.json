@@ -1,0 +1,131 @@
+{
+  "orgnr": "998517532",
+  "name": "KARL PETTER SKJENNEMS DØDSBO V/ BOSTYRER ADVOKAT J.A. RESEN-FELLIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KARL PETTER SKJENNEMS DØDSBO V/ BOSTYRER ADVOKAT J.A. RESEN-FELLIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "998517532",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Andre bo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-07-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2012-06-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1831",
+        "poststed": "ASKIM",
+        "adresse": [
+          "Hovsveien 10"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1802",
+        "poststed": "ASKIM",
+        "adresse": [
+          "Postboks 323"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Jon Arild Resen-Fellie",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/998517532/roller",
+      "retrieved": "2026-09-20T10:15:08Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:08Z"
+}

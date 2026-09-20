@@ -1,0 +1,247 @@
+{
+  "orgnr": "971117591",
+  "name": "FORKYNN ORDET STIFTELSE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FORKYNN ORDET STIFTELSE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971117591",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1969-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4770",
+        "poststed": "HØVÅG",
+        "adresse": [
+          "c/o Vidar Brautaset",
+          "Kjerkekilåsen 22"
+        ],
+        "kommune": "LILLESAND",
+        "kommunenummer": "4215"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "38 09 49 77",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91552991",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Vidar Brautaset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arvid Solheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Vidar Brautaset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Jørn Brynjulfsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ruben Gundersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON SØR AS"
+        ],
+        "orgnr": "943708428",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VALUE GROUP AS"
+        ],
+        "orgnr": "915156975",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 SØR-NORGE",
+          "FORRETNINGSPARTNER AS"
+        ],
+        "orgnr": "990945748",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971117591/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:17Z"
+}

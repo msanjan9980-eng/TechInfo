@@ -1,0 +1,217 @@
+{
+  "orgnr": "997921917",
+  "name": "KONGSBERG HUNDEKLUBB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KONGSBERG HUNDEKLUBB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997921917",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-02-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1945-04-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3601",
+        "poststed": "KONGSBERG",
+        "adresse": [
+          "Postboks 106  Berjasenteret (ICA)"
+        ],
+        "kommune": "KONGSBERG",
+        "kommunenummer": "3303"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Geir Brandtzæg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bent Wahlø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Magdalena Ada Wood",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigrid Andersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Merete Rilvaag",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jonny Dahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karoline Kværna",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AIDER AS"
+        ],
+        "orgnr": "922633452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997921917/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:06Z"
+}

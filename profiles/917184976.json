@@ -1,0 +1,143 @@
+{
+  "orgnr": "917184976",
+  "name": "J&E SPORTS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "J&E SPORTS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "917184976",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Nederland",
+        "landkode": "NL",
+        "poststed": "5348LA OSS",
+        "adresse": [
+          "Spaanderstraat 30"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "81.300",
+        "beskrivelse": "Beplantning av hager og parkanlegg"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "ECOVIS ARDUR TAX AS"
+        ],
+        "orgnr": "988076678",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Jørgen Svendgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "J&E SPORTS"
+        ],
+        "orgnr": "917294992",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917184976/roller",
+      "retrieved": "2026-09-20T10:14:45Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:45Z"
+}

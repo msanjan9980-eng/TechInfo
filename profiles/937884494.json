@@ -1,0 +1,386 @@
+{
+  "orgnr": "937884494",
+  "name": "MARKER OG EIDSBERG SPAREBANK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MARKER OG EIDSBERG SPAREBANK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937884494",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1848-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1850",
+        "poststed": "MYSEN",
+        "adresse": [
+          "Storgata 2"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1851",
+        "poststed": "MYSEN",
+        "adresse": [
+          "Postboks 164"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 116,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@esbank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 89 91 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Glenn Malcolm Haglund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Rune Iversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anders Gimmingsrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Lysaker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helene Marie Rødseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marit Solveig Bjørnland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Erik Hermanseter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Solveig Reiten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harald Østby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "John Gunnar Østereng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Rolf Øyvind Thune",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tiril Røssum-Tokerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kari Anne Dehli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Reidar Andre Hjortland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Camilla Nybakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KPMG AS"
+        ],
+        "orgnr": "935174627",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ABACUS ØKONOMITJENESTER AS"
+        ],
+        "orgnr": "982741076",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937884494/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:16Z"
+}

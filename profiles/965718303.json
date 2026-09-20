@@ -1,0 +1,248 @@
+{
+  "orgnr": "965718303",
+  "name": "VÅGSTRANDA VASSVERK SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VÅGSTRANDA VASSVERK SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "965718303",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1972-06-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6387",
+        "poststed": "VÅGSTRANDA",
+        "adresse": [
+          "Vikåsvegen 127"
+        ],
+        "kommune": "VESTNES",
+        "kommunenummer": "1535"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "36.000",
+        "beskrivelse": "Uttak fra kilde, rensing og distribusjon av vann"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "leidulf_myr@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "97686416",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Leidulf Øverland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helge Kjersem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åge Thoresen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øyvind Våge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kenneth Finsås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Solveig Johanne Bjering",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Johan Solgaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ADMENTO AS"
+        ],
+        "orgnr": "989176013",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/965718303/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:41Z"
+}

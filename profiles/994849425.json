@@ -1,0 +1,139 @@
+{
+  "orgnr": "994849425",
+  "name": "SAMEIET HUNDSUNDVEIEN 6",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET HUNDSUNDVEIEN 6",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994849425",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2010-01-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-09-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1366",
+        "poststed": "LYSAKER",
+        "adresse": [
+          "Solliveien 55"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0201",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 2459 Solli"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67 11 57 11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Erik Cato Ender",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994849425/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:17Z"
+}

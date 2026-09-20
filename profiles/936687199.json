@@ -1,0 +1,114 @@
+{
+  "orgnr": "936687199",
+  "name": "GOTEAM UNGDOMSBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GOTEAM UNGDOMSBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936687199",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-12-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-11-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3413",
+        "poststed": "LIER",
+        "adresse": [
+          "Lier videregående skole",
+          "Jensvollveien 16"
+        ],
+        "kommune": "LIER",
+        "kommunenummer": "3312"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Turid Rudningen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936687199/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:22Z"
+}

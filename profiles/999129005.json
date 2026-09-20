@@ -1,0 +1,381 @@
+{
+  "orgnr": "999129005",
+  "name": "GJØVIK KRISESENTER IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GJØVIK KRISESENTER IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "999129005",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-02-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-10-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2815",
+        "poststed": "GJØVIK",
+        "adresse": [],
+        "kommune": "GJØVIK",
+        "kommunenummer": "3407"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2801",
+        "poststed": "GJØVIK",
+        "adresse": [
+          "Postboks 5"
+        ],
+        "kommune": "GJØVIK",
+        "kommunenummer": "3407"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "87.999",
+        "beskrivelse": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 15,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "krise-ig@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "61 17 55 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Marianne Ulven",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "GJØVIK KOMMUNE"
+        ],
+        "orgnr": "940155223",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ØSTRE TOTEN KOMMUNE"
+        ],
+        "orgnr": "964949859",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VESTRE TOTEN KOMMUNE"
+        ],
+        "orgnr": "971028300",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SØNDRE LAND KOMMUNE"
+        ],
+        "orgnr": "961381630",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "NORDRE LAND KOMMUNE"
+        ],
+        "orgnr": "861381722",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Rita Sandnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Marte Langvatn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mari Aasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Erik Haug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thomas Nyland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Guro Jensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lise Hammerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lars Erik Degvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "INNLANDET REVISJON IKS"
+        ],
+        "orgnr": "987769386",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AZETS INSIGHT AS"
+        ],
+        "orgnr": "983338917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999129005/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:18Z"
+}

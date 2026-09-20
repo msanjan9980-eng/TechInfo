@@ -1,0 +1,138 @@
+{
+  "orgnr": "993896462",
+  "name": "NORSK PASIENTSKADEERSTATNING - FOND FOR PRIVAT HELSETJENESTE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORSK PASIENTSKADEERSTATNING - FOND FOR PRIVAT HELSETJENESTE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "993896462",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Administrativ enhet - offentlig sektor",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-03-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0368",
+        "poststed": "OSLO",
+        "adresse": [
+          "Middelthuns gate 29"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0213",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 232 Skøyen"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Marit Myrvåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Adm. enhet - offentlig sektor",
+      "value": {
+        "name": [
+          "NORSK PASIENTSKADEERSTATNING"
+        ],
+        "orgnr": "984936923",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/993896462/roller",
+      "retrieved": "2026-09-20T10:15:17Z",
+      "confidence": "high",
+      "note": "Role group: ADOS"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:17Z"
+}

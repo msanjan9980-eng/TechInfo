@@ -1,0 +1,315 @@
+{
+  "orgnr": "959259852",
+  "name": "STIFTELSEN KULTURLEGAT FOR TRONDHEIM",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN KULTURLEGAT FOR TRONDHEIM",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "959259852",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-11-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1990-10-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7013",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "c/o Rådhuset",
+          "Munkegata 1"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7004",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "c/o Trondheim kommune",
+          "Postboks 2300 Torgarden"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "roald.birkelund@trondheim.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "952 63 352",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Roald Birkelund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Leon Bafondoko",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elizabeth Moan",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabeth Paulsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nils Heldal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ola Rise",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kjetil Utne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tone Dorthe Sletten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Silje Salomonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Marit Eline Selfjord",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "TRONDHEIM KOMMUNEREVISJON"
+        ],
+        "orgnr": "976663438",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ASPIA NORGE AS"
+        ],
+        "orgnr": "923792457",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959259852/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:15Z"
+}

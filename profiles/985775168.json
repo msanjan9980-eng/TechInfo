@@ -1,0 +1,184 @@
+{
+  "orgnr": "985775168",
+  "name": "SKINVIKDALEN BEITELAG BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKINVIKDALEN BEITELAG BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985775168",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-06-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1993-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6110",
+        "poststed": "AUSTEFJORDEN",
+        "adresse": [
+          "v/Ragnar Høydalsvik"
+        ],
+        "kommune": "VOLDA",
+        "kommunenummer": "1577"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6110",
+        "poststed": "AUSTEFJORDEN",
+        "adresse": [
+          "Djuvik"
+        ],
+        "kommune": "VOLDA",
+        "kommunenummer": "1577"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 05 00 94",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95813736",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ragnar Høydalsvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigurd Løfoll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Harald Sundal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985775168/roller",
+      "retrieved": "2026-09-20T10:14:38Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:38Z"
+}

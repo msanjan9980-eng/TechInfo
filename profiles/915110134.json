@@ -1,0 +1,208 @@
+{
+  "orgnr": "915110134",
+  "name": "ASBJØRN, JAN OG ALFHILD DAHLES STIFTELSE (DAHLE-STIFTELSEN)",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASBJØRN, JAN OG ALFHILD DAHLES STIFTELSE (DAHLE-STIFTELSEN)",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915110134",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-04-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2011-07-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1170",
+        "poststed": "OSLO",
+        "adresse": [
+          "Solveien 119E"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1112",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Stiftelsen Signo",
+          "Postboks 100 Nordstrand"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "john.arve.knippen@signo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "982 66 460",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Atle Sandbekken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Camilla Rae Høiberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Johan Valen-Sendstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915110134/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

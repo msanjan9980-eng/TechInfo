@@ -1,0 +1,143 @@
+{
+  "orgnr": "876431122",
+  "name": "MELÅSBERGET SAG ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MELÅSBERGET SAG ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "876431122",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-05-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1996-05-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2416",
+        "poststed": "JØMNA",
+        "adresse": [],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "16.110",
+        "beskrivelse": "Saging og høvling av tre"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "90 01 86 15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Lord Torgrim Diseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Øystein Nøttåsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876431122/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:48Z"
+}

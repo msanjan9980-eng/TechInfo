@@ -1,0 +1,185 @@
+{
+  "orgnr": "913397045",
+  "name": "SINFUL APS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SINFUL APS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "913397045",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-03-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "DK-8270 HØJBERG",
+        "adresse": [
+          "Søren Nymarks Vej 1C"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0614",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o TIMEVAT AS",
+          "Postboks 11, Alnabru"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.780",
+        "beskrivelse": "Annen detaljhandel med andre nye varer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "info@timevat.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "TIMEVAT AS"
+        ],
+        "orgnr": "923458204",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Sine Borup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "TIMEVAT AS"
+        ],
+        "orgnr": "923458204",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "SINFUL APS"
+        ],
+        "orgnr": "913397061",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913397045/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:23Z"
+}

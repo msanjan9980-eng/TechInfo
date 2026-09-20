@@ -1,0 +1,164 @@
+{
+  "orgnr": "834210622",
+  "name": "BØMLO KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BØMLO KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "834210622",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5430",
+        "poststed": "BREMNES",
+        "adresse": [
+          "Rådhuset",
+          "Leirdalen 1"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 1521,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.bomlo.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@bomlo.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53 42 30 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kjetil Gjøsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/834210622/roller",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

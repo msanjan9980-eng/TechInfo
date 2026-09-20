@@ -1,0 +1,305 @@
+{
+  "orgnr": "926718304",
+  "name": "EKSPORTFINANSIERING NORGE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EKSPORTFINANSIERING NORGE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926718304",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-03-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0250",
+        "poststed": "OSLO",
+        "adresse": [
+          "Støperigata 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0122",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1763 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "66.190",
+        "beskrivelse": "Andre tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 127,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tone Cathrine Bakker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Morten Støver",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingelise Arntsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Leiv Olav Kallestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Linda Aase",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Ulriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ivar Brandvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eirik Wærness",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hans Harald Melandsø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Cathrine Toset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "RIKSREVISJONEN"
+        ],
+        "orgnr": "974760843",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "DIREKTORATET FOR FORVALTNING OG",
+          "ØKONOMISTYRING"
+        ],
+        "orgnr": "986252932",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "NÆRINGS- OG FISKERIDEPARTEMENTET"
+        ],
+        "orgnr": "912660680",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926718304/roller",
+      "retrieved": "2026-09-20T10:15:06Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:06Z"
+}

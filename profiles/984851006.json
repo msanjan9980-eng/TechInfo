@@ -1,0 +1,358 @@
+{
+  "orgnr": "984851006",
+  "name": "DNB BANK ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DNB BANK ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "984851006",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-09-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2002-09-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "Dronning Eufemias gate 30"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0021",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1600 Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 7353,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.dnb.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91504800",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kjerstin Elisabeth Braathen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eimund Nygaard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gro Bakstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Petter-Børre Furberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Petter Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Berit Irene Behring",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Vivian Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Røsæg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lillian Christin Hattrem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eli Solhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Haakon Christopher Sandven",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ann-Mari Sæterlid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Geir Jarle Ness",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sigmund Våpenstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}

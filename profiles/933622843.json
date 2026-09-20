@@ -1,0 +1,137 @@
+{
+  "orgnr": "933622843",
+  "name": "KRYSS-KULTUR",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRYSS-KULTUR",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933622843",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-06-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-04-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3150",
+        "poststed": "TOLVSRØD",
+        "adresse": [
+          "Glassverksgata 24A"
+        ],
+        "kommune": "TØNSBERG",
+        "kommunenummer": "3905"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stian Christoffersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sara-Desirée Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933622843/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:26Z"
+}

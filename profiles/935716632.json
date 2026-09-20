@@ -1,0 +1,116 @@
+{
+  "orgnr": "935716632",
+  "name": "JOHANNESEN TRANSPORT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JOHANNESEN TRANSPORT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935716632",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-06-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4308",
+        "poststed": "SANDNES",
+        "adresse": [
+          "Lauvvikveien 264"
+        ],
+        "kommune": "SANDNES",
+        "kommunenummer": "1108"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "53.200",
+        "beskrivelse": "Andre post- og budtjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Rolf Johannesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935716632/roller",
+      "retrieved": "2026-09-20T10:15:01Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:01Z"
+}

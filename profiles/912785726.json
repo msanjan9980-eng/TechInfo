@@ -1,0 +1,218 @@
+{
+  "orgnr": "912785726",
+  "name": "RØROS GJENSIDIGE HESTE- OG KREATURFORSIKRINGSSELSKAP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RØROS GJENSIDIGE HESTE- OG KREATURFORSIKRINGSSELSKAP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "912785726",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Gjensidig forsikringsselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-11-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1885-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7374",
+        "poststed": "RØROS",
+        "adresse": [
+          "Skansveien 4"
+        ],
+        "kommune": "RØROS",
+        "kommunenummer": "5025"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "65.120",
+        "beskrivelse": "Skadeforsikring"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "92049053",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørg Evavold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Bjørg Evavold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Rolf Petter Tørres",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger Grønås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Jacob Galåen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ove Grytbak",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kåre Tørres",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/912785726/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:12Z"
+}

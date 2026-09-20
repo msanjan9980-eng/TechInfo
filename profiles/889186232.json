@@ -1,0 +1,235 @@
+{
+  "orgnr": "889186232",
+  "name": "ENSURGE MICROPOWER ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENSURGE MICROPOWER ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "889186232",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-12-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-12-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0153",
+        "poststed": "OSLO",
+        "adresse": [
+          "Kongens gate 6"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0230",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 2944 Solli"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "72.100",
+        "beskrivelse": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "info@thinfilm.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 27 51 59",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Shauna Mc Intyre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Morten Opstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nina Riibe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thomas Ramm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT VEIBY AKONTO AS"
+        ],
+        "orgnr": "989111647",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/889186232/roller",
+      "retrieved": "2026-09-20T10:14:18Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:18Z"
+}

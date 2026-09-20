@@ -1,0 +1,116 @@
+{
+  "orgnr": "936249973",
+  "name": "MADSEN PT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MADSEN PT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936249973",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-09-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8013",
+        "poststed": "BODØ",
+        "adresse": [
+          "Notveien 17"
+        ],
+        "kommune": "BODØ",
+        "kommunenummer": "1804"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.510",
+        "beskrivelse": "Undervisning innenfor idrett og rekreasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Benjamin Madsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936249973/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

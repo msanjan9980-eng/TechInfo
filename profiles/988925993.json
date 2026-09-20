@@ -1,0 +1,178 @@
+{
+  "orgnr": "988925993",
+  "name": "PARKEN VEST SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PARKEN VEST SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988925993",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-08-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-10-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9020",
+        "poststed": "TROMSDALEN",
+        "adresse": [
+          "v/ Nina Kirkvik",
+          "Reinvegen 49"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1364",
+        "poststed": "FORNEBU",
+        "adresse": [
+          "c/o Rolf-H Kirkvik",
+          "Bjørnenga 7"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "66 76 16 37",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Rolf-Hugo Kirkvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anja Kirkvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Emilia Kirkvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988925993/roller",
+      "retrieved": "2026-09-20T10:14:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:22Z"
+}

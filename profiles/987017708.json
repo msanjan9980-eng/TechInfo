@@ -1,0 +1,299 @@
+{
+  "orgnr": "987017708",
+  "name": "STIFTELSEN MØRE BARNE- OG UNGDOMSSKULE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN MØRE BARNE- OG UNGDOMSSKULE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987017708",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-07-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2004-05-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6080",
+        "poststed": "GURSKØY",
+        "adresse": [
+          "Dragsund",
+          "Industrivegen 1"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1515"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.201",
+        "beskrivelse": "Ordinær grunnskoleundervisning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 60,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.møreskule.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "rektor@moreskule.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "70 08 05 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Knut Einar Tokheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arve Fiskerstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olaus Jon Kopperstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Ove Kleppe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristine Røren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gudrun Longva",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anton Torvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Inger Martha Lillebø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ståle Tønnesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISOR NORDSTRAND AS"
+        ],
+        "orgnr": "923207783",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "KNIF REGNSKAP AS"
+        ],
+        "orgnr": "974476495",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987017708/roller",
+      "retrieved": "2026-09-20T10:14:35Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:35Z"
+}

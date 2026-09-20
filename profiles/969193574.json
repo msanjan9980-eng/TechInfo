@@ -1,0 +1,274 @@
+{
+  "orgnr": "969193574",
+  "name": "NORD-TORPA UTMARKSLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORD-TORPA UTMARKSLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "969193574",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1982-11-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2880",
+        "poststed": "NORD-TORPA",
+        "adresse": [
+          "v/Arne Goplen",
+          "Øvrevegen 15"
+        ],
+        "kommune": "NORDRE LAND",
+        "kommunenummer": "3448"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2880",
+        "poststed": "NORD-TORPA",
+        "adresse": [
+          "v/ Arne Goplen",
+          "Øvrevegen 15"
+        ],
+        "kommune": "NORDRE LAND",
+        "kommunenummer": "3448"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.700",
+        "beskrivelse": "Jakt, fangst, viltstell og tilknyttede tjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "tskartlien@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "61 11 96 98",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91393322",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Nils Asgeir Jørandli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arne Goplen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Finn Taraldstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil Koll",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kai Olaf Nybo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gun Irene Storheil",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Odd Øistad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Andreas Klevmoen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "NORDRE LAND REGNSKAP SA"
+        ],
+        "orgnr": "934206061",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969193574/roller",
+      "retrieved": "2026-09-20T10:15:22Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:22Z"
+}

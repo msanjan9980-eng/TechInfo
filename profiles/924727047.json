@@ -1,0 +1,188 @@
+{
+  "orgnr": "924727047",
+  "name": "MINOVA NORWAY NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MINOVA NORWAY NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "924727047",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-04-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0663",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Accountor AS",
+          "3. etasje",
+          "Innspurten 1A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-121 63 JOHANNESHOV",
+        "adresse": [
+          "c/o Minova Nordic AB",
+          "Tjurhornsgränd 6-8"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.850",
+        "beskrivelse": "Engroshandel med kjemiske produkter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "lasse.knaben@minovaglobal.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+4723209100",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": "Lasse Knaben",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ASPIA NORGE AS"
+        ],
+        "orgnr": "923792457",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "MINOVA NORDIC AB"
+        ],
+        "orgnr": "924890576",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924727047/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:58Z"
+}

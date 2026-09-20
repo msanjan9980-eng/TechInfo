@@ -1,0 +1,406 @@
+{
+  "orgnr": "930654914",
+  "name": "DDV IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DDV IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "930654914",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-01-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2022-09-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4520",
+        "poststed": "LINDESNES",
+        "adresse": [
+          "Hestehaven 2A"
+        ],
+        "kommune": "LINDESNES",
+        "kommunenummer": "4205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.200",
+        "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 36,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.ddv.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@ddv.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95297000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Odd Lasse Worum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ÅSERAL KOMMUNE"
+        ],
+        "orgnr": "964966842",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HÆGEBOSTAD KOMMUNE"
+        ],
+        "orgnr": "964963916",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "KVINESDAL KOMMUNE"
+        ],
+        "orgnr": "964964076",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FARSUND KOMMUNE"
+        ],
+        "orgnr": "964083266",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FLEKKEFJORD KOMMUNE"
+        ],
+        "orgnr": "964967369",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "LINDESNES KOMMUNE"
+        ],
+        "orgnr": "921060440",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Olaf Eikeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Sonja Svardal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Geir Bruli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger Marethe Egeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Jan Wilhelmsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingrid Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Odd Helge Liestøl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anne Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Alf Vatne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Guro Cecilie Gidske",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SØRLANDET KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "971328452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AZETS INSIGHT AS"
+        ],
+        "orgnr": "983338917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/930654914/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:28Z"
+}

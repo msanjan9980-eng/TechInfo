@@ -1,0 +1,203 @@
+{
+  "orgnr": "983618057",
+  "name": "EL CACO ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EL CACO ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "983618057",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-09-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2001-08-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2007",
+        "poststed": "KJELLER",
+        "adresse": [
+          "Floraveien 23C"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.elcaco.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "elcaco@elcaco.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 38 60 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "92645888",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2023",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Øyvind Osa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Thomas Fredriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Anders Gjesti",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Øyvind Osa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983618057/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:18Z"
+}

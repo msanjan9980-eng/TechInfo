@@ -1,0 +1,188 @@
+{
+  "orgnr": "976985559",
+  "name": "SKJEBERGDALEN SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKJEBERGDALEN SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976985559",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1746",
+        "poststed": "SKJEBERG",
+        "adresse": [
+          "Prestegårdsbakken 15"
+        ],
+        "kommune": "SARPSBORG",
+        "kommunenummer": "3105"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1702",
+        "poststed": "SARPSBORG",
+        "adresse": [
+          "Postboks 237"
+        ],
+        "kommune": "SARPSBORG",
+        "kommunenummer": "3105"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.kirken.no/sarpsborg-øst",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "skjeberg.menighet@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "40 70 17 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Mette Gabestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ØSTRE VIKEN KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "987952423",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "SARPSBORG KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976985605",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976985559/roller",
+      "retrieved": "2026-09-20T10:15:24Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:24Z"
+}

@@ -1,0 +1,295 @@
+{
+  "orgnr": "974789264",
+  "name": "GREFSEN SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GREFSEN SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974789264",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-09-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0489",
+        "poststed": "OSLO",
+        "adresse": [
+          "Glads vei 45"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 21,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "grefsenkirke.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.grefsen.oslo@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 62 93 10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Marianne Norheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Lise Hammergren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingrid Hernes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tanja Helene Thorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Braut",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Kristian Øren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sol Gangsaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Geir Helge Hegerstrøm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marthe Andresen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Morten Holmeide",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "KIRKELIG FELLESRÅD I OSLO"
+        ],
+        "orgnr": "976987608",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974789264/roller",
+      "retrieved": "2026-09-20T10:14:36Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:36Z"
+}

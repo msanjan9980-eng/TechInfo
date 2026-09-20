@@ -1,0 +1,327 @@
+{
+  "orgnr": "938703825",
+  "name": "DNV PENSJONSKASSE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DNV PENSJONSKASSE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938703825",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Pensjonskasse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1999-01-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1983-05-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1363",
+        "poststed": "HØVIK",
+        "adresse": [
+          "Veritasveien 1"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0122",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/Lumera",
+          "Postboks 1790 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "65.300",
+        "beskrivelse": "Pensjonskasser"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "forvaltning@lumera.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67 57 99 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Tom Arild Vestby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Guri Lassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hanne Myre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arild Orgland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hege Bang",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Einar Tore Moe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Haakon Eilertsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Line Haugetraa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jens Laugesen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Gro Gotteberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jon Kalsheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ENORA AS"
+        ],
+        "orgnr": "935701430",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938703825/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:48Z"
+}

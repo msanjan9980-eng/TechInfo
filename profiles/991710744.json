@@ -1,0 +1,129 @@
+{
+  "orgnr": "991710744",
+  "name": "KARCZUNKOWSKA PARK SP Z O O",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KARCZUNKOWSKA PARK SP Z O O",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991710744",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-09-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2007-03-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Polen",
+        "landkode": "PL",
+        "poststed": "00-656 WARSZAWA",
+        "adresse": [
+          "Ul Sniadeckick 10"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0311",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Selvaag Eiendom AS",
+          "Postboks 14 Øvre Ullern"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Per Bomann-Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991710744/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:03Z"
+}

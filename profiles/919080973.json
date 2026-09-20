@@ -1,0 +1,129 @@
+{
+  "orgnr": "919080973",
+  "name": "IVAN BERGS DØDSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "IVAN BERGS DØDSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "919080973",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Andre bo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-06-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1999-02-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3280",
+        "poststed": "TJODALYNG",
+        "adresse": [
+          "c/o Rolf Kruge Huseby",
+          "Østbyveien 100"
+        ],
+        "kommune": "LARVIK",
+        "kommunenummer": "3909"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Rolf Huseby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "TJØLLING REGNSKAP SA"
+        ],
+        "orgnr": "970077227",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/919080973/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:50Z"
+}

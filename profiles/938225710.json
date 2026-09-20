@@ -1,0 +1,158 @@
+{
+  "orgnr": "938225710",
+  "name": "OCBK AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OCBK AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938225710",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-08-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-08-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0482",
+        "poststed": "OSLO",
+        "adresse": [
+          "Borger Withs gate 13"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0129",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/Adv. Kristoffer Aasebø",
+          "Postboks 6604 St. Olavs plass"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.100",
+        "beskrivelse": "Dataprogrammeringstjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "OCBK AS"
+        ],
+        "orgnr": "932444054",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938225710/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}

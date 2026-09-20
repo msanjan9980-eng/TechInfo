@@ -1,0 +1,105 @@
+{
+  "orgnr": "921300085",
+  "name": "B2MOBILITY GMBH",
+  "facts": [
+    {
+      "field": "name",
+      "value": "B2MOBILITY GMBH",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921300085",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-08-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-12-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Tyskland",
+        "landkode": "DE",
+        "poststed": "DE-44789 BOCHUM",
+        "adresse": [
+          "Wittener Strasse 45"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+492344366333",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921300085",
+      "retrieved": "2026-09-20T10:14:17Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:17Z"
+}

@@ -1,0 +1,125 @@
+{
+  "orgnr": "925677728",
+  "name": "SAMEIET HYTTA OG VOLDEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAMEIET HYTTA OG VOLDEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "925677728",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-09-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-08-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3170",
+        "poststed": "SEM",
+        "adresse": [
+          "c/o Morten Svinndal",
+          "Torvmyrveien 13"
+        ],
+        "kommune": "TØNSBERG",
+        "kommunenummer": "3905"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Morten Svinndal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925677728/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}

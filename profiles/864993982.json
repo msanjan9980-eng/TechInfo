@@ -1,0 +1,181 @@
+{
+  "orgnr": "864993982",
+  "name": "BARDU KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BARDU KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "864993982",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9360",
+        "poststed": "BARDU",
+        "adresse": [
+          "Altevannsveien 16"
+        ],
+        "kommune": "BARDU",
+        "kommunenummer": "5520"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9365",
+        "poststed": "BARDU",
+        "adresse": [
+          "Postboks 401"
+        ],
+        "kommune": "BARDU",
+        "kommunenummer": "5520"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 748,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.bardu.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@bardu.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 18 52 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Vegard Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KOMREV NORD IKS"
+        ],
+        "orgnr": "986574689",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/864993982/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:15Z"
+}

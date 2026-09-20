@@ -1,0 +1,314 @@
+{
+  "orgnr": "937893922",
+  "name": "Valle Sparebank",
+  "facts": [
+    {
+      "field": "name",
+      "value": "Valle Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937893922",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1865-02-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4747",
+        "poststed": "VALLE",
+        "adresse": [
+          "Nordibøvegen 143"
+        ],
+        "kommune": "VALLE",
+        "kommunenummer": "4221"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4746",
+        "poststed": "VALLE",
+        "adresse": [
+          "Postboks 53"
+        ],
+        "kommune": "VALLE",
+        "kommunenummer": "4221"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 23,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.valle-sparebank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@valle-sparebank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "37 93 60 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Elisabeth Slettedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anne Gjerden",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Knut Inge Hovet",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabeth Spockeli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kent Michael Lund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tor Arild Rysstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Olav Straume",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sidsel Bangtvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Knut Rike",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ingunn Uppstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937893922/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

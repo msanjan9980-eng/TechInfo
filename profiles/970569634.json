@@ -1,0 +1,166 @@
+{
+  "orgnr": "970569634",
+  "name": "RENGEN SAMDRIFT ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RENGEN SAMDRIFT ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "970569634",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-11-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7884",
+        "poststed": "SØRLI",
+        "adresse": [
+          "Ny-Rengen",
+          "Rengsveien 970"
+        ],
+        "kommune": "LIERNE",
+        "kommunenummer": "5042"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Dan Leo Totland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Bjarne Arvasli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Dan Leo Totland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SØRLI REGNSKAP AS"
+        ],
+        "orgnr": "913067703",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/970569634/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:14Z"
+}

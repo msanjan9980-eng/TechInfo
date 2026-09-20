@@ -1,0 +1,160 @@
+{
+  "orgnr": "989248650",
+  "name": "RA-INVEST AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RA-INVEST AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989248650",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-02-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-12-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4318",
+        "poststed": "SANDNES",
+        "adresse": [
+          "Tårnfalkveien 52"
+        ],
+        "kommune": "SANDNES",
+        "kommunenummer": "1108"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "71.121",
+        "beskrivelse": "Byggeteknisk konsulentvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Roald Auglænd",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jorunn Auglænd",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SYNEGA REGNSKAP AS"
+        ],
+        "orgnr": "914549140",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989248650/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:12Z"
+}

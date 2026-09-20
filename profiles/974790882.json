@@ -1,0 +1,155 @@
+{
+  "orgnr": "974790882",
+  "name": "BRØNNØY KOMMUNALE KINO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRØNNØY KOMMUNALE KINO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974790882",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-06-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1974-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8904",
+        "poststed": "BRØNNØYSUND",
+        "adresse": [
+          "Sivert Nielsens gate 24"
+        ],
+        "kommune": "BRØNNØY",
+        "kommunenummer": "1813"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8905",
+        "poststed": "BRØNNØYSUND",
+        "adresse": [],
+        "kommune": "BRØNNØY",
+        "kommunenummer": "1813"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "59.140",
+        "beskrivelse": "Filmfremvisning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Pål Trælvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "BRØNNØY KOMMUNE"
+        ],
+        "orgnr": "964983291",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974790882/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

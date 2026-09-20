@@ -1,0 +1,151 @@
+{
+  "orgnr": "986114440",
+  "name": "BRATTHØA SAUHAVNELAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRATTHØA SAUHAVNELAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986114440",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-11-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-11-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2542",
+        "poststed": "VINGELEN",
+        "adresse": [
+          "c/o Audun Urset",
+          "Røsliveien 399"
+        ],
+        "kommune": "TOLGA",
+        "kommunenummer": "3426"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Randi Ane Storhaug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Audun Urset",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trond Magne Aasheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986114440/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:03Z"
+}

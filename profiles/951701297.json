@@ -1,0 +1,153 @@
+{
+  "orgnr": "951701297",
+  "name": "MELSOMVIK SENTRUMSBYGG ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MELSOMVIK SENTRUMSBYGG ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "951701297",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-05-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3159",
+        "poststed": "MELSOMVIK",
+        "adresse": [
+          "c/o H H Invest AS",
+          "Minørveien 8"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Ellen Hogsrød",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Reidulf Lorentz Hogsrød",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Reidulf Lorentz Hogsrød",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ellen Hogsrød",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/951701297/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:54Z"
+}

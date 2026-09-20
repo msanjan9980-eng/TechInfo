@@ -1,0 +1,139 @@
+{
+  "orgnr": "969535076",
+  "name": "NITTEDAL KOMMUNESKOGER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NITTEDAL KOMMUNESKOGER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "969535076",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1970-03-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1482",
+        "poststed": "NITTEDAL",
+        "adresse": [
+          "ØKONOMISKJEFEN"
+        ],
+        "kommune": "NITTEDAL",
+        "kommunenummer": "3232"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.200",
+        "beskrivelse": "Avvirkning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Finn Christian Brevig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "NITTEDAL KOMMUNE"
+        ],
+        "orgnr": "971643870",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/969535076/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:47Z"
+}

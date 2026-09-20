@@ -1,0 +1,231 @@
+{
+  "orgnr": "883943902",
+  "name": "KOPERVIK OG STOKKASTRAND SKOLEKORPS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KOPERVIK OG STOKKASTRAND SKOLEKORPS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "883943902",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2002-02-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2001-10-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4291",
+        "poststed": "KOPERVIK",
+        "adresse": [],
+        "kommune": "KARMØY",
+        "kommunenummer": "1149"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4291",
+        "poststed": "KOPERVIK",
+        "adresse": [
+          "Postboks 182"
+        ],
+        "kommune": "KARMØY",
+        "kommunenummer": "1149"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.201",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nils Henning Leknes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anton Nielsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Synnøve Løberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Emil Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Ove Welde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Irene Synnøve Torkelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Laina Thorhild Erland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anette Juline Danielsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/883943902/roller",
+      "retrieved": "2026-09-20T10:14:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:23Z"
+}

@@ -1,0 +1,164 @@
+{
+  "orgnr": "938195366",
+  "name": "STUNDALEN SAMEIE 2026",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STUNDALEN SAMEIE 2026",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938195366",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-08-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2408",
+        "poststed": "ELVERUM",
+        "adresse": [
+          "c/o Ann Kristin Stundal Stræte",
+          "Fagervikvegen 7"
+        ],
+        "kommune": "ELVERUM",
+        "kommunenummer": "3420"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sølvi Jevnesveen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ann Kristin Stræte",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jill Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Line Stundal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938195366/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

@@ -1,0 +1,288 @@
+{
+  "orgnr": "980055019",
+  "name": "EKHOLT SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EKHOLT SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980055019",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-08-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-08-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1570",
+        "poststed": "DILLING",
+        "adresse": [
+          "Skogveien 24"
+        ],
+        "kommune": "MOSS",
+        "kommunenummer": "3103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.kirken.no/rygge",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "rygge.kirkekontor@kirkenimoss.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 24 80 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "907 80 648",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Inger-Lise Klette",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Torhild Iren Aker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stein Kåre Ulvestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Martine Molvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aslaug Cathrine Bjørnland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jeanette Frantsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sine Terese Rismark",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Helge Jan Nilsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kristine Marie Almås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tonje Kristin Justsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "MOSS KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "923591796",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980055019/roller",
+      "retrieved": "2026-09-20T10:14:54Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:54Z"
+}

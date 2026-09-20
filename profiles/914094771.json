@@ -1,0 +1,97 @@
+{
+  "orgnr": "914094771",
+  "name": "TORSBY MONTAGE AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TORSBY MONTAGE AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "914094771",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-09-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-06-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-685 34 TORSBY",
+        "adresse": [
+          "Skogsvægen 10"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914094771",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

@@ -1,0 +1,165 @@
+{
+  "orgnr": "990299641",
+  "name": "KEMNEREN I RØYKEN OG HURUM",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KEMNEREN I RØYKEN OG HURUM",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990299641",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-09-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3440",
+        "poststed": "RØYKEN",
+        "adresse": [
+          "Katrineåsveien 20"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3441",
+        "poststed": "RØYKEN",
+        "adresse": [
+          "Postboks 55"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@royken.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn Orhagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "ASKER KOMMUNE"
+        ],
+        "orgnr": "920125298",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990299641/roller",
+      "retrieved": "2026-09-20T10:15:13Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:13Z"
+}

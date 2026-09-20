@@ -1,0 +1,253 @@
+{
+  "orgnr": "976994973",
+  "name": "GRANVIN SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRANVIN SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976994973",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5736",
+        "poststed": "GRANVIN",
+        "adresse": [
+          "Hardangervegen 2160"
+        ],
+        "kommune": "VOSS",
+        "kommunenummer": "4621"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5701",
+        "poststed": "VOSS",
+        "adresse": [
+          "Postboks 49"
+        ],
+        "kommune": "VOSS",
+        "kommunenummer": "4621"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.voss.kyrkja.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.voss@kyrkja.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "56 52 38 80",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sigvor Schrey",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Ivar Rødland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingebjørg Winjum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Atle Seim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anne Marie Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Leif Harry Øydvin",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "INDRE HORDALAND REVISJONSDISTRIKT"
+        ],
+        "orgnr": "971543124",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "VOSS KYRKJELEGE FELLESRÅD"
+        ],
+        "orgnr": "976995031",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976994973/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:20Z"
+}

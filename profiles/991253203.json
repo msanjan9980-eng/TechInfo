@@ -1,0 +1,90 @@
+{
+  "orgnr": "991253203",
+  "name": "PETRO MARITIME ADVERTISING SRL",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PETRO MARITIME ADVERTISING SRL",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "991253203",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2007-05-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Romania",
+        "landkode": "RO",
+        "poststed": "TULCEA 820242",
+        "adresse": [
+          "Iberom Business Centre 14",
+          "Portului Street / 6 th floor"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/991253203",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:49Z"
+}

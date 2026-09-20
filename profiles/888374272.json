@@ -1,0 +1,234 @@
+{
+  "orgnr": "888374272",
+  "name": "PR JOTUN DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PR JOTUN DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "888374272",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Partrederi",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-06-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-06-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4313",
+        "poststed": "SANDNES",
+        "adresse": [
+          "Vestre Svanholmen 1"
+        ],
+        "kommune": "SANDNES",
+        "kommunenummer": "1108"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4068",
+        "poststed": "STAVANGER",
+        "adresse": [
+          "Postboks 101"
+        ],
+        "kommune": "STAVANGER",
+        "kommunenummer": "1103"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "77.340",
+        "beskrivelse": "Utleie og leasing av sjøtransportmateriell"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "tove.kvalvik.vigdel@varenergi.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "51 60 60 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "992 51 760",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Bestyrende reder",
+      "value": {
+        "name": [
+          "VÅR ENERGI ASA"
+        ],
+        "orgnr": "919160675",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: BEST"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Tove Vigdel",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VÅR ENERGI ASA"
+        ],
+        "orgnr": "919160675",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "VÅR ENERGI MARINE AS"
+        ],
+        "orgnr": "979879474",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/888374272/roller",
+      "retrieved": "2026-09-20T10:14:48Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:48Z"
+}

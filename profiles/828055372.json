@@ -1,0 +1,129 @@
+{
+  "orgnr": "828055372",
+  "name": "LØVOLD ALSI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LØVOLD ALSI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "828055372",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-11-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6017",
+        "poststed": "ÅLESUND",
+        "adresse": [
+          "Borgundvegen 689"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "02.400",
+        "beskrivelse": "Tjenester tilknyttet skogbruk"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Anton Ingebrigt Løvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Anton Ingebrigt Løvold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828055372/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:02Z"
+}

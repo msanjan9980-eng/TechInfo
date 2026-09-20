@@ -1,0 +1,150 @@
+{
+  "orgnr": "931069586",
+  "name": "MYSEN BRUKTMUSIKK DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MYSEN BRUKTMUSIKK DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "931069586",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-03-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-03-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1850",
+        "poststed": "MYSEN",
+        "adresse": [
+          "Meieriveien 2"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.790",
+        "beskrivelse": "Detaljhandel med brukte varer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Øivind Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Juel Kenneth Pettersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Øivind Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/931069586/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:52Z"
+}

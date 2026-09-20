@@ -1,0 +1,152 @@
+{
+  "orgnr": "915644953",
+  "name": "SORGARD CONSULTING NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SORGARD CONSULTING NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "915644953",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-07-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8150",
+        "poststed": "ØRNES",
+        "adresse": [
+          "Hamnhaugveien 16"
+        ],
+        "kommune": "MELØY",
+        "kommunenummer": "1837"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "70.200",
+        "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Arnt Lars Sørgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Arnt Lars Sørgård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "SORGARD CONSULTING LIMITED"
+        ],
+        "orgnr": "915644961",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/915644953/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

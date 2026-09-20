@@ -1,0 +1,180 @@
+{
+  "orgnr": "994002724",
+  "name": "KEISERENS NYE HERRE OG UNGDOMSKLÆR DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KEISERENS NYE HERRE OG UNGDOMSKLÆR DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994002724",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-05-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-04-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1930",
+        "poststed": "AURSKOG",
+        "adresse": [
+          "Aurveien 1",
+          "Aurskogs Senter"
+        ],
+        "kommune": "AURSKOG-HØLAND",
+        "kommunenummer": "3226"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1930",
+        "poststed": "AURSKOG",
+        "adresse": [
+          "Aurskog Senter"
+        ],
+        "kommune": "AURSKOG-HØLAND",
+        "kommunenummer": "3226"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "47.710",
+        "beskrivelse": "Detaljhandel med klær"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "keiseren@live.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "63 86 49 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "45833167",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "May Britt Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Frank Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994002724/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:24Z"
+}

@@ -1,0 +1,163 @@
+{
+  "orgnr": "964948976",
+  "name": "ENGERDAL KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENGERDAL KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "964948976",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2440",
+        "poststed": "ENGERDAL",
+        "adresse": [
+          "Engerdalsveien 1794"
+        ],
+        "kommune": "ENGERDAL",
+        "kommunenummer": "3425"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 313,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.engerdal.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@engerdal.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 45 96 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Geir Sverdrup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON ØST IKS"
+        ],
+        "orgnr": "974644576",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964948976/roller",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:32Z"
+}

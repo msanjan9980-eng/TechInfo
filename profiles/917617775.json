@@ -1,0 +1,130 @@
+{
+  "orgnr": "917617775",
+  "name": "PUMPESAMEIET I KAPTEIN GLØERSENS VEI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PUMPESAMEIET I KAPTEIN GLØERSENS VEI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "917617775",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-08-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-04-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1396",
+        "poststed": "BILLINGSTAD",
+        "adresse": [
+          "c/o Steinar Pollen",
+          "Kapt. Gløersens vei 27"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "s-poll@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "481 97 175",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Steinar Pollen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917617775/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:00Z"
+}

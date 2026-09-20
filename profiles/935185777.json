@@ -1,0 +1,98 @@
+{
+  "orgnr": "935185777",
+  "name": "MURAK HOLDING LIMITED",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MURAK HOLDING LIMITED",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935185777",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-03-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-01-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Storbritannia",
+        "landkode": "GB",
+        "poststed": "MANCHESTER M12 6AE",
+        "adresse": [
+          "Piccadilly Business Centre Unit C",
+          "Aldow Enterprice Park"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935185777",
+      "retrieved": "2026-09-20T10:14:39Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:39Z"
+}

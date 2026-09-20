@@ -1,0 +1,175 @@
+{
+  "orgnr": "988692697",
+  "name": "AGDENES BEITELAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AGDENES BEITELAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988692697",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-10-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-08-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7316",
+        "poststed": "LENSVIK",
+        "adresse": [
+          "c/o Eli Birgitte Singstad",
+          "Øyangsveien 437"
+        ],
+        "kommune": "ORKLAND",
+        "kommunenummer": "5059"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "singstad@live.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "72 49 11 02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "951 39 857",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eli Birgitte Singstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Elisabet Selås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olav Audunsson Hegna",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988692697/roller",
+      "retrieved": "2026-09-20T10:15:14Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:14Z"
+}

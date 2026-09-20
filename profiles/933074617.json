@@ -1,0 +1,147 @@
+{
+  "orgnr": "933074617",
+  "name": "FOLLOPSYKOLOGENE AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FOLLOPSYKOLOGENE AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "933074617",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2024-02-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2024-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1430",
+        "poststed": "ÅS",
+        "adresse": [
+          "Moerveien 2A"
+        ],
+        "kommune": "ÅS",
+        "kommunenummer": "3218"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.930",
+        "beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sigyn Birkeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "FOLLO REGNSKAP SA"
+        ],
+        "orgnr": "971521554",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/933074617/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:24Z"
+}

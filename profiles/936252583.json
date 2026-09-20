@@ -1,0 +1,209 @@
+{
+  "orgnr": "936252583",
+  "name": "SNØHETTASTIFTELSEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SNØHETTASTIFTELSEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "936252583",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-10-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-07-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0150",
+        "poststed": "OSLO",
+        "adresse": [
+          "Akershusstranda 21"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "483 20 732",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Martin Haakon Gran",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stephan Jervell",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Craig Edward Dykers",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil Thorsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "MGI REGNSKAP AS"
+        ],
+        "orgnr": "996413764",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/936252583/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:49Z"
+}

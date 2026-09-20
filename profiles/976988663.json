@@ -1,0 +1,272 @@
+{
+  "orgnr": "976988663",
+  "name": "BIRI SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BIRI SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976988663",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2815",
+        "poststed": "GJØVIK",
+        "adresse": [
+          "Niels Ødegaards gate 6A"
+        ],
+        "kommune": "GJØVIK",
+        "kommunenummer": "3407"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.gjovik.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post.gjovik@kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "45 87 62 01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Linn Elise Antonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gerd Ingeborg Nettum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristian Sandmark",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karen Ekern",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Mette Iversen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjell Arne Elverum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Alf Kristian Steinstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil Bekkelund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ragnhild Svartbekk",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Brit Lillejordet",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "GJØVIK KIRKELIGE FELLESRÅD"
+        ],
+        "orgnr": "976988698",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976988663/roller",
+      "retrieved": "2026-09-20T10:15:07Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:07Z"
+}

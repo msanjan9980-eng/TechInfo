@@ -1,0 +1,114 @@
+{
+  "orgnr": "938491348",
+  "name": "BYGGFIX UNGDOMSBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BYGGFIX UNGDOMSBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "938491348",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-09-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-09-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2500",
+        "poststed": "TYNSET",
+        "adresse": [
+          "Nord-Østerdal videregående skole",
+          "Fedraheimveien 1"
+        ],
+        "kommune": "TYNSET",
+        "kommunenummer": "3427"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Iver Ellevold",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/938491348/roller",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:55Z"
+}

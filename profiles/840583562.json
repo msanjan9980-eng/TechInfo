@@ -1,0 +1,255 @@
+{
+  "orgnr": "840583562",
+  "name": "PUTTEN-LEGATET STI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PUTTEN-LEGATET STI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "840583562",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1937-02-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0775",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Johan Peder Ditlev-Simonsen",
+          "Frognerseterveien 10A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 37 90 14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90582394",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Johan Peder Ditlev-Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Johan Peder Ditlev-Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Katrine Kloster",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ingerid Bjercke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christian Ludvig Ramm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christian Ditlev-Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Siri Jansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sverre Ditlev-Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJONSFIRMAET FLATTUM & CO AS"
+        ],
+        "orgnr": "894934352",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/840583562/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:44Z"
+}

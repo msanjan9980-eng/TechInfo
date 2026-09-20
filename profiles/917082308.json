@@ -1,0 +1,403 @@
+{
+  "orgnr": "917082308",
+  "name": "BANE NOR SF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BANE NOR SF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "917082308",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Statsforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-04-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2016-02-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0191",
+        "poststed": "OSLO",
+        "adresse": [
+          "Schweigaards gate 33"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2308",
+        "poststed": "HAMAR",
+        "adresse": [
+          "Postboks 4350"
+        ],
+        "kommune": "HAMAR",
+        "kommunenummer": "3403"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "42.120",
+        "beskrivelse": "Bygging av jernbaner og undergrunnsbaner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code_secondary",
+      "value": {
+        "kode": "52.219",
+        "beskrivelse": "Tjenester tilknyttet landtransport ikke nevnt annet sted"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 5637,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.banenor.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@banenor.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "47 77 00 98",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Agnete Johnsgaard-Lewis",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Per Sanderud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Olaf Rimmereid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hildegunn Naas-Bibow",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Renate Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eli Marie Giske",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Øyvind Sannes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bente Roheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jo Kjetil Krabbe",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arve Rinde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Karl Tore Eike",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Lars Ewald Oellingrath",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Robert Hyllestad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Linn Karen Carlsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Tor Raymond Kristoffersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Morgan Aamodt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917082308/roller",
+      "retrieved": "2026-09-20T10:15:00Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:00Z"
+}

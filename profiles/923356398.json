@@ -1,0 +1,122 @@
+{
+  "orgnr": "923356398",
+  "name": "ISHIDA EUROPE LIMITED",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ISHIDA EUROPE LIMITED",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "923356398",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Storbritannia",
+        "landkode": "GB",
+        "poststed": "B32 3DB Birmingham",
+        "adresse": [
+          "Commercial Building",
+          "Kttleswodd Drive"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.ishidaeurpoe.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "idris.ravat@ishidaeurope.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+441216077864",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+447956025155",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923356398",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:24Z"
+}

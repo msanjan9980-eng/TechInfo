@@ -1,0 +1,116 @@
+{
+  "orgnr": "932119196",
+  "name": "TONJE HEGNA ROVE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TONJE HEGNA ROVE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "932119196",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-09-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3222",
+        "poststed": "SANDEFJORD",
+        "adresse": [
+          "Rødsveien 13"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.950",
+        "beskrivelse": "Fysioterapi- og ergoterapitjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Tonje Rove",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932119196/roller",
+      "retrieved": "2026-09-20T10:15:03Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:03Z"
+}

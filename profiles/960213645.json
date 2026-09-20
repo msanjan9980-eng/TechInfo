@@ -1,0 +1,230 @@
+{
+  "orgnr": "960213645",
+  "name": "PARTREDERIET WAAGENE OG KJØRVIK ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PARTREDERIET WAAGENE OG KJØRVIK ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "960213645",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Partrederi",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1991-03-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6985",
+        "poststed": "ATLØY",
+        "adresse": [
+          "Kumle"
+        ],
+        "kommune": "ASKVOLL",
+        "kommunenummer": "4645"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6985",
+        "poststed": "ATLØY",
+        "adresse": [],
+        "kommune": "ASKVOLL",
+        "kommunenummer": "4645"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "50.202",
+        "beskrivelse": "Innenriks sjøfart med gods"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Bestyrende reder",
+      "value": {
+        "name": "Finn Ulrik Waagene",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: BEST"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Finn Ulrik Waagene",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Trygve Kjørvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Finn Ulrik Waagene",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Trygve Kjørvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "JOLLY GOOD DA"
+        ],
+        "orgnr": "983803849",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ASKVOLL REKNESKAPSTENESTE AS"
+        ],
+        "orgnr": "989775758",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/960213645/roller",
+      "retrieved": "2026-09-20T10:15:18Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:18Z"
+}

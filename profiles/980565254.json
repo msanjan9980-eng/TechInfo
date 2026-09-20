@@ -1,0 +1,139 @@
+{
+  "orgnr": "980565254",
+  "name": "HERMUND ALME",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HERMUND ALME",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980565254",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1999-03-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6869",
+        "poststed": "HAFSLO",
+        "adresse": [
+          "Bakkingavegen 114A"
+        ],
+        "kommune": "LUSTER",
+        "kommunenummer": "4644"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "57 68 15 18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Hermund Alme",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ADMENTO AS"
+        ],
+        "orgnr": "989176013",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980565254/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:24Z"
+}

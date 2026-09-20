@@ -1,0 +1,263 @@
+{
+  "orgnr": "914827841",
+  "name": "BOLIGBANKEN ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOLIGBANKEN ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "914827841",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-12-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2000",
+        "poststed": "LILLESTRØM",
+        "adresse": [
+          "Storgata 14A"
+        ],
+        "kommune": "LILLESTRØM",
+        "kommunenummer": "3205"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 16,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Frode Ekeli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Stein Ole Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Kari Bystrøm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Steinar Kjærnli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Johnny Brevik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eilin Schjetne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hilde Kjelsberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISORKONSULT AS"
+        ],
+        "orgnr": "928942767",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ALT INNEN AS"
+        ],
+        "orgnr": "925879223",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT INTUNOR AS"
+        ],
+        "orgnr": "981085892",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914827841/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:16Z"
+}

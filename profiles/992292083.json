@@ -1,0 +1,207 @@
+{
+  "orgnr": "992292083",
+  "name": "VEGÅRSVANN HYTTEVELFORENING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VEGÅRSVANN HYTTEVELFORENING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "992292083",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-02-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-01-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4985",
+        "poststed": "VEGÅRSHEI",
+        "adresse": [
+          "Vegårsvann"
+        ],
+        "kommune": "VEGÅRSHEI",
+        "kommunenummer": "4212"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "adresse": [
+          "Korsvikgrenda 8"
+        ],
+        "kommune": "KRISTIANSAND",
+        "kommunenummer": "4204"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kåre Jacobsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kåre Jacobsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Oland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Normann Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Laila Mjelde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håkon Stebekk",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992292083/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:51Z"
+}

@@ -1,0 +1,163 @@
+{
+  "orgnr": "937287925",
+  "name": "NORGE KAVKAS KULTUR CENTER ( NKKC )",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORGE KAVKAS KULTUR CENTER ( NKKC )",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937287925",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-03-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-01-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1738",
+        "poststed": "BORGENHAUGEN",
+        "adresse": [
+          "Melandveien 32A"
+        ],
+        "kommune": "SARPSBORG",
+        "kommunenummer": "3105"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Timur Eskiev",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Timur Eskiev",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Milana Ismailovna Muselhanova",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Thor Eskiev",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937287925/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

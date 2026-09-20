@@ -1,0 +1,105 @@
+{
+  "orgnr": "926483455",
+  "name": "ESMÉ STUDIOS APS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ESMÉ STUDIOS APS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926483455",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-01-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-09-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Danmark",
+        "landkode": "DK",
+        "poststed": "DK-8240 RISSKOV",
+        "adresse": [
+          "Mosevej 20A"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "mie@soft-rebels.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926483455",
+      "retrieved": "2026-09-20T10:14:30Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:30Z"
+}

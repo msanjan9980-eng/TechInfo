@@ -1,0 +1,218 @@
+{
+  "orgnr": "996346811",
+  "name": "KIRKEBERG OG ØSTRE BAGN VILTLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KIRKEBERG OG ØSTRE BAGN VILTLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "996346811",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-01-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1992-03-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2930",
+        "poststed": "BAGN",
+        "adresse": [
+          "Reinlivegen 179"
+        ],
+        "kommune": "SØR-AURDAL",
+        "kommunenummer": "3449"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "arne.haug@iktvaldres.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91886485",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Roar Aamodt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Roar Aamodt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Haug",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger Mari Sørum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristoffer Juvkam",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristian Fossen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Stian Haugrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/996346811/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:09Z"
+}

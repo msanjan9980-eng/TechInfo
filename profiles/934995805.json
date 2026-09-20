@@ -1,0 +1,130 @@
+{
+  "orgnr": "934995805",
+  "name": "SCHNEIDER ELECTRIC INDIA PRIVATE LIMITED NUF",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SCHNEIDER ELECTRIC INDIA PRIVATE LIMITED NUF",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "934995805",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-03-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "India",
+        "landkode": "IN",
+        "poststed": "IN-WEST DELHI NEW DELHI 110064",
+        "adresse": [
+          "C-56, Mayapuri Industrial Area",
+          "Phase-II"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "71.129",
+        "beskrivelse": "Annen teknisk konsulentvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kari Marie Overland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "SCHNEIDER ELECTRIC INDIA PRIVATE",
+          "LIMITED"
+        ],
+        "orgnr": "935207908",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/934995805/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:20Z"
+}

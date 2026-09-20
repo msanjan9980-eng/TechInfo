@@ -1,0 +1,132 @@
+{
+  "orgnr": "971379553",
+  "name": "SANDSTAD AVLØSERRING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SANDSTAD AVLØSERRING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971379553",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7246",
+        "poststed": "SANDSTAD",
+        "adresse": [
+          "v/Svenn Wolden"
+        ],
+        "kommune": "HITRA",
+        "kommunenummer": "5056"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.620",
+        "beskrivelse": "Tjenester tilknyttet husdyrhold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "72 44 36 22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Godtfred Solbakken",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971379553/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

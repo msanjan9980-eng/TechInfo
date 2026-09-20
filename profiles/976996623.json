@@ -1,0 +1,322 @@
+{
+  "orgnr": "976996623",
+  "name": "EID SOKN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EID SOKN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976996623",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6770",
+        "poststed": "NORDFJORDEID",
+        "adresse": [],
+        "kommune": "STAD",
+        "kommunenummer": "4649"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6771",
+        "poststed": "NORDFJORDEID",
+        "adresse": [
+          "Postboks 5"
+        ],
+        "kommune": "STAD",
+        "kommunenummer": "4649"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.stadkyrkje.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "synnove.wiik@stad.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "57 86 17 55",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "970 34 535",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Synnøve Beate Wiik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Knut Tore Nes Hjelle",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Petter Haavik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jørn Ilje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Furnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Synnøve Fagerstrand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Irene Wedvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Arne Henjesand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gunhild Petra Birgitte Flo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Åslaug Hole",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Janne Helen Vatne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Olaf Sigurd Gundersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Inngår i kirkelig fellesråd",
+      "value": {
+        "name": [
+          "STAD KYRKJELEGE FELLESRÅD"
+        ],
+        "orgnr": "921167253",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976996623/roller",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": "Role group: KIRK"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}

@@ -1,0 +1,269 @@
+{
+  "orgnr": "946779431",
+  "name": "Risør Boligbyggelag",
+  "facts": [
+    {
+      "field": "name",
+      "value": "Risør Boligbyggelag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "946779431",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Boligbyggelag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1957-01-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4950",
+        "poststed": "RISØR",
+        "adresse": [
+          "Krags gate 14"
+        ],
+        "kommune": "RISØR",
+        "kommunenummer": "4201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.120",
+        "beskrivelse": "Utvikling og salg av byggeprosjekter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "maybritt@saldoregnskap.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "37 14 30 32",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "May Britt Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Unni Blesvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Reidunn Kaddeberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torhild Karoline Gregersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Norman Hellerdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dag Danielsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ole Aasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Helge Sveen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON SØR AS"
+        ],
+        "orgnr": "943708428",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SALDO REGNSKAP AS"
+        ],
+        "orgnr": "970918523",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/946779431/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:34Z"
+}

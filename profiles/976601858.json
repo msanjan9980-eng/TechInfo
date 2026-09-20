@@ -1,0 +1,226 @@
+{
+  "orgnr": "976601858",
+  "name": "ACTIVE AIR CARGO ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACTIVE AIR CARGO ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976601858",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-07-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1996-07-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1281",
+        "poststed": "OSLO",
+        "adresse": [
+          "Brunas vei 78"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "46.410",
+        "beskrivelse": "Engroshandel med tekstiler og utstyrsvarer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "romeo@romeo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 75 22 31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90858585",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Romeo Rizwan Nasir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Muzaffar Ahmad Chaudhry",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Kamio Rehan Nasir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Romeo Rizwan Nasir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Romeo Rizwan Nasir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Muzaffar Ahmad Chaudhry",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kamio Rehan Nasir",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976601858/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

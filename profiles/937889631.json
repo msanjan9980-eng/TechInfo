@@ -1,0 +1,369 @@
+{
+  "orgnr": "937889631",
+  "name": "SPAREBANK 1 HALLINGDAL VALDRES",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SPAREBANK 1 HALLINGDAL VALDRES",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937889631",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1869-07-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3570",
+        "poststed": "ÅL",
+        "adresse": [
+          "Myren 41"
+        ],
+        "kommune": "ÅL",
+        "kommunenummer": "3328"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3571",
+        "poststed": "ÅL",
+        "adresse": [
+          "Postboks 173"
+        ],
+        "kommune": "ÅL",
+        "kommunenummer": "3328"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 137,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.sb1.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@sb1.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "03202",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Knut Oscar Fleten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kristin Ourom",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Tore Østlund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Irene Lystrup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Morten Mastrup",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Sandåker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Hilde Døvre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jan Egil Halbjørhus",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Sissel Skrindo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Steinar Dahlen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anja Evjen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Henry Olav Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 REGNSKAPSHUSET VALHALL",
+          "AS"
+        ],
+        "orgnr": "980289648",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889631/roller",
+      "retrieved": "2026-09-20T10:14:52Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:52Z"
+}

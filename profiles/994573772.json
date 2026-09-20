@@ -1,0 +1,205 @@
+{
+  "orgnr": "994573772",
+  "name": "STEINKJELLEREN STEG FOR STEG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STEINKJELLEREN STEG FOR STEG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994573772",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-10-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-09-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5003",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Steinkjellerkroken 1"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "steinkjellerenstegforsteg@hotmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "45475870",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Rita Grøtte",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Rita Grøtte",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Inger Janis Vestrheim",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Anette Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Florencia Carolina Aguirre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marlen Dorothy Foseid",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994573772/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:44Z"
+}

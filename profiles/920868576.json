@@ -1,0 +1,165 @@
+{
+  "orgnr": "920868576",
+  "name": "HUSEIERLAGET ØVRE SÆDALSVEGEN 131-135 SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HUSEIERLAGET ØVRE SÆDALSVEGEN 131-135 SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "920868576",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-06-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2018-05-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5099",
+        "poststed": "BERGEN",
+        "adresse": [
+          "Øvre Sædalsvegen 131B"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Aina Holevik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marius Pörschke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thilde Vårnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VALUE GROUP AS"
+        ],
+        "orgnr": "915156975",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/920868576/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

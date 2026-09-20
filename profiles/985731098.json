@@ -1,0 +1,555 @@
+{
+  "orgnr": "985731098",
+  "name": "VIKEN KOMMUNEREVISJON IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIKEN KOMMUNEREVISJON IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985731098",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-06-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-02-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3041",
+        "poststed": "DRAMMEN",
+        "adresse": [
+          "Hans Kiærs gate 1B"
+        ],
+        "kommune": "DRAMMEN",
+        "kommunenummer": "3301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 32,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.bkr.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@bkr.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "32 20 15 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Inger Anne Ankersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "DRAMMEN KOMMUNE"
+        ],
+        "orgnr": "921234554",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "RINGERIKE KOMMUNE"
+        ],
+        "orgnr": "940100925",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "BUSKERUD FYLKESKOMMUNE"
+        ],
+        "orgnr": "930580260",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ENEBAKK KOMMUNE"
+        ],
+        "orgnr": "964949581",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FLESBERG KOMMUNE"
+        ],
+        "orgnr": "940898862",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "FLÅ KOMMUNE"
+        ],
+        "orgnr": "964951462",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "GOL KOMMUNE"
+        ],
+        "orgnr": "964952612",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HEMSEDAL KOMMUNE"
+        ],
+        "orgnr": "964952701",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HOL KOMMUNE"
+        ],
+        "orgnr": "944889116",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "KONGSBERG KOMMUNE"
+        ],
+        "orgnr": "942402465",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "KRØDSHERAD KOMMUNE"
+        ],
+        "orgnr": "964962855",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "MODUM KOMMUNE"
+        ],
+        "orgnr": "970491589",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "NESBYEN KOMMUNE"
+        ],
+        "orgnr": "964951640",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "NESODDEN KOMMUNE"
+        ],
+        "orgnr": "944383565",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "NORE OG UVDAL KOMMUNE"
+        ],
+        "orgnr": "964950946",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ROLLAG KOMMUNE"
+        ],
+        "orgnr": "964963282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "SIGDAL KOMMUNE"
+        ],
+        "orgnr": "964962766",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ØVRE EIKER KOMMUNE"
+        ],
+        "orgnr": "954597482",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ÅL KOMMUNE"
+        ],
+        "orgnr": "864952992",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Linn Kristin Evju",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Jonas Melander",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Carina Shobhada Tangen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Ole Skogen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Carsten Skog",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Line Merete Galston",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jørund Sagedal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ØSTRE VIKEN KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "987952423",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985731098/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:31Z"
+}

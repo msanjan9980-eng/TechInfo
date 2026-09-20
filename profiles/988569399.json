@@ -1,0 +1,251 @@
+{
+  "orgnr": "988569399",
+  "name": "STIFTELSEN ALMESKOGEN STEINERBARNEHAGE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN ALMESKOGEN STEINERBARNEHAGE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988569399",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-01-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-06-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1358",
+        "poststed": "JAR",
+        "adresse": [
+          "Grav Gårdsvei 10"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.100",
+        "beskrivelse": "Førskoleundervisning og drift av barnehager"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 31,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.stib.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67 16 22 77",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jonas Aasen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Petter Nyhagen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Marie Van Heesch",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "John-John Parma",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marte Storrusten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Agnes Tank-Nielsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "APREGO AS"
+        ],
+        "orgnr": "932122529",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SAGA REGNSKAP ASKER OG BÆRUM AS"
+        ],
+        "orgnr": "882571432",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988569399/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

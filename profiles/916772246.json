@@ -1,0 +1,131 @@
+{
+  "orgnr": "916772246",
+  "name": "HOMMELVIK IDRETTSLAG FOTBALLAVDELINGEN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HOMMELVIK IDRETTSLAG FOTBALLAVDELINGEN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "916772246",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Særskilt oppdelt enhet, jf. mval. § 2-2",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-02-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7551",
+        "poststed": "HOMMELVIK",
+        "adresse": [
+          "Postboks 108"
+        ],
+        "kommune": "MALVIK",
+        "kommunenummer": "5031"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "93.120",
+        "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ole Sigfred Kroknes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Særskilt oppdelt mva-enhet",
+      "value": {
+        "name": [
+          "HOMMELVIK IDRETTSLAG"
+        ],
+        "orgnr": "971529067",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/916772246/roller",
+      "retrieved": "2026-09-20T10:15:16Z",
+      "confidence": "high",
+      "note": "Role group: OPMV"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:16Z"
+}

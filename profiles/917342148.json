@@ -1,0 +1,125 @@
+{
+  "orgnr": "917342148",
+  "name": "SVARTVASSBU",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVARTVASSBU",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "917342148",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-04-24",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-09-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9441",
+        "poststed": "FJELLDAL",
+        "adresse": [
+          "c/o Per-Stian Jensen",
+          "Stornakkveien 4"
+        ],
+        "kommune": "TJELDSUND",
+        "kommunenummer": "5512"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Per Stian Jensen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/917342148/roller",
+      "retrieved": "2026-09-20T10:14:51Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:51Z"
+}

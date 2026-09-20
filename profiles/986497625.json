@@ -1,0 +1,181 @@
+{
+  "orgnr": "986497625",
+  "name": "HORTEN HAVN",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HORTEN HAVN",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986497625",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-02-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-06-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3187",
+        "poststed": "HORTEN",
+        "adresse": [
+          "Tollbugata 6"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3187",
+        "poststed": "HORTEN",
+        "adresse": [
+          "Postboks 10"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "52.220",
+        "beskrivelse": "Andre tjenester tilknyttet sjøtransport"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 22,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.hortenhavn.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "33 08 64 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Finn-Øyvind Langfjell",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "HORTEN KOMMUNE"
+        ],
+        "orgnr": "964951284",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986497625/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:20Z"
+}

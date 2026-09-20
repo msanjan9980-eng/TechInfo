@@ -1,0 +1,316 @@
+{
+  "orgnr": "986273026",
+  "name": "NORSK VANN BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORSK VANN BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "986273026",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-01-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-09-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2321",
+        "poststed": "HAMAR",
+        "adresse": [
+          "Vangsvegen 143"
+        ],
+        "kommune": "HAMAR",
+        "kommunenummer": "3403"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.992",
+        "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 25,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.norskvann.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@norskvann.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 55 30 30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ragnhild Aalstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Anna Maria Aursund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Astrid Marie Engeli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gry Fuglestveit",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Martin Stensland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Simen Nord",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Svein Ove Moen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Ingun Tryland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Koen Luc Vanacker",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Trude Bertnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kjetil Wang-Hansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "BRUMUNDDAL REGNSKAP AS"
+        ],
+        "orgnr": "979881401",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/986273026/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:31Z"
+}

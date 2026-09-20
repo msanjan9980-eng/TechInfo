@@ -1,0 +1,97 @@
+{
+  "orgnr": "937505213",
+  "name": "WAAGNER-BIRO LUXEMBOURG STAGE SYSTEMS S.A.",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WAAGNER-BIRO LUXEMBOURG STAGE SYSTEMS S.A.",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937505213",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-04-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1992-07-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Luxembourg",
+        "landkode": "LU",
+        "poststed": "LU-4813 RODANGE",
+        "adresse": [
+          "1 Rue de I'Ecole"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937505213",
+      "retrieved": "2026-09-20T10:14:59Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:59Z"
+}

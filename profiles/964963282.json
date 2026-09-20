@@ -1,0 +1,163 @@
+{
+  "orgnr": "964963282",
+  "name": "ROLLAG KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ROLLAG KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "964963282",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3626",
+        "poststed": "ROLLAG",
+        "adresse": [
+          "Vrågåvegen 10"
+        ],
+        "kommune": "ROLLAG",
+        "kommunenummer": "3336"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 398,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.rollag.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@rollag.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "31 02 30 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Inger Lene Bekkjorden",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "VIKEN KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "985731098",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964963282/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

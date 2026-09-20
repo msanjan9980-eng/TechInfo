@@ -1,0 +1,97 @@
+{
+  "orgnr": "987828757",
+  "name": "SAP DEUTSCHLAND AG & CO KG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SAP DEUTSCHLAND AG & CO KG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987828757",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-02-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-03-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Tyskland",
+        "landkode": "DE",
+        "poststed": "69190 WALLDORF",
+        "adresse": [
+          "Neurottstrasse 15 A"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987828757",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:19Z"
+}

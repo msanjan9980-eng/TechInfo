@@ -1,0 +1,140 @@
+{
+  "orgnr": "935219760",
+  "name": "SVEIN ERIK NILSEN DØDSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVEIN ERIK NILSEN DØDSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935219760",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Andre bo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-03-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-09-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1706",
+        "poststed": "SARPSBORG",
+        "adresse": [
+          "c/o Adv.fa. Bjørge-Skaaraas & Co AS",
+          "St. Marie gate 107"
+        ],
+        "kommune": "SARPSBORG",
+        "kommunenummer": "3105"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bente Strømsæther",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ONSØY REGNSKAP AS"
+        ],
+        "orgnr": "913156323",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935219760/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

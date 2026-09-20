@@ -1,0 +1,192 @@
+{
+  "orgnr": "987109335",
+  "name": "WEB LOGISTICS ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WEB LOGISTICS ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987109335",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-08-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2004-08-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0475",
+        "poststed": "OSLO",
+        "adresse": [
+          "Askergata 2"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0355",
+        "poststed": "OSLO",
+        "adresse": [
+          "Bogstadveien 15A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "50.201",
+        "beskrivelse": "Utenriks sjøfart med gods"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "web.log@online.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 46 60 02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "99475427",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kjell Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Kjell Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Jenjida Pedersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987109335/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

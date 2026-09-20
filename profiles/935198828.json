@@ -1,0 +1,106 @@
+{
+  "orgnr": "935198828",
+  "name": "ENI PLENITUDE S.P.A SOCIETÀ BENEFIT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENI PLENITUDE S.P.A SOCIETÀ BENEFIT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935198828",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-03-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-12-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Italia",
+        "landkode": "IT",
+        "poststed": "IT-20139 MILANO",
+        "adresse": [
+          "Via Giovanni Lorenzini 4, Milano",
+          "(MI)"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "corporate.eniplenitusde.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935198828",
+      "retrieved": "2026-09-20T10:14:55Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:55Z"
+}

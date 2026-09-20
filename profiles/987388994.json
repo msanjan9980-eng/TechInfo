@@ -1,0 +1,169 @@
+{
+  "orgnr": "987388994",
+  "name": "NIVO-NO ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NIVO-NO ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987388994",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-10-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2004-09-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3681",
+        "poststed": "NOTODDEN",
+        "adresse": [
+          "Arne Garborgs gate 7A"
+        ],
+        "kommune": "NOTODDEN",
+        "kommunenummer": "4005"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "62.100",
+        "beskrivelse": "Dataprogrammeringstjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.nivo-no.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "admin@nivo-no.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "99 00 60 11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "997 37 271",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Atle Huseby",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Øyvind Tørre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987388994/roller",
+      "retrieved": "2026-09-20T10:15:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:20Z"
+}

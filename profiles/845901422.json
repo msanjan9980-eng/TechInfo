@@ -1,0 +1,181 @@
+{
+  "orgnr": "845901422",
+  "name": "GILDESKÅL KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GILDESKÅL KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "845901422",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-06-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8140",
+        "poststed": "INNDYR",
+        "adresse": [
+          "Inndyr"
+        ],
+        "kommune": "GILDESKÅL",
+        "kommunenummer": "1838"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8138",
+        "poststed": "INNDYR",
+        "adresse": [
+          "Postboks 54"
+        ],
+        "kommune": "GILDESKÅL",
+        "kommunenummer": "1838"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 396,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.gildeskal.kommune.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@gildeskal.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "75 76 06 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Geir Mikkelsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SALTEN KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "986655271",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/845901422/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:09Z"
+}

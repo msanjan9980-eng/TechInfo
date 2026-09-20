@@ -1,0 +1,174 @@
+{
+  "orgnr": "988458775",
+  "name": "AMBULANSE-NORGE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AMBULANSE-NORGE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988458775",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-07-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-05-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3189",
+        "poststed": "HORTEN",
+        "adresse": [
+          "Geddes gate 7"
+        ],
+        "kommune": "HORTEN",
+        "kommunenummer": "3901"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "58.190",
+        "beskrivelse": "Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.ambulanse-norge.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "info@ambulanse-norge.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "901 07 706",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Eirik Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Eirik Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eva Cathrine Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988458775/roller",
+      "retrieved": "2026-09-20T10:14:49Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:49Z"
+}

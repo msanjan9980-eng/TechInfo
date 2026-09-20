@@ -1,0 +1,106 @@
+{
+  "orgnr": "925255742",
+  "name": "AFFINITY AND BEYOND LLP",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFFINITY AND BEYOND LLP",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "925255742",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-09-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Storbritannia",
+        "landkode": "GB",
+        "poststed": "LONDON EC3A 8EE ENGLAND",
+        "adresse": [
+          "44th Floor, The Leadenhall Building",
+          "122 Leadenhall Street,"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+442031420188",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/925255742",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

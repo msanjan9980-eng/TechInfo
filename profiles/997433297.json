@@ -1,0 +1,199 @@
+{
+  "orgnr": "997433297",
+  "name": "HAXTHAUSENSGT 2 B",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAXTHAUSENSGT 2 B",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997433297",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Eierseksjonssameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-11-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1990-09-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0263",
+        "poststed": "OSLO",
+        "adresse": [
+          "Haxthausens gate 2B"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90683585",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Kristoffer Hettervik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Erik Brecke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håkon Nikolai Sørum",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Are Nikolai Solli",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Per Arne Reiersrud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "WEFILE AS"
+        ],
+        "orgnr": "924505036",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997433297/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:58Z"
+}

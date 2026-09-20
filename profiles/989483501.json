@@ -1,0 +1,140 @@
+{
+  "orgnr": "989483501",
+  "name": "BØ GARD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BØ GARD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989483501",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-02-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4071",
+        "poststed": "RANDABERG",
+        "adresse": [
+          "Bøveien 119"
+        ],
+        "kommune": "RANDABERG",
+        "kommunenummer": "1127"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.460",
+        "beskrivelse": "Svinehold"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "41141000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Jakob Gabriel Bø",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "RENNESØY OG RANDABERG",
+          "REKNESKAPSLAG SA"
+        ],
+        "orgnr": "955230728",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989483501/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:41Z"
+}

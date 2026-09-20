@@ -1,0 +1,189 @@
+{
+  "orgnr": "974760584",
+  "name": "ØST POLITIDISTRIKT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØST POLITIDISTRIKT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "974760584",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-08-09",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1423",
+        "poststed": "SKI",
+        "adresse": [
+          "Tinghusveien 4"
+        ],
+        "kommune": "NORDRE FOLLO",
+        "kommunenummer": "3207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1402",
+        "poststed": "SKI",
+        "adresse": [
+          "Postboks 3390"
+        ],
+        "kommune": "NORDRE FOLLO",
+        "kommunenummer": "3207"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.240",
+        "beskrivelse": "Aktiviteter utført av politi- og påtalemyndighet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 2415,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.politi.no/",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "64 99 30 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Brita Cecilie Lilaas-Skari",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "DIREKTORATET FOR FORVALTNING OG",
+          "ØKONOMISTYRING"
+        ],
+        "orgnr": "986252932",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "POLITI- OG LENSMANNSETATEN"
+        ],
+        "orgnr": "915429785",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/974760584/roller",
+      "retrieved": "2026-09-20T10:14:41Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:41Z"
+}

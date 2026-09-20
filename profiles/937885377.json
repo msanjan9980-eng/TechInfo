@@ -1,0 +1,314 @@
+{
+  "orgnr": "937885377",
+  "name": "TRØGSTAD SPAREBANK",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TRØGSTAD SPAREBANK",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937885377",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1847-05-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1860",
+        "poststed": "TRØGSTAD",
+        "adresse": [
+          "Trøgstad torg 5"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1861",
+        "poststed": "TRØGSTAD",
+        "adresse": [
+          "Postboks 114"
+        ],
+        "kommune": "INDRE ØSTFOLD",
+        "kommunenummer": "3118"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 37,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.tsbank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@tsbank.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "69 82 49 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Lars Andre Dingstad-Eriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Morten Odvar Sætra",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjersti Sandvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Marianne Bjølgerud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Silje Finnanger",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ståle Ruud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øyvind Aas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Marny Østreng",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Emil Kvernenes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Fredrik Mortvedt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937885377/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:47Z"
+}

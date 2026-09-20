@@ -1,0 +1,158 @@
+{
+  "orgnr": "979816472",
+  "name": "HÅKON SIMONSEN OG KNUT FRØYSAA HAGESERVICE ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HÅKON SIMONSEN OG KNUT FRØYSAA HAGESERVICE ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979816472",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-08-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1998-05-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4700",
+        "poststed": "VENNESLA",
+        "adresse": [
+          "Heftekjerrv 65"
+        ],
+        "kommune": "VENNESLA",
+        "kommunenummer": "4223"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "81.300",
+        "beskrivelse": "Beplantning av hager og parkanlegg"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "90 54 93 97",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Håkon Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Håkon Simonsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Knut Frøysaa",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979816472/roller",
+      "retrieved": "2026-09-20T10:15:25Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:25Z"
+}

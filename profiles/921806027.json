@@ -1,0 +1,165 @@
+{
+  "orgnr": "921806027",
+  "name": "ØRLAND KOMMUNE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØRLAND KOMMUNE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921806027",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommune",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-11-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7160",
+        "poststed": "BJUGN",
+        "adresse": [
+          "Alf Nebbs gate 1"
+        ],
+        "kommune": "ØRLAND",
+        "kommunenummer": "5057"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7159",
+        "poststed": "BJUGN",
+        "adresse": [
+          "Postboks 43"
+        ],
+        "kommune": "ØRLAND",
+        "kommunenummer": "5057"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.110",
+        "beskrivelse": "Generell offentlig administrasjon"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 1838,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@orland.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Marit Ervik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "REVISJON MIDT-NORGE SA"
+        ],
+        "orgnr": "919902310",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921806027/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:47Z"
+}

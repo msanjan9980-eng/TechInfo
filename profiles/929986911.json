@@ -1,0 +1,113 @@
+{
+  "orgnr": "929986911",
+  "name": "DS BYGGNADSRENOVERING AB",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DS BYGGNADSRENOVERING AB",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "929986911",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2022-10-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2022-09-06",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-647 35 MARIEFRED",
+        "adresse": [
+          "Hagalundsvägen 9"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "uab.vilis@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+46708595162",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/929986911",
+      "retrieved": "2026-09-20T10:14:32Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:32Z"
+}

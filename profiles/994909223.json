@@ -1,0 +1,140 @@
+{
+  "orgnr": "994909223",
+  "name": "FENABU HYTTEFORMIDLING",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FENABU HYTTEFORMIDLING",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994909223",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-12-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2002-06-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4950",
+        "poststed": "RISØR",
+        "adresse": [
+          "Fena"
+        ],
+        "kommune": "RISØR",
+        "kommunenummer": "4201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1168",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Torje Solberg",
+          "Furumoen 12H"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "93023094",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Torje Solberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994909223/roller",
+      "retrieved": "2026-09-20T10:15:02Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:02Z"
+}

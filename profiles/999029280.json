@@ -1,0 +1,212 @@
+{
+  "orgnr": "999029280",
+  "name": "VERDIPAPIRFONDET LANDKREDITT UTBYTTE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VERDIPAPIRFONDET LANDKREDITT UTBYTTE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "999029280",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Verdipapirfond",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2012-10-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0162",
+        "poststed": "OSLO",
+        "adresse": [
+          "Karl Johans gate 45"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0123",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 1824 Vika"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.311",
+        "beskrivelse": "Verdipapirfond"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.landkredittfondene.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kundeservice@landkredittfondene.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 31 31 31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "952 55 897",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "LANDKREDITT FORVALTNING AS"
+        ],
+        "orgnr": "981340124",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Anders Petter Wik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/999029280/roller",
+      "retrieved": "2026-09-20T10:14:16Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:16Z"
+}

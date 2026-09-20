@@ -1,0 +1,271 @@
+{
+  "orgnr": "990293171",
+  "name": "SVEA FYR ELVEPARKEN BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVEA FYR ELVEPARKEN BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990293171",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-09-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3916",
+        "poststed": "PORSGRUNN",
+        "adresse": [
+          "Jernbanegata 25"
+        ],
+        "kommune": "PORSGRUNN",
+        "kommunenummer": "4001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3901",
+        "poststed": "PORSGRUNN",
+        "adresse": [
+          "Postboks 44"
+        ],
+        "kommune": "PORSGRUNN",
+        "kommunenummer": "4001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.pbbl.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "pbbl@pbbl.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "35 57 31 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "GRENLAND BOLIGBYGGELAG"
+        ],
+        "orgnr": "947173219",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan Ivar Olsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Pål Lennart Horne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Egon Josef Sannes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Hilde Berg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Maiken Emilie Hov",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE BOREALIS AS"
+        ],
+        "orgnr": "936295800",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "GRENLAND BOLIGBYGGELAG"
+        ],
+        "orgnr": "947173219",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990293171/roller",
+      "retrieved": "2026-09-20T10:15:09Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:09Z"
+}

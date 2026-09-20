@@ -1,0 +1,272 @@
+{
+  "orgnr": "937889275",
+  "name": "SPAREBANK 1 RINGERIKE HADELAND",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SPAREBANK 1 RINGERIKE HADELAND",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937889275",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Sparebank",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1833-08-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3510",
+        "poststed": "HØNEFOSS",
+        "adresse": [
+          "Søndre torv 6"
+        ],
+        "kommune": "RINGERIKE",
+        "kommunenummer": "3305"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3504",
+        "poststed": "HØNEFOSS",
+        "adresse": [
+          "Postboks 518  Sentrum"
+        ],
+        "kommune": "RINGERIKE",
+        "kommunenummer": "3305"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.190",
+        "beskrivelse": "Banker og kredittforetak"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 181,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "32 11 33 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Bjørn Rune Rindal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Dag Tjernsmo",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Ragnhild Heier",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jane Kim Gravbråten",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Terje Mjøs",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Bjørn Staff",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Liv Bente Kildal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Espen Gundersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "DELOITTE AS"
+        ],
+        "orgnr": "980211282",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937889275/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:31Z"
+}

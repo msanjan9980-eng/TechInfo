@@ -1,0 +1,234 @@
+{
+  "orgnr": "994787381",
+  "name": "AMNOR BERGEN KS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AMNOR BERGEN KS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "994787381",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2009-11-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2009-11-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6065",
+        "poststed": "ULSTEINVIK",
+        "adresse": [
+          "Stålhaugen 9"
+        ],
+        "kommune": "ULSTEIN",
+        "kommunenummer": "1516"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6067",
+        "poststed": "ULSTEINVIK",
+        "adresse": [
+          "Postboks 370"
+        ],
+        "kommune": "ULSTEIN",
+        "kommunenummer": "1516"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "50.203",
+        "beskrivelse": "Forsyning for offshore"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "AMNOR BERGEN AS"
+        ],
+        "orgnr": "994787365",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gary J Chouest",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Dino David Chouest",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Morten Ulstein",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Ulstein",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HASUND AS"
+        ],
+        "orgnr": "880381962",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/994787381/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:29Z"
+}

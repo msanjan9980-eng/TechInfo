@@ -1,0 +1,179 @@
+{
+  "orgnr": "979868723",
+  "name": "ITALIAS AMBASSADE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ITALIAS AMBASSADE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979868723",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1998-06-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0258",
+        "poststed": "OSLO",
+        "adresse": [
+          "Inkognitogata 7"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0244",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 4021 AMB"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "99.000",
+        "beskrivelse": "Aktiviteter i internasjonale organisasjoner og organer"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.amboslo.esteri.it",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "accounting.oslo@esteri.it",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "23 08 49 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Francesco Polenta",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Stefano Nicoletti",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979868723/roller",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

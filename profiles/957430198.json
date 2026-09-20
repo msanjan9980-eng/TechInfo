@@ -1,0 +1,227 @@
+{
+  "orgnr": "957430198",
+  "name": "KS SAMBYGG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KS SAMBYGG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "957430198",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1990-03-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5430",
+        "poststed": "BREMNES",
+        "adresse": [
+          "Kuben"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5430",
+        "poststed": "BREMNES",
+        "adresse": [
+          "Svortlandsvegen 79"
+        ],
+        "kommune": "BØMLO",
+        "kommunenummer": "4613"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53 42 10 77",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hans Oskar Vikse",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "SAMBYGG INVEST AS"
+        ],
+        "orgnr": "957370713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hans Oskar Vikse",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Aage Vikse",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Arne Vikse",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "CEDRA NORGE AS"
+        ],
+        "orgnr": "935416779",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/957430198/roller",
+      "retrieved": "2026-09-20T10:14:29Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:29Z"
+}

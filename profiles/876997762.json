@@ -1,0 +1,271 @@
+{
+  "orgnr": "876997762",
+  "name": "AVERØY KIRKELIGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AVERØY KIRKELIGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "876997762",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6530",
+        "poststed": "AVERØY",
+        "adresse": [
+          "Averøy kirkekontor",
+          "Bruvollveien 11"
+        ],
+        "kommune": "AVERØY",
+        "kommunenummer": "1554"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6530",
+        "poststed": "AVERØY",
+        "adresse": [
+          "Bruvollveien 11"
+        ],
+        "kommune": "AVERØY",
+        "kommunenummer": "1554"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 14,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.kirken.no/averoy",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "71 51 33 88",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "458 79 087",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Kristian Futsæter",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Sigmund Anders Røeggen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ann Kristin Sørvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sigurd Andreas Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jorunn Irene Smenes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Smenes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Janne Marlene Mork",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Terje Strand",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Britt Eva Ressem",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/876997762/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:50Z"
+}

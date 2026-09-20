@@ -1,0 +1,177 @@
+{
+  "orgnr": "924566183",
+  "name": "SVARTLØKEN GRUNNEIGARLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVARTLØKEN GRUNNEIGARLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "924566183",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-04-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1883-05-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6240",
+        "poststed": "ØRSKOG",
+        "adresse": [
+          "c/o Frank Abelseth",
+          "Ålesundsvegen 1265"
+        ],
+        "kommune": "ÅLESUND",
+        "kommunenummer": "1508"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.700",
+        "beskrivelse": "Jakt, fangst, viltstell og tilknyttede tjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Frank Abelseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Frank Abelseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jarle Svein Erstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Torine Amdam",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Hakija Vrbanjac",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/924566183/roller",
+      "retrieved": "2026-09-20T10:14:31Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:31Z"
+}

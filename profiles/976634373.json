@@ -1,0 +1,181 @@
+{
+  "orgnr": "976634373",
+  "name": "LØRENSKOG KINO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LØRENSKOG KINO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976634373",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-08-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1993-01-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1473",
+        "poststed": "LØRENSKOG",
+        "adresse": [
+          "Festplassen 1"
+        ],
+        "kommune": "LØRENSKOG",
+        "kommunenummer": "3222"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1471",
+        "poststed": "LØRENSKOG",
+        "adresse": [
+          "Postboks 304"
+        ],
+        "kommune": "LØRENSKOG",
+        "kommunenummer": "3222"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "59.140",
+        "beskrivelse": "Filmfremvisning"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 12,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "kulturtjeneste@lorenskog.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "67913141",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Nina Kristin Kongtorp",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "LØRENSKOG KOMMUNE"
+        ],
+        "orgnr": "842566142",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976634373/roller",
+      "retrieved": "2026-09-20T10:14:33Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:33Z"
+}

@@ -1,0 +1,34 @@
+{
+  "orgnr": "950692480",
+  "name": "ARENDAL BUD & VARETAXI DA TORFINN NORDLI OG GEIR AAS.",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARENDAL BUD & VARETAXI DA TORFINN NORDLI OG GEIR AAS.",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950692480",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "950692480",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950692480",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/950692480",
+      "retrieved": "2026-09-20T10:14:56Z",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:56Z"
+}

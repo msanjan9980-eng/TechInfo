@@ -1,0 +1,171 @@
+{
+  "orgnr": "874777552",
+  "name": "TYDAL KOMMUNE TEKNIKK LANDBRUK OG MILJØ",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TYDAL KOMMUNE TEKNIKK LANDBRUK OG MILJØ",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "874777552",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1996-10-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1988-04-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7590",
+        "poststed": "TYDAL",
+        "adresse": [
+          "Tydalsvegen 125"
+        ],
+        "kommune": "TYDAL",
+        "kommunenummer": "5033"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7590",
+        "poststed": "TYDAL",
+        "adresse": [],
+        "kommune": "TYDAL",
+        "kommunenummer": "5033"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.130",
+        "beskrivelse": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 34,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "73 81 59 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Mari Evjen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "TYDAL KOMMUNE"
+        ],
+        "orgnr": "864983472",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/874777552/roller",
+      "retrieved": "2026-09-20T10:14:40Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:40Z"
+}

@@ -1,0 +1,129 @@
+{
+  "orgnr": "932337681",
+  "name": "DEFA INDUSTRIAL GROUP SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DEFA INDUSTRIAL GROUP SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "932337681",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-10-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-07-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Luxembourg",
+        "landkode": "LU",
+        "poststed": "1420 Luxembourg",
+        "adresse": [
+          "146 Avenue Gaston Diderich"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1396",
+        "poststed": "BILLINGSTAD",
+        "adresse": [
+          "c/o DEFA Lighting AS",
+          "Slependveien 108"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Didrik Andreas Eidsvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932337681/roller",
+      "retrieved": "2026-09-20T10:14:58Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:58Z"
+}

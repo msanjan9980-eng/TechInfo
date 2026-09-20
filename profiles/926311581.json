@@ -1,0 +1,287 @@
+{
+  "orgnr": "926311581",
+  "name": "HAV GROUP ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAV GROUP ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926311581",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-01-04",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2020-12-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "6090",
+        "poststed": "FOSNAVÅG",
+        "adresse": [
+          "Holmefjordvegen 1"
+        ],
+        "kommune": "HERØY",
+        "kommunenummer": "1515"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "27.120",
+        "beskrivelse": "Produksjon av elektriske fordelings- og kontrolltavler og paneler"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 18,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Gunnar Larsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Vegard Sævik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Helge Atle Simonnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Linda Myklebust",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Øystein Barmen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Maria Sandsmark",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Thor-Lennart Solevåg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Petter Frøystad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Andreas Stein",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Anita Fjørtoft",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "PRICEWATERHOUSECOOPERS AS"
+        ],
+        "orgnr": "987009713",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 REGNSKAPSHUSET SMN AS"
+        ],
+        "orgnr": "936285066",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926311581/roller",
+      "retrieved": "2026-09-20T10:14:24Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:24Z"
+}

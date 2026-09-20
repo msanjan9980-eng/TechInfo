@@ -1,0 +1,151 @@
+{
+  "orgnr": "926442716",
+  "name": "REALSAMEIE VERALIA 5B - 11E",
+  "facts": [
+    {
+      "field": "name",
+      "value": "REALSAMEIE VERALIA 5B - 11E",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "926442716",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-02-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3219",
+        "poststed": "SANDEFJORD",
+        "adresse": [
+          "c/o Håvard Horn",
+          "Veralia 7C"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "90980118",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jan Haugen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Håvard Horn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Even Alexander Ouren",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/926442716/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:23Z"
+}

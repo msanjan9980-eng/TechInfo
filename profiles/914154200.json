@@ -1,0 +1,221 @@
+{
+  "orgnr": "914154200",
+  "name": "MELSTVEITÅSEN VEGLAG SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MELSTVEITÅSEN VEGLAG SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "914154200",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-10-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-09-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5610",
+        "poststed": "ØYSTESE",
+        "adresse": [
+          "v/ Frank Neteland",
+          "Melstveitvegen 186"
+        ],
+        "kommune": "KVAM",
+        "kommunenummer": "4622"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "franet@statoil.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "904 15 828",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Frank Neteland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Frank Neteland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Eivind Rykkje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil Berge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lars Jørgen Tveit",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torvald Berge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VEKSTRA HARDANGER OG VOSS AS"
+        ],
+        "orgnr": "992106468",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/914154200/roller",
+      "retrieved": "2026-09-20T10:14:44Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:44Z"
+}

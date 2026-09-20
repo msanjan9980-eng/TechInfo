@@ -1,0 +1,176 @@
+{
+  "orgnr": "923381732",
+  "name": "SOWA AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOWA AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "923381732",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2019-06-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0258",
+        "poststed": "OSLO",
+        "adresse": [
+          "c/o Wahl Eiendom AS",
+          "Oscars gate 53"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "00.000",
+        "beskrivelse": "Uoppgitt"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Nils Holger Koefoed",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Sebastian Wahl",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "STATEMENT AS"
+        ],
+        "orgnr": "979607008",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/923381732/roller",
+      "retrieved": "2026-09-20T10:14:28Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:28Z"
+}

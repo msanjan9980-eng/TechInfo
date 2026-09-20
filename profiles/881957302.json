@@ -1,0 +1,208 @@
+{
+  "orgnr": "881957302",
+  "name": "OMMER ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OMMER ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "881957302",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Partrederi",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-05-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2000-04-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5455",
+        "poststed": "HALSNØY KLOSTER",
+        "adresse": [
+          "c/o Willy Ommer",
+          "Klostervegen 83"
+        ],
+        "kommune": "KVINNHERAD",
+        "kommunenummer": "4617"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "03.110",
+        "beskrivelse": "Fiske og fangst i sjø"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "53476118",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2024",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Bestyrende reder",
+      "value": {
+        "name": "Willy Ommer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: BEST"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Willy Ommer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Målfrid Ommer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Willy Ommer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Målfrid Ommer",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "HALSNØY REKNESKAPSKONTOR AS"
+        ],
+        "orgnr": "989269771",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/881957302/roller",
+      "retrieved": "2026-09-20T10:15:15Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:15Z"
+}

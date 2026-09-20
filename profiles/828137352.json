@@ -1,0 +1,165 @@
+{
+  "orgnr": "828137352",
+  "name": "TROMS FYLKESKOMMUNE OMBUD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TROMS FYLKESKOMMUNE OMBUD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "828137352",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-11-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9007",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Strandvegen 13"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9296",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Postboks 6600 Stakkevollan"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "84.120",
+        "beskrivelse": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.tromsfylke.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmottak@tromsfylke.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Jon Halvdan Lenning",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "TROMS FYLKESKOMMUNE"
+        ],
+        "orgnr": "930068128",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/828137352/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:50Z"
+}

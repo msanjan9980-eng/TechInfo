@@ -1,0 +1,157 @@
+{
+  "orgnr": "981749308",
+  "name": "SØNNESYN MAGNI",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SØNNESYN MAGNI",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "981749308",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-04-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4350",
+        "poststed": "KLEPPE",
+        "adresse": [
+          "Prestevegen 12"
+        ],
+        "kommune": "KLEPP",
+        "kommunenummer": "1120"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4358",
+        "poststed": "KLEPPE",
+        "adresse": [
+          "Postboks 4"
+        ],
+        "kommune": "KLEPP",
+        "kommunenummer": "1120"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.210",
+        "beskrivelse": "Allmennlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "51 78 50 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Innehaver",
+      "value": {
+        "name": "Magni Sønnesyn",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: INNH"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "JÆREN REGNSKAP AS"
+        ],
+        "orgnr": "975966992",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981749308/roller",
+      "retrieved": "2026-09-20T10:14:27Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:27Z"
+}

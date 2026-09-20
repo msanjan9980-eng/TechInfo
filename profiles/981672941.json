@@ -1,0 +1,155 @@
+{
+  "orgnr": "981672941",
+  "name": "FORLAGET SUND & RASK APS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FORLAGET SUND & RASK APS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "981672941",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2000-03-14",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0158",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/BDO International AS",
+          "Rådhusgata 17"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "58.190",
+        "beskrivelse": "Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 20 44 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": {
+        "name": [
+          "BDO NÆRINGSSERVICE AS"
+        ],
+        "orgnr": "918259317",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: REPR"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Tore Setsaas",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": {
+        "name": [
+          "FORLAGET SUND & RASK APS"
+        ],
+        "orgnr": "981672917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/981672941/roller",
+      "retrieved": "2026-09-20T10:14:19Z",
+      "confidence": "high",
+      "note": "Role group: HFOR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:19Z"
+}

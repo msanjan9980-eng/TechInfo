@@ -1,0 +1,171 @@
+{
+  "orgnr": "935390362",
+  "name": "BENNETT REKLAMEBYRÅ AS KONKURSBO",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BENNETT REKLAMEBYRÅ AS KONKURSBO",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "935390362",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Konkursbo",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2025-04-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2025-04-22",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7042",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "Ferjemannsveien 2"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "7462",
+        "poststed": "TRONDHEIM",
+        "adresse": [
+          "v/Adv. Terje Aas",
+          "Postboks 1280 Pirsenteret"
+        ],
+        "kommune": "TRONDHEIM",
+        "kommunenummer": "5001"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "73.110",
+        "beskrivelse": "Reklamebyråvirksomhet"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Bostyrer",
+      "value": {
+        "name": null,
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: BOBE"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": "Sverre Einersen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Konkursdebitor",
+      "value": {
+        "name": [
+          "BENNETT REKLAMEBYRÅ AS"
+        ],
+        "orgnr": "977511410",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/935390362/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: KDEB"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:12Z"
+}

@@ -1,0 +1,158 @@
+{
+  "orgnr": "985790205",
+  "name": "LOFOTEN TEKNIKK ANS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LOFOTEN TEKNIKK ANS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985790205",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-07-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-06-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "8373",
+        "poststed": "BALLSTAD",
+        "adresse": [
+          "Ballstadlandet 190"
+        ],
+        "kommune": "VESTVÅGØY",
+        "kommunenummer": "1860"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "33.150",
+        "beskrivelse": "Reparasjon og vedlikehold av sivile skip og båter"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "95122290",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Steinar Hope",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Steinar Hope",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": {
+        "name": "Stig Einar Sandsund",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985790205/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:34Z"
+}

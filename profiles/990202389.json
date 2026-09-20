@@ -1,0 +1,215 @@
+{
+  "orgnr": "990202389",
+  "name": "GIPSMAKER GATOBI AS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GIPSMAKER GATOBI AS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "990202389",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2006-09-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2006-08-28",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0153",
+        "poststed": "OSLO",
+        "adresse": [
+          "Kirkegata 12"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0101",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 49 Sentrum"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "43.310",
+        "beskrivelse": "Stukkatørarbeid og pussing"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "gipsmaker@live.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 42 43 92",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "414 66 285",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hassan Ali Hashemnia Gatobi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Hassan Ali Hashemnia Gatobi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Neda Gatobi",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ABC ACCOUNTING AS"
+        ],
+        "orgnr": "913960750",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/990202389/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:26Z"
+}

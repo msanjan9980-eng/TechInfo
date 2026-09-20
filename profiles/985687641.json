@@ -1,0 +1,182 @@
+{
+  "orgnr": "985687641",
+  "name": "NJÅSTAD SAMDRIFT DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NJÅSTAD SAMDRIFT DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "985687641",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2003-05-15",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2003-05-07",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5282",
+        "poststed": "LONEVÅG",
+        "adresse": [
+          "Njåstad"
+        ],
+        "kommune": "OSTERØY",
+        "kommunenummer": "4630"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "01.410",
+        "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "56 39 24 62",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91186775",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Svein Jarle Njåstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Svein Jarle Njåstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Stig-Morten Njåstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "SPAREBANK 1 SØR-NORGE",
+          "FORRETNINGSPARTNER AS"
+        ],
+        "orgnr": "990945748",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/985687641/roller",
+      "retrieved": "2026-09-20T10:14:26Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:26Z"
+}

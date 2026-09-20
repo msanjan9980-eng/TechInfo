@@ -1,0 +1,114 @@
+{
+  "orgnr": "927253488",
+  "name": "AIT URBANISM & LANDSCAPE LIMITED",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AIT URBANISM & LANDSCAPE LIMITED",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927253488",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-06-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2017-01-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Irland",
+        "landkode": "IE",
+        "poststed": "IE-DUBLIN D08 VAP9",
+        "adresse": [
+          "3rd Floor, Newmarket House,",
+          "Newmarket Square,"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "ait-place.ie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+353863263466",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927253488",
+      "retrieved": "2026-09-20T10:14:25Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:25Z"
+}

@@ -1,0 +1,247 @@
+{
+  "orgnr": "977154715",
+  "name": "STIFTELSEN FRIDALEN SENIORBOLIGER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN FRIDALEN SENIORBOLIGER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "977154715",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-03-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1976-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5004",
+        "poststed": "BERGEN",
+        "adresse": [
+          "c/o Vestlandske Boligbyggelag",
+          "Strandgaten 196"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "5817",
+        "poststed": "BERGEN",
+        "adresse": [
+          "c/o Vestlandske Boligbyggelag",
+          "Postboks 1947 Nordnes"
+        ],
+        "kommune": "BERGEN",
+        "kommunenummer": "4601"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.vestbo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@vestbo.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "55 30 96 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "VESTBO BBL"
+        ],
+        "orgnr": "946450197",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gerhard Jarle Lygre",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Terje Engebretsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Lene Skårvik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "VESTBO BBL"
+        ],
+        "orgnr": "946450197",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/977154715/roller",
+      "retrieved": "2026-09-20T10:15:23Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:23Z"
+}

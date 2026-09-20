@@ -1,0 +1,173 @@
+{
+  "orgnr": "997851757",
+  "name": "NOTODDEN INTERKOMMUNALE LEGEVAKT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NOTODDEN INTERKOMMUNALE LEGEVAKT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "997851757",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Organisasjonsledd",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-01-18",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3674",
+        "poststed": "NOTODDEN",
+        "adresse": [
+          "Teatergata 3"
+        ],
+        "kommune": "NOTODDEN",
+        "kommunenummer": "4005"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3672",
+        "poststed": "NOTODDEN",
+        "adresse": [
+          "Postboks 193"
+        ],
+        "kommune": "NOTODDEN",
+        "kommunenummer": "4005"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "86.210",
+        "beskrivelse": "Allmennlegetjenester"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 68,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "per.sturla.waernes@notodden.kommune.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "81 56 80 94",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Per Sturla Wærnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Org.ledd i offentlig sektor",
+      "value": {
+        "name": [
+          "NOTODDEN KOMMUNE"
+        ],
+        "orgnr": "938583986",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/997851757/roller",
+      "retrieved": "2026-09-20T10:15:10Z",
+      "confidence": "high",
+      "note": "Role group: ORGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:10Z"
+}

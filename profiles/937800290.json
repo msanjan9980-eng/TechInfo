@@ -1,0 +1,150 @@
+{
+  "orgnr": "937800290",
+  "name": "SVENDSEN & HENRIKSEN DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVENDSEN & HENRIKSEN DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "937800290",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2026-06-01",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2026-03-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "3224",
+        "poststed": "SANDEFJORD",
+        "adresse": [
+          "Olympiaveien 11"
+        ],
+        "kommune": "SANDEFJORD",
+        "kommunenummer": "3907"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "90.202",
+        "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Hassan Ludvig Svendsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Hassan Ludvig Svendsen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Sander Henriksen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/937800290/roller",
+      "retrieved": "2026-09-20T10:15:12Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:12Z"
+}

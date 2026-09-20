@@ -1,0 +1,244 @@
+{
+  "orgnr": "992249986",
+  "name": "B2 IMPACT ASA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "B2 IMPACT ASA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "992249986",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2008-01-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2008-01-21",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0254",
+        "poststed": "OSLO",
+        "adresse": [
+          "Cort Adelers gate 30"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "64.220",
+        "beskrivelse": "Spesielle holdingselskaper"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 23,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.b2-impact.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@b2-impact.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 83 39 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Trond Kristian Andreassen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Ole Grøterud",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Adele Pran",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Ellen Merete Hanetho",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karl Henrik Wennerholm",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Prateek Puri",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/992249986/roller",
+      "retrieved": "2026-09-20T10:14:47Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:47Z"
+}

@@ -1,0 +1,114 @@
+{
+  "orgnr": "932133490",
+  "name": "PADDLEGUARD STUDENTBEDRIFT",
+  "facts": [
+    {
+      "field": "name",
+      "value": "PADDLEGUARD STUDENTBEDRIFT",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "932133490",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2023-09-26",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2023-09-11",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2815",
+        "poststed": "GJØVIK",
+        "adresse": [
+          "NTNU i Gjøvik",
+          "Teknologivegen 22"
+        ],
+        "kommune": "GJØVIK",
+        "kommunenummer": "3407"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Hallvard Dahle",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/932133490/roller",
+      "retrieved": "2026-09-20T10:15:26Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:26Z"
+}

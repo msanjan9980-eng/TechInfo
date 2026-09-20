@@ -1,0 +1,243 @@
+{
+  "orgnr": "913705211",
+  "name": "TAX & LEGAL ADVOKATFIRMA DA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TAX & LEGAL ADVOKATFIRMA DA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "913705211",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-05-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2014-05-17",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1396",
+        "poststed": "BILLINGSTAD",
+        "adresse": [
+          "Billingstadsletta 19A"
+        ],
+        "kommune": "ASKER",
+        "kommunenummer": "3203"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "69.100",
+        "beskrivelse": "Juridisk tjenesteyting"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.taxlegal.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "91 18 33 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Karin Vik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Karin Vik",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Audun Gjøstein",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Monica Jotun",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Svein Johan Johansen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": "Per Steinar Ringstad",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "STIANSEN & CO AS"
+        ],
+        "orgnr": "962990746",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ECIT INTUNOR AS"
+        ],
+        "orgnr": "981085892",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/913705211/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:20Z"
+}

@@ -1,0 +1,194 @@
+{
+  "orgnr": "989042246",
+  "name": "TORSHOVDALEN BORETTSLAG",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TORSHOVDALEN BORETTSLAG",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "989042246",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-12-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2005-07-08",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "1350",
+        "poststed": "LOMMEDALEN",
+        "adresse": [
+          "Slalåmveien 57"
+        ],
+        "kommune": "BÆRUM",
+        "kommunenummer": "3201"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "97.001",
+        "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91836690",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": "Odd Kåre Markegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Odd Kåre Markegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Odd Arne Markegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Jens Christian Markegård",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "NARUM REVISJON AS"
+        ],
+        "orgnr": "919789980",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/989042246/roller",
+      "retrieved": "2026-09-20T10:14:50Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:50Z"
+}

@@ -1,0 +1,364 @@
+{
+  "orgnr": "979361475",
+  "name": "HÆGEBOSTAD OG ÅSERAL RENOVASJONSSELSKAP-HÅR IKS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HÆGEBOSTAD OG ÅSERAL RENOVASJONSSELSKAP-HÅR IKS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "979361475",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Interkommunalt selskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-11-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1997-04-10",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4540",
+        "poststed": "ÅSERAL",
+        "adresse": [
+          "Torslandsvegen 260"
+        ],
+        "kommune": "ÅSERAL",
+        "kommunenummer": "4224"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "38.110",
+        "beskrivelse": "Innsamling av ikke-farlig avfall"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 14,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.har-renovasjon.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "postmaster@har-renovasjon.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "38 28 32 50",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "91889192",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Ove Haugland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "ÅSERAL KOMMUNE"
+        ],
+        "orgnr": "964966842",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": {
+        "name": [
+          "HÆGEBOSTAD KOMMUNE"
+        ],
+        "orgnr": "964963916",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DELT"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Gunvor Ljosland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Nestleder",
+      "value": {
+        "name": "Geir Eikeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Monica Hauge",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kjetil Henrik Rykkje",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Bjørge Fossdal",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Oddgeir Bryggeså",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Kirsten Svensson",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Knut Sveinung Forgard",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Karina Ljosland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "SØRLANDET KOMMUNEREVISJON IKS"
+        ],
+        "orgnr": "971328452",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "ÅSERAL REGNSKAPSKONTOR AS"
+        ],
+        "orgnr": "917345023",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AZETS INSIGHT AS"
+        ],
+        "orgnr": "983338917",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/979361475/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:34Z"
+}

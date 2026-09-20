@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/enheter.json.gz
+logs/
+.env

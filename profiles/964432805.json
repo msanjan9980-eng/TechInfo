@@ -1,0 +1,223 @@
+{
+  "orgnr": "964432805",
+  "name": "TRYGT LY - KRISTEN STIFTELSE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TRYGT LY - KRISTEN STIFTELSE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "964432805",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1992-05-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2090",
+        "poststed": "HURDAL",
+        "adresse": [
+          "Torgkroken 22"
+        ],
+        "kommune": "HURDAL",
+        "kommunenummer": "3242"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.991",
+        "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.facebook.com/trygtlystiftelsen",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "asmund.kilde@gmail.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "404 16 175",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Åsmund Kilde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Åsmund Kilde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Terje Aadne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Kristin Lundberg",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Krystyna Kilde",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "KR. REVISJON AS"
+        ],
+        "orgnr": "990214263",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/964432805/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:53Z"
+}

@@ -1,0 +1,132 @@
+{
+  "orgnr": "980624099",
+  "name": "VÅR FRUES KIRKES MENIGHET",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VÅR FRUES KIRKES MENIGHET",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "980624099",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Annen juridisk person",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-01-03",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1859-12-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "9008",
+        "poststed": "TROMSØ",
+        "adresse": [
+          "Storgata 94"
+        ],
+        "kommune": "TROMSØ",
+        "kommunenummer": "5501"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "77 68 42 77",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Andrzej Kosciukiewicz",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/980624099/roller",
+      "retrieved": "2026-09-20T10:14:20Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:20Z"
+}

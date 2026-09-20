@@ -1,0 +1,244 @@
+{
+  "orgnr": "971453257",
+  "name": "KLINGEN NATURBARNEHAGE SA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KLINGEN NATURBARNEHAGE SA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "971453257",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-20",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1979-02-13",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2450",
+        "poststed": "RENA",
+        "adresse": [
+          "Åsbygdsveien 517"
+        ],
+        "kommune": "ÅMOT",
+        "kommunenummer": "3422"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "85.100",
+        "beskrivelse": "Førskoleundervisning og drift av barnehager"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 9,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "klingen-naturbarnehage.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "patrick@klingenbhg.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "62 44 05 39",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "481 38 599",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Patrick Steen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jakob Krokedal-Isfeldt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Camilla Haukåssveen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Gunn-Hege Diseth",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Vilde Vidnes",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Karianne Skaret",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "IFRONT ØKONOMI AS"
+        ],
+        "orgnr": "998547334",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/971453257/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:53Z"
+}

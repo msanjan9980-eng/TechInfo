@@ -1,0 +1,136 @@
+{
+  "orgnr": "921203624",
+  "name": "FÖRSAMLINGEN ARKEN BIBELCENTER",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FÖRSAMLINGEN ARKEN BIBELCENTER",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "921203624",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-30",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1989-10-29",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-196 23 KUNGSÄNGEN",
+        "adresse": [
+          "Energivägen 9"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Sverige",
+        "landkode": "SE",
+        "poststed": "SE-196 23 KUNGSÄNGEN",
+        "adresse": [
+          "Box 134"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.arken.org",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "info@arken.org",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+46858884000",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/921203624",
+      "retrieved": "2026-09-20T10:14:21Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:21Z"
+}

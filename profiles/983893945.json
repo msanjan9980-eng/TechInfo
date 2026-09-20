@@ -1,0 +1,211 @@
+{
+  "orgnr": "983893945",
+  "name": "DRAMMENSVEIEN 133 KS",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DRAMMENSVEIEN 133 KS",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "983893945",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Kommandittselskap",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-11-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2001-11-05",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0275",
+        "poststed": "OSLO",
+        "adresse": [
+          "Harbitzalléen 2A"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0213",
+        "poststed": "OSLO",
+        "adresse": [
+          "Postboks 399  Skøyen"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.200",
+        "beskrivelse": "Utleie av egen eller leid fast eiendom"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.klavenessmarine.com",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "22 52 61 00",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "last_annual_account",
+      "value": "2025",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Date of most recent submitted annual accounts"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": {
+        "name": "Anne Jevne",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: KONT"
+    },
+    {
+      "field": "role:Komplementar",
+      "value": {
+        "name": [
+          "DRAMMENSVEIEN 133 AS"
+        ],
+        "orgnr": "983893953",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: KOMP"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ERNST & YOUNG AS"
+        ],
+        "orgnr": "976389387",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "AMESTO ACCOUNTHOUSE AS"
+        ],
+        "orgnr": "957170005",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/983893945/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:34Z"
+}

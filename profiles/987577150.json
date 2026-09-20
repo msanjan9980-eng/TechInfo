@@ -1,0 +1,198 @@
+{
+  "orgnr": "987577150",
+  "name": "BULIVEIEN BA",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BULIVEIEN BA",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "987577150",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Selskap med begrenset ansvar",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2004-12-16",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "2004-11-25",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "4588",
+        "poststed": "KVÅS",
+        "adresse": [
+          "c/o Rune Birkeland",
+          "Birkeland"
+        ],
+        "kommune": "LYNGDAL",
+        "kommunenummer": "4225"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "68.320",
+        "beskrivelse": "Eiendomsforvaltning på oppdrag"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "38 33 33 33",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Toralv Skaar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Rune Birkeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Torgny Jakob Kvås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jorunn Marie Birkeland",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Reidun Kjellaug Kvås",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": {
+        "name": "Jan Skaar",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/987577150/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:53Z"
+}

@@ -1,0 +1,181 @@
+{
+  "orgnr": "976986601",
+  "name": "RÆLINGEN KIRKELIGE FELLESRÅD",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RÆLINGEN KIRKELIGE FELLESRÅD",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "976986601",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Den norske kirke",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "1997-01-27",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2005",
+        "poststed": "RÆLINGEN",
+        "adresse": [
+          "Øvre Rælingsveg 36"
+        ],
+        "kommune": "RÆLINGEN",
+        "kommunenummer": "3224"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "2005",
+        "poststed": "RÆLINGEN",
+        "adresse": [
+          "Øvre Rælingsveg 36"
+        ],
+        "kommune": "RÆLINGEN",
+        "kommunenummer": "3224"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "nace_code",
+      "value": {
+        "kode": "94.910",
+        "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "employees",
+      "value": 43,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Official registry employee count"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.ralingen.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "post@ralingen.kirken.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "64 80 41 60",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": {
+        "name": "Nina Kathrine Brandt",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: DAGL"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "ROMERIKE REVISJON IKS"
+        ],
+        "orgnr": "913150619",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/976986601/roller",
+      "retrieved": "2026-09-20T10:14:34Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:34Z"
+}

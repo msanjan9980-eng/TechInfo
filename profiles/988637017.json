@@ -1,0 +1,220 @@
+{
+  "orgnr": "988637017",
+  "name": "JEGERKOLLEN REALSAMEIE",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JEGERKOLLEN REALSAMEIE",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "988637017",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Tingsrettslig sameie",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2005-10-12",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1987-11-02",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0179",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/OBOS Eiendomsforvaltning AS",
+          "Hammersborg torg 1"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Norge",
+        "landkode": "NO",
+        "postnummer": "0129",
+        "poststed": "OSLO",
+        "adresse": [
+          "v/OBOS Eiendomsforvaltning AS",
+          "Postboks 6666 St. Olavs Plass"
+        ],
+        "kommune": "OSLO",
+        "kommunenummer": "0301"
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.jegerkollen.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "styret@jegerkollen.no",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: FFØR"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": {
+        "name": "Jardar Bakke",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Christian Fredrik Haugersveen",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": {
+        "name": "Nicolai Andvig",
+        "orgnr": null,
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: STYR"
+    },
+    {
+      "field": "role:Revisor",
+      "value": {
+        "name": [
+          "BDO AS"
+        ],
+        "orgnr": "993606650",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: REVI"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": {
+        "name": [
+          "OBOS EIENDOMSFORVALTNING AS"
+        ],
+        "orgnr": "934261585",
+        "since": null,
+        "until": null
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/988637017/roller",
+      "retrieved": "2026-09-20T10:14:53Z",
+      "confidence": "high",
+      "note": "Role group: REGN"
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:14:53Z"
+}

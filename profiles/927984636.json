@@ -1,0 +1,144 @@
+{
+  "orgnr": "927984636",
+  "name": "TRANSPORTBANDEN SERVICE NEDERLAND B.V.",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TRANSPORTBANDEN SERVICE NEDERLAND B.V.",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "orgnr",
+      "value": "927984636",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "legal_form",
+      "value": "Utenlandsk enhet",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "registered_date",
+      "value": "2021-10-23",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "founded_date",
+      "value": "1990-05-31",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "business_address",
+      "value": {
+        "land": "Nederland",
+        "landkode": "NL",
+        "poststed": "6827AV ARNHEIM",
+        "adresse": [
+          "Westervoortsedijk 73, Building MB"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "postal_address",
+      "value": {
+        "land": "Nederland",
+        "landkode": "NL",
+        "poststed": "6802EH ARNHEIM",
+        "adresse": [
+          "P.O. Box 5312"
+        ]
+      },
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "foretaksregisteret",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "field": "website",
+      "value": "www.tsn.nl",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "email",
+      "value": "alfred@ruprobeheer.nl",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "phone",
+      "value": "+31267508320",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "field": "mobile",
+      "value": "+31610904993",
+      "source": "https://data.brreg.no/enhetsregisteret/api/enheter/927984636",
+      "retrieved": "2026-09-20T10:15:19Z",
+      "confidence": "medium",
+      "note": ""
+    }
+  ],
+  "sources_used": [
+    "brreg"
+  ],
+  "last_updated": "2026-09-20T10:15:19Z"
+}
