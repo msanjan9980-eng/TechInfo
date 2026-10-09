@@ -1,0 +1,11 @@
+{
+  "name": "signalpost-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Signalpost company research agent - local checks.",
+  "scripts": {
+    "check:signalpost": "python tests/validate_envelopes.py",
+    "check:signalpost-showcase": "python tests/showcase.py",
+    "check:signalpost-challenge": "python tests/check_challenge.py"
+  }
+}

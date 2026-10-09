@@ -1,4 +1,4 @@
-﻿"""Main entry point: build profiles for a list of orgnrs."""
+"""Main entry point: build profiles for a list of orgnrs."""
 from __future__ import annotations
 
 import argparse
@@ -34,6 +34,40 @@ async def get_financials_cached(
     cache.save(orgnr, accounts)
     return accounts or []
 
+
+async def build_profile_dict(
+    orgnr: str,
+    client: httpx.AsyncClient,
+    use_cache: bool = True,
+) -> tuple[dict | None, list[str]]:
+    """Return (profile, errors). profile is None if the company could not be built."""
+    errors: list[str] = []
+    if not validate_orgnr(orgnr):
+        return None, ["invalid orgnr (MOD11 checksum)"]
+    try:
+        company = await fetch_company(orgnr, client)
+    except Exception as e:
+        return None, [f"fetch_company error: {type(e).__name__}: {e}"]
+    if company is None:
+        return None, ["not found in Enhetsregisteret"]
+    roles = roles_cache.load(orgnr) if use_cache else None
+    if roles is None:
+        try:
+            roles = await fetch_roles(orgnr, client)
+        except Exception as e:
+            errors.append(f"roles fetch error: {type(e).__name__}: {e}")
+            roles = []
+        roles_cache.save(orgnr, roles)
+    try:
+        financials = await get_financials_cached(orgnr, client, use_cache=use_cache)
+    except Exception as e:
+        errors.append(f"financials fetch error: {type(e).__name__}: {e}")
+        financials = []
+    try:
+        profile = assemble_profile(company, roles, financials=financials or [])
+    except Exception as e:
+        return None, errors + [f"assemble error: {type(e).__name__}: {e}"]
+    return profile, errors
 
 async def build_one(
     orgnr: str,
