@@ -9,3 +9,7 @@ check_before.py
 check_fresh.py
 seed_delta.py
 probe_*.py
+
+envelopes/
+data/smoke10.txt
+data/showcase_batch.txt
