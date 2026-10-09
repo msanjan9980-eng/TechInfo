@@ -1,16 +1,23 @@
-﻿"""Client for the Norwegian Enhetsregisteret (Bronnoysundregistrene) open API."""
+"""Client for the Norwegian Enhetsregisteret (Bronnoysundregistrene) open API.
+
+Every fetcher returns (payload, meta) where meta carries the real retrieval
+timestamp and a SHA-256 of the raw response body. Meta is threaded into facts
+and caches so evidence timestamps are the actual fetch times.
+"""
 from __future__ import annotations
 
-from typing import Any
-
+import hashlib
 import logging
+from datetime import datetime, timezone
 from pathlib import Path as _Path
+from typing import Any
 
 import httpx
 from pydantic import BaseModel, ConfigDict, Field
 from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
 BRREG_BASE = "https://data.brreg.no/enhetsregisteret/api"
+REGNSKAP_BASE = "https://data.brreg.no/regnskapsregisteret/regnskap"
 
 _LOG_DIR = _Path("logs")
 _LOG_DIR.mkdir(exist_ok=True)
@@ -21,6 +28,9 @@ if not logger.handlers:
     _fh.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
     logger.addHandler(_fh)
 
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 class CompanyRecord(BaseModel):
@@ -48,7 +58,6 @@ class CompanyRecord(BaseModel):
 
 
 def validate_orgnr(orgnr: str) -> bool:
-    """Validate a Norwegian organisation number using the MOD11 checksum."""
     orgnr = orgnr.strip()
     if not orgnr.isdigit() or len(orgnr) != 9:
         return False
@@ -64,7 +73,6 @@ def validate_orgnr(orgnr: str) -> bool:
 
 
 def _flatten_name(value: Any) -> str | None:
-    """Brreg returns names as a dict {fornavn, etternavn} or as a plain string."""
     if value is None:
         return None
     if isinstance(value, str):
@@ -76,6 +84,24 @@ def _flatten_name(value: Any) -> str | None:
     return None
 
 
+def _meta_from_response(resp: httpx.Response) -> dict:
+    return {
+        "source_url": str(resp.url),
+        "retrieved": now_iso(),
+        "content_sha256": hashlib.sha256(resp.content).hexdigest(),
+        "http_status": resp.status_code,
+    }
+
+
+def _empty_meta(url: str, status: int | None = None) -> dict:
+    return {
+        "source_url": url,
+        "retrieved": now_iso(),
+        "content_sha256": None,
+        "http_status": status,
+    }
+
+
 @retry(
     retry=retry_if_exception_type(httpx.HTTPError),
     stop=stop_after_attempt(4),
@@ -84,32 +110,35 @@ def _flatten_name(value: Any) -> str | None:
 )
 async def _get_json(
     client: httpx.AsyncClient, url: str, params: dict | None = None
-) -> dict | None:
+) -> tuple[Any | None, dict]:
     resp = await client.get(url, params=params)
+    meta = _meta_from_response(resp)
     if resp.status_code == 404:
         logger.info(f"404 for {url}")
-        return None
+        return None, meta
     if resp.status_code >= 400:
         logger.warning(f"HTTP {resp.status_code} for {url}")
     resp.raise_for_status()
-    return resp.json()
+    return resp.json(), meta
 
 
 async def fetch_company(
     orgnr: str, client: httpx.AsyncClient
-) -> CompanyRecord | None:
-    data = await _get_json(client, f"{BRREG_BASE}/enheter/{orgnr}")
+) -> tuple[CompanyRecord | None, dict]:
+    url = f"{BRREG_BASE}/enheter/{orgnr}"
+    data, meta = await _get_json(client, url)
     if data is None:
-        return None
-    return CompanyRecord(**data)
+        return None, meta
+    return CompanyRecord(**data), meta
 
 
 async def fetch_roles(
     orgnr: str, client: httpx.AsyncClient
-) -> list[dict[str, Any]]:
-    data = await _get_json(client, f"{BRREG_BASE}/enheter/{orgnr}/roller")
+) -> tuple[list[dict[str, Any]], dict]:
+    url = f"{BRREG_BASE}/enheter/{orgnr}/roller"
+    data, meta = await _get_json(client, url)
     if data is None:
-        return []
+        return [], meta
     groups = data.get("rollegrupper", []) or []
     out: list[dict[str, Any]] = []
     for group in groups:
@@ -130,48 +159,38 @@ async def fetch_roles(
                     "valgtDato": role.get("valgtDato"),
                 }
             )
-    return out
-
-
-REGNSKAP_BASE = "https://data.brreg.no/regnskapsregisteret/regnskap"
+    return out, meta
 
 
 async def fetch_financials(
     orgnr: str, client: httpx.AsyncClient
-) -> list[dict] | None:
-    """Return the list of filed annual accounts for a company, or None.
-
-    The Regnskapsregisteret endpoint returns a JSON array with one element
-    per filed accounting period, most recent first.
-    """
+) -> tuple[list[dict] | None, dict]:
+    url = f"{REGNSKAP_BASE}/{orgnr}"
     try:
-        data = await _get_json(client, f"{REGNSKAP_BASE}/{orgnr}")
-    except httpx.HTTPStatusError:
-        return None
+        data, meta = await _get_json(client, url)
+    except httpx.HTTPStatusError as e:
+        return None, _empty_meta(url, e.response.status_code)
     except httpx.HTTPError:
-        return None
+        return None, _empty_meta(url, None)
     if not data:
-        return None
+        return None, meta
     if isinstance(data, list):
-        return data
+        return data, meta
     if isinstance(data, dict):
-        return [data]
-    return None
+        return [data], meta
+    return None, meta
 
 
 async def fetch_updates(
     since_date: str, client: httpx.AsyncClient
-) -> list[str]:
-    """Return orgnrs updated since `since_date` (YYYY-MM-DD)."""
-    data = await _get_json(
-        client,
-        f"{BRREG_BASE}/oppdateringer/enheter",
-        params={"dato": since_date},
-    )
+) -> tuple[list[str], dict]:
+    url = f"{BRREG_BASE}/oppdateringer/enheter"
+    data, meta = await _get_json(client, url, params={"dato": since_date})
     if not data:
-        return []
+        return [], meta
+    entries = data.get("_embedded", {}).get("oppdaterteEnheter", []) or []
     return [
         e.get("organisasjonsnummer")
-        for e in data.get("_embedded", {}).get("enheter", [])
+        for e in entries
         if e.get("organisasjonsnummer")
-    ]
+    ], meta

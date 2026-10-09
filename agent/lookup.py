@@ -1,4 +1,4 @@
-﻿"""Look up a single Norwegian company by organisation number.
+"""Look up a single Norwegian company by organisation number.
 
 Usage:
     python -m agent.lookup 923609016
@@ -16,8 +16,18 @@ from pathlib import Path
 import httpx
 
 from . import cache, roles_cache
-from .brreg_client import fetch_company, fetch_financials, fetch_roles, validate_orgnr
+from .brreg_client import (
+    REGNSKAP_BASE,
+    fetch_company,
+    fetch_financials,
+    fetch_roles,
+    validate_orgnr,
+)
 from .assemble import assemble_profile
+
+ENTITY_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
+ROLES_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}/roller"
+FIN_URL = REGNSKAP_BASE + "/{orgnr}"
 
 
 async def _lookup(orgnr: str) -> dict | None:
@@ -26,26 +36,40 @@ async def _lookup(orgnr: str) -> dict | None:
         return None
     headers = {"User-Agent": "norwegian-company-agent/1.0 (research)"}
     async with httpx.AsyncClient(headers=headers, timeout=30) as client:
-        company = await fetch_company(orgnr, client)
+        company, company_meta = await fetch_company(orgnr, client)
         if company is None:
             print(f"Company not found in Enhetsregisteret: {orgnr}", file=sys.stderr)
             return None
-        roles = roles_cache.load(orgnr)
+
+        entity_url = ENTITY_URL.format(orgnr=orgnr)
+        roles_url = ROLES_URL.format(orgnr=orgnr)
+        fin_url = FIN_URL.format(orgnr=orgnr)
+        source_meta: dict[str, dict] = {entity_url: company_meta}
+
+        roles, roles_meta = roles_cache.load(orgnr)
         if roles is None:
             try:
-                roles = await fetch_roles(orgnr, client)
+                roles, roles_meta = await fetch_roles(orgnr, client)
             except Exception as e:
                 print(f"Roles fetch failed: {e}", file=sys.stderr)
-                roles = []
-            roles_cache.save(orgnr, roles)
-        financials = cache.load(orgnr)
+                roles, roles_meta = [], None
+            roles_cache.save(orgnr, roles, roles_meta)
+        if roles_meta:
+            source_meta[roles_url] = roles_meta
+
+        financials, fin_meta = cache.load(orgnr)
         if financials is None:
             try:
-                financials = await fetch_financials(orgnr, client)
+                financials, fin_meta = await fetch_financials(orgnr, client)
             except Exception:
-                financials = None
-            cache.save(orgnr, financials)
-        return assemble_profile(company, roles, financials=financials or [])
+                financials, fin_meta = None, None
+            cache.save(orgnr, financials, fin_meta)
+        if fin_meta:
+            source_meta[fin_url] = fin_meta
+
+        return assemble_profile(
+            company, roles, source_meta=source_meta, financials=financials or []
+        )
 
 
 def main() -> int:

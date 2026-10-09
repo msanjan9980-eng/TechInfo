@@ -117,7 +117,7 @@ def envelope_from_profile(
                 "ref_id": ref_id,
                 "source_url": url,
                 "retrieved": f.get("retrieved"),
-                "content_sha256": None,
+                "content_sha256": f.get("content_sha256"),
                 "extraction_method": "api_json",
             }
             source_snapshots.append(url)

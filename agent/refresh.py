@@ -1,11 +1,7 @@
-﻿"""Refresh profiles using the Brreg 'oppdateringer' delta endpoint.
+"""Refresh profiles using the Brreg 'oppdateringer' delta endpoint.
 
 Only fetches companies that changed in Enhetsregisteret in the last N days
-AND that we already track. Reuses roles and financial caches when fresh.
-
-Usage:
-    python -m agent.refresh --days 1
-    python -m agent.refresh --days 7
+AND that we already track. Reuses roles and financials caches when fresh.
 """
 from __future__ import annotations
 
@@ -19,32 +15,55 @@ import httpx
 from tqdm.asyncio import tqdm_asyncio
 
 from . import cache, roles_cache
-from .brreg_client import fetch_company, fetch_financials, fetch_roles
+from .brreg_client import (
+    REGNSKAP_BASE,
+    fetch_company,
+    fetch_financials,
+    fetch_roles,
+)
 from .assemble import assemble_profile
+
+ENTITY_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
+ROLES_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}/roller"
+FIN_URL = REGNSKAP_BASE + "/{orgnr}"
 
 
 async def refresh_one(orgnr: str, client: httpx.AsyncClient, out_dir: Path) -> bool:
     try:
-        company = await fetch_company(orgnr, client)
+        company, company_meta = await fetch_company(orgnr, client)
     except Exception:
         return False
     if company is None:
         return False
-    roles = roles_cache.load(orgnr)
+
+    entity_url = ENTITY_URL.format(orgnr=orgnr)
+    roles_url = ROLES_URL.format(orgnr=orgnr)
+    fin_url = FIN_URL.format(orgnr=orgnr)
+    source_meta: dict[str, dict] = {entity_url: company_meta}
+
+    roles, roles_meta = roles_cache.load(orgnr)
     if roles is None:
         try:
-            roles = await fetch_roles(orgnr, client)
+            roles, roles_meta = await fetch_roles(orgnr, client)
         except Exception:
-            roles = []
-        roles_cache.save(orgnr, roles)
-    financials = cache.load(orgnr)
+            roles, roles_meta = [], None
+        roles_cache.save(orgnr, roles, roles_meta)
+    if roles_meta:
+        source_meta[roles_url] = roles_meta
+
+    financials, fin_meta = cache.load(orgnr)
     if financials is None:
         try:
-            financials = await fetch_financials(orgnr, client)
+            financials, fin_meta = await fetch_financials(orgnr, client)
         except Exception:
-            financials = None
-        cache.save(orgnr, financials)
-    profile = assemble_profile(company, roles, financials=financials or [])
+            financials, fin_meta = None, None
+        cache.save(orgnr, financials, fin_meta)
+    if fin_meta:
+        source_meta[fin_url] = fin_meta
+
+    profile = assemble_profile(
+        company, roles, source_meta=source_meta, financials=financials or []
+    )
     (out_dir / f"{orgnr}.json").write_text(
         json.dumps(profile, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -63,7 +82,6 @@ async def run(days: int, out_dir: Path, concurrency: int = 8) -> int:
         print(f"Registry reports {total} change events since {since}")
         print(f"Fetched first page: {len(entries)} entries")
 
-        # Build a set of tracked orgnrs that had a non-deletion change
         changed_orgnrs = set()
         for e in entries:
             kind = (e.get("endringstype") or "").lower()

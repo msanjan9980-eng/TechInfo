@@ -12,6 +12,7 @@ from tqdm.asyncio import tqdm_asyncio
 
 from . import cache, roles_cache
 from .brreg_client import (
+    REGNSKAP_BASE,
     fetch_company,
     fetch_financials,
     fetch_roles,
@@ -19,20 +20,24 @@ from .brreg_client import (
 )
 from .assemble import assemble_profile
 
+ENTITY_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
+ROLES_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}/roller"
+FIN_URL = REGNSKAP_BASE + "/{orgnr}"
+
 
 async def get_financials_cached(
     orgnr: str, client: httpx.AsyncClient, use_cache: bool = True
-) -> list[dict]:
+) -> tuple[list[dict], dict | None]:
     if use_cache:
-        hit = cache.load(orgnr)
-        if hit is not None:
-            return hit
+        accounts, meta = cache.load(orgnr)
+        if accounts is not None:
+            return accounts, meta
     try:
-        accounts = await fetch_financials(orgnr, client)
+        accounts, meta = await fetch_financials(orgnr, client)
     except Exception:
-        accounts = None
-    cache.save(orgnr, accounts)
-    return accounts or []
+        accounts, meta = None, None
+    cache.save(orgnr, accounts, meta)
+    return accounts or [], meta
 
 
 async def build_profile_dict(
@@ -45,29 +50,47 @@ async def build_profile_dict(
     if not validate_orgnr(orgnr):
         return None, ["invalid orgnr (MOD11 checksum)"]
     try:
-        company = await fetch_company(orgnr, client)
+        company, company_meta = await fetch_company(orgnr, client)
     except Exception as e:
         return None, [f"fetch_company error: {type(e).__name__}: {e}"]
     if company is None:
         return None, ["not found in Enhetsregisteret"]
-    roles = roles_cache.load(orgnr) if use_cache else None
+
+    entity_url = ENTITY_URL.format(orgnr=orgnr)
+    roles_url = ROLES_URL.format(orgnr=orgnr)
+    fin_url = FIN_URL.format(orgnr=orgnr)
+    source_meta: dict[str, dict] = {entity_url: company_meta}
+
+    roles: list[dict] | None = None
+    roles_meta: dict | None = None
+    if use_cache:
+        roles, roles_meta = roles_cache.load(orgnr)
     if roles is None:
         try:
-            roles = await fetch_roles(orgnr, client)
+            roles, roles_meta = await fetch_roles(orgnr, client)
         except Exception as e:
             errors.append(f"roles fetch error: {type(e).__name__}: {e}")
-            roles = []
-        roles_cache.save(orgnr, roles)
+            roles, roles_meta = [], None
+        roles_cache.save(orgnr, roles, roles_meta)
+    if roles_meta:
+        source_meta[roles_url] = roles_meta
+
     try:
-        financials = await get_financials_cached(orgnr, client, use_cache=use_cache)
+        financials, fin_meta = await get_financials_cached(orgnr, client, use_cache=use_cache)
     except Exception as e:
         errors.append(f"financials fetch error: {type(e).__name__}: {e}")
-        financials = []
+        financials, fin_meta = [], None
+    if fin_meta:
+        source_meta[fin_url] = fin_meta
+
     try:
-        profile = assemble_profile(company, roles, financials=financials or [])
+        profile = assemble_profile(
+            company, roles, source_meta=source_meta, financials=financials or []
+        )
     except Exception as e:
         return None, errors + [f"assemble error: {type(e).__name__}: {e}"]
     return profile, errors
+
 
 async def build_one(
     orgnr: str,
@@ -75,30 +98,11 @@ async def build_one(
     out_dir: Path,
     use_cache: bool,
 ) -> bool:
-    if not validate_orgnr(orgnr):
-        print(f"[skip] {orgnr} failed MOD11 checksum", file=sys.stderr)
+    profile, errors = await build_profile_dict(orgnr, client, use_cache=use_cache)
+    if profile is None:
+        for e in errors:
+            print(f"[skip] {orgnr}: {e}", file=sys.stderr)
         return False
-    try:
-        company = await fetch_company(orgnr, client)
-    except Exception as e:
-        print(f"[err-fetch] {orgnr}: {e}", file=sys.stderr)
-        return False
-    if company is None:
-        print(f"[miss] {orgnr} not found in Enhetsregisteret", file=sys.stderr)
-        return False
-    if use_cache:
-        roles = roles_cache.load(orgnr)
-    else:
-        roles = None
-    if roles is None:
-        try:
-            roles = await fetch_roles(orgnr, client)
-        except Exception as e:
-            print(f"[err-roles] {orgnr}: {e}", file=sys.stderr)
-            roles = []
-        roles_cache.save(orgnr, roles)
-    financials = await get_financials_cached(orgnr, client, use_cache=use_cache)
-    profile = assemble_profile(company, roles, financials=financials)
     out_path = out_dir / f"{orgnr}.json"
     out_path.write_text(
         json.dumps(profile, ensure_ascii=False, indent=2), encoding="utf-8"
