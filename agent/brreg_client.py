@@ -55,6 +55,14 @@ class CompanyRecord(BaseModel):
     epostadresse: str | None = None
     telefon: str | None = None
     mobil: str | None = None
+    # Fields added in Phase 4(a): parsed from the same payload, previously discarded.
+    overordnetEnhet: dict | str | None = None
+    aktivitet: list[str] | str | None = None
+    vedtektsfestetFormaal: list[str] | str | None = None
+    institusjonellSektorkode: dict | None = None
+    erEnkeltpersonforetak: bool | None = None
+    sisteEndring: str | None = None
+    harRegistrertAntallAnsatte: bool | None = None
 
 
 def validate_orgnr(orgnr: str) -> bool:

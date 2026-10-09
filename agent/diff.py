@@ -43,6 +43,8 @@ def _family(field: str) -> str:
         "total_assets", "equity", "total_liabilities",
     }:
         return "filing"
+    if f in {"parent", "parent_orgnr", "parent_name"}:
+        return "group"
     return "generic"
 
 
@@ -51,6 +53,7 @@ _FAMILY_CHANGE = {
     "job":      {"add": "new_job",          "remove": "closed_job",       "change": "changed_job"},
     "location": {"add": "new_location",     "remove": "removed_location", "change": "changed_location"},
     "filing":   {"add": "new_filing",       "remove": "removed_filing",   "change": "changed_filing"},
+    "group":    {"add": "new_parent",       "remove": "removed_parent",   "change": "changed_parent"},
     "generic":  {"add": "new_claim",        "remove": "removed_claim",    "change": "changed_value"},
 }
 

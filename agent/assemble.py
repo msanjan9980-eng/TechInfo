@@ -42,6 +42,46 @@ def _meta_for(source_meta: dict[str, dict] | None, source_url: str) -> tuple[str
     return (m.get("retrieved") or _now_iso()), m.get("content_sha256")
 
 
+def _join_text(value: Any) -> str | None:
+    """Brreg returns 'aktivitet' and 'vedtektsfestetFormaal' as arrays of wrapped lines.
+    Join them into a single normalized string."""
+    if value is None:
+        return None
+    if isinstance(value, str):
+        s = value.strip()
+        return s or None
+    if isinstance(value, list):
+        parts = [str(v).strip() for v in value if v is not None and str(v).strip()]
+        if not parts:
+            return None
+        return " ".join(parts)
+    return None
+
+
+def _parent_parts(value: Any) -> tuple[str | None, str | None]:
+    """Return (parent_orgnr, parent_name) from a Brreg overordnetEnhet value.
+
+    The value may be:
+      - None
+      - a string orgnr
+      - a dict with organisasjonsnummer and/or navn
+    """
+    if value is None:
+        return None, None
+    if isinstance(value, str):
+        s = value.strip()
+        return (s or None), None
+    if isinstance(value, dict):
+        orgnr = value.get("organisasjonsnummer") or value.get("orgnr")
+        name = value.get("navn") or value.get("name")
+        if orgnr is not None:
+            orgnr = str(orgnr)
+        if name is not None:
+            name = str(name)
+        return orgnr, name
+    return None, None
+
+
 def financial_facts(
     orgnr: str,
     accounts: list[dict] | None,
@@ -175,6 +215,45 @@ def assemble_profile(
     if company.sisteInnsendteAarsregnskap:
         add("last_annual_account", company.sisteInnsendteAarsregnskap,
             note="Date of most recently submitted annual accounts per Enhetsregisteret.")
+
+    # ----- Phase 4(a): fields previously discarded from the same Enhetsregisteret payload -----
+
+    activity = _join_text(getattr(company, "aktivitet", None))
+    if activity:
+        add("activity", activity,
+            note="Registered business activity text from Enhetsregisteret.")
+
+    purpose = _join_text(getattr(company, "vedtektsfestetFormaal", None))
+    if purpose:
+        add("purpose", purpose,
+            note="Articles-of-association purpose from Enhetsregisteret.")
+
+    sector = getattr(company, "institusjonellSektorkode", None)
+    if isinstance(sector, dict) and (sector.get("kode") or sector.get("beskrivelse")):
+        add("sector_code", {
+            "kode": sector.get("kode"),
+            "beskrivelse": sector.get("beskrivelse"),
+        }, note="Institutional sector code (institusjonell sektorkode).")
+
+    sole = getattr(company, "erEnkeltpersonforetak", None)
+    if sole is not None:
+        add("sole_proprietorship", bool(sole),
+            note="Whether the entity is registered as a sole proprietorship (enkeltpersonforetak).")
+
+    has_emp = getattr(company, "harRegistrertAntallAnsatte", None)
+    if has_emp is not None:
+        add("has_registered_employee_count", bool(has_emp),
+            note="Whether an employee count is registered in Enhetsregisteret.")
+
+    last_change = getattr(company, "sisteEndring", None)
+    if last_change:
+        add("last_registry_change", last_change,
+            note="Date of the most recent change recorded in Enhetsregisteret.")
+
+    parent_orgnr, parent_name = _parent_parts(getattr(company, "overordnetEnhet", None))
+    if parent_orgnr or parent_name:
+        add("parent", {"orgnr": parent_orgnr, "name": parent_name},
+            note="Parent entity (overordnet enhet) as recorded in Enhetsregisteret.")
 
     for r in roles:
         role_label = r.get("role") or r.get("role_group") or "role"
