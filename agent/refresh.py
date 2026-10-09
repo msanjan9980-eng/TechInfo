@@ -1,73 +1,36 @@
-"""Refresh profiles using the Brreg 'oppdateringer' delta endpoint.
+"""Refresh tracked companies using the Brreg 'oppdateringer' delta endpoint.
 
-Only fetches companies that changed in Enhetsregisteret in the last N days
-AND that we already track. Reuses roles and financials caches when fresh.
+Local-dev convenience wrapper. Delegates envelope construction and merge to
+agent.batch, so envelopes produced here are byte-for-byte equivalent to those
+produced by the harness batch command.
 """
 from __future__ import annotations
 
 import argparse
 import asyncio
-import json
 from datetime import date, timedelta
 from pathlib import Path
 
 import httpx
 from tqdm.asyncio import tqdm_asyncio
 
-from . import cache, roles_cache
-from .brreg_client import (
-    REGNSKAP_BASE,
-    fetch_company,
-    fetch_financials,
-    fetch_roles,
-)
-from .assemble import assemble_profile
-
-ENTITY_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
-ROLES_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}/roller"
-FIN_URL = REGNSKAP_BASE + "/{orgnr}"
+from . import batch as batch_mod
+from .envelope import STATE_AVAILABLE, STATE_FAILED, error_envelope
 
 
 async def refresh_one(orgnr: str, client: httpx.AsyncClient, out_dir: Path) -> bool:
     try:
-        company, company_meta = await fetch_company(orgnr, client)
-    except Exception:
-        return False
-    if company is None:
-        return False
-
-    entity_url = ENTITY_URL.format(orgnr=orgnr)
-    roles_url = ROLES_URL.format(orgnr=orgnr)
-    fin_url = FIN_URL.format(orgnr=orgnr)
-    source_meta: dict[str, dict] = {entity_url: company_meta}
-
-    roles, roles_meta = roles_cache.load(orgnr)
-    if roles is None:
-        try:
-            roles, roles_meta = await fetch_roles(orgnr, client)
-        except Exception:
-            roles, roles_meta = [], None
-        roles_cache.save(orgnr, roles, roles_meta)
-    if roles_meta:
-        source_meta[roles_url] = roles_meta
-
-    financials, fin_meta = cache.load(orgnr)
-    if financials is None:
-        try:
-            financials, fin_meta = await fetch_financials(orgnr, client)
-        except Exception:
-            financials, fin_meta = None, None
-        cache.save(orgnr, financials, fin_meta)
-    if fin_meta:
-        source_meta[fin_url] = fin_meta
-
-    profile = assemble_profile(
-        company, roles, source_meta=source_meta, financials=financials or []
-    )
-    (out_dir / f"{orgnr}.json").write_text(
-        json.dumps(profile, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    return True
+        env = await batch_mod.envelope_for(orgnr, client, use_cache=True)
+    except Exception as e:
+        env = error_envelope(
+            orgnr, STATE_FAILED, [f"refresh error: {type(e).__name__}: {e}"]
+        )
+    try:
+        env = batch_mod.merge_with_previous(orgnr, env, out_dir)
+    except Exception as e:
+        env.setdefault("errors", []).append(f"merge error: {type(e).__name__}: {e}")
+    batch_mod._write_atomic(out_dir / f"{orgnr}.json", env)
+    return env.get("state") == STATE_AVAILABLE
 
 
 async def run(days: int, out_dir: Path, concurrency: int = 8) -> int:
@@ -95,9 +58,10 @@ async def run(days: int, out_dir: Path, concurrency: int = 8) -> int:
         print(f"Tracked companies among changes: {len(tracked)}")
         if not tracked:
             return 0
+
         sem = asyncio.Semaphore(concurrency)
 
-        async def worker(o):
+        async def worker(o: str) -> bool:
             async with sem:
                 return await refresh_one(o, client, out_dir)
 
@@ -111,13 +75,15 @@ async def run(days: int, out_dir: Path, concurrency: int = 8) -> int:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Refresh tracked profiles from the Brreg delta endpoint.")
+    ap = argparse.ArgumentParser(
+        description="Refresh tracked profiles from the Brreg delta endpoint."
+    )
     ap.add_argument("--days", type=int, default=1)
-    ap.add_argument("--output", default="profiles")
+    ap.add_argument("--output", default="envelopes")
     ap.add_argument("--concurrency", type=int, default=8)
     args = ap.parse_args()
     n = asyncio.run(run(args.days, Path(args.output), args.concurrency))
-    print(f"Refreshed {n} profiles")
+    print(f"Refreshed {n} envelopes")
     return 0
 
 

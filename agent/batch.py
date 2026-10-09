@@ -1,14 +1,14 @@
 """Batch entry point: read an organisation-number batch, emit one envelope per input.
 
-Usage:
-    python -m agent.batch --batch data/seed_orgnrs.txt --output envelopes
-    python -m agent.batch --batch official_batch.jsonl --output envelopes
+Each envelope is merged with the previous run's envelope for the same company,
+so refresh metadata and evidence preservation appear on every harness run.
 """
 from __future__ import annotations
 
 import argparse
 import asyncio
 import json
+import os
 from pathlib import Path
 
 import httpx
@@ -20,13 +20,16 @@ from .envelope import (
     STATE_BLOCKED,
     STATE_FAILED,
     STATE_NOT_AVAILABLE,
+    apply_refresh,
     envelope_from_profile,
     error_envelope,
+    merge_evidence_refs,
+    merge_source_snapshots,
 )
 
 
 def load_orgnrs(path: Path) -> list[str]:
-    """Accept a text file (one orgnr per line) or a JSONL file with orgnr/organisasjonsnummer."""
+    """Accept text (one orgnr per line) or JSONL with orgnr/organisasjonsnummer."""
     seen: set[str] = set()
     out: list[str] = []
     text = path.read_text(encoding="utf-8-sig")
@@ -71,6 +74,44 @@ async def envelope_for(
     return envelope_from_profile(orgnr, profile, state=STATE_AVAILABLE, errors=errors)
 
 
+def _load_previous_envelope(out_dir: Path, orgnr: str) -> tuple[dict | None, str | None]:
+    p = out_dir / f"{orgnr}.json"
+    if not p.exists():
+        return None, None
+    try:
+        env = json.loads(p.read_text(encoding="utf-8"))
+    except Exception as e:
+        return None, f"previous envelope unreadable: {type(e).__name__}: {e}"
+    if not isinstance(env, dict):
+        return None, "previous envelope not a JSON object"
+    return env, None
+
+
+def _write_atomic(path: Path, data: dict) -> None:
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    os.replace(tmp, path)
+
+
+def merge_with_previous(orgnr: str, new_env: dict, out_dir: Path) -> dict:
+    """Load the previous envelope, compute refresh, merge prior evidence, return the final envelope."""
+    prev_env, prev_err = _load_previous_envelope(out_dir, orgnr)
+    if prev_err:
+        new_env.setdefault("errors", []).append(prev_err)
+
+    apply_refresh(new_env, prev_env)
+
+    if prev_env is not None:
+        new_env["evidence_refs"] = merge_evidence_refs(
+            prev_env.get("evidence_refs"), new_env.get("evidence_refs")
+        )
+        new_env["source_snapshots"] = merge_source_snapshots(
+            prev_env.get("source_snapshots"), new_env.get("source_snapshots")
+        )
+
+    return new_env
+
+
 async def run(
     batch_path: Path,
     out_dir: Path,
@@ -100,9 +141,13 @@ async def run(
                     env = error_envelope(
                         o, STATE_FAILED, [f"worker error: {type(e).__name__}: {e}"]
                     )
-                (out_dir / f"{o}.json").write_text(
-                    json.dumps(env, ensure_ascii=False, indent=2), encoding="utf-8"
-                )
+                try:
+                    env = merge_with_previous(o, env, out_dir)
+                except Exception as e:
+                    env.setdefault("errors", []).append(
+                        f"merge error: {type(e).__name__}: {e}"
+                    )
+                _write_atomic(out_dir / f"{o}.json", env)
                 return env.get("state") == STATE_AVAILABLE
 
         tasks = [worker(o) for o in orgnrs]

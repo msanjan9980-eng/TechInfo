@@ -18,6 +18,7 @@ VALID_STATES = {
 REQUIRED_KEYS = {
     "orgnr",
     "state",
+    "generated_at",
     "legal_identity",
     "claims",
     "evidence_refs",
@@ -38,6 +39,8 @@ def main() -> int:
     state_counts = {s: 0 for s in VALID_STATES}
     claim_count = 0
     evidence_count = 0
+    change_count = 0
+    envelopes_with_changes = 0
 
     for p in sorted(root.glob("*.json")):
         total += 1
@@ -77,10 +80,21 @@ def main() -> int:
                 )
                 break
 
+        refresh = env.get("refresh") or {}
+        if "changes" not in refresh or "previous_envelope_at" not in refresh:
+            failures.append({"file": p.name, "reason": "refresh missing required keys"})
+            continue
+        changes = refresh.get("changes") or []
+        change_count += len(changes)
+        if changes:
+            envelopes_with_changes += 1
+
     summary = {
         "envelopes": total,
         "claims": claim_count,
         "evidence_refs": evidence_count,
+        "changes": change_count,
+        "envelopes_with_changes": envelopes_with_changes,
         "state_counts": state_counts,
         "failures": len(failures),
         "failure_details": failures[:20],
