@@ -1,0 +1,18 @@
+{
+  "envelopes": 100,
+  "claims": 2239,
+  "evidence_refs": 279,
+  "changes": 0,
+  "envelopes_with_changes": 0,
+  "state_counts": {
+    "not_available": 0,
+    "failed": 0,
+    "available": 100,
+    "blocked": 0,
+    "ambiguous": 0,
+    "not_applicable": 0
+  },
+  "failures": 0,
+  "failure_details": [],
+  "generated_at": "2026-10-09T18:16:20Z"
+}
