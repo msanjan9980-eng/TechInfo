@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 from typing import Any
 
 from .brreg_client import CompanyRecord, REGNSKAP_BASE
+from .nav_client import NAV_SEARCH
 
 
 def _now_iso() -> str:
@@ -43,8 +44,6 @@ def _meta_for(source_meta: dict[str, dict] | None, source_url: str) -> tuple[str
 
 
 def _join_text(value: Any) -> str | None:
-    """Brreg returns 'aktivitet' and 'vedtektsfestetFormaal' as arrays of wrapped lines.
-    Join them into a single normalized string."""
     if value is None:
         return None
     if isinstance(value, str):
@@ -59,13 +58,6 @@ def _join_text(value: Any) -> str | None:
 
 
 def _parent_parts(value: Any) -> tuple[str | None, str | None]:
-    """Return (parent_orgnr, parent_name) from a Brreg overordnetEnhet value.
-
-    The value may be:
-      - None
-      - a string orgnr
-      - a dict with organisasjonsnummer and/or navn
-    """
     if value is None:
         return None, None
     if isinstance(value, str):
@@ -140,12 +132,53 @@ def financial_facts(
     return facts
 
 
+def job_facts(
+    jobs: list[dict] | None,
+    jobs_meta: dict | None,
+) -> list[dict]:
+    """Emit one fact per exact-company-matched NAV job listing."""
+    if not jobs:
+        return []
+    src = (jobs_meta or {}).get("source_url") or NAV_SEARCH
+    retrieved = (jobs_meta or {}).get("retrieved") or _now_iso()
+    sha = (jobs_meta or {}).get("content_sha256")
+
+    facts: list[dict] = []
+    for j in jobs:
+        uuid = j.get("uuid")
+        if not uuid:
+            continue
+        value = {
+            "title": j.get("title"),
+            "business_name": j.get("business_name"),
+            "employer_name": j.get("employer_name"),
+            "published": j.get("published"),
+            "expires": j.get("expires"),
+            "city": j.get("city"),
+            "municipal": j.get("municipal"),
+            "county": j.get("county"),
+            "url": j.get("url"),
+        }
+        facts.append(_fact(
+            f"job:{uuid}",
+            value,
+            src,
+            retrieved,
+            sha,
+            confidence="high",
+            note="Active NAV Arbeidsplassen job listing matched to this company by exact normalized name.",
+        ))
+    return facts
+
+
 def assemble_profile(
     company: CompanyRecord,
     roles: list[dict],
     source_meta: dict[str, dict] | None = None,
     extra_facts: list[dict] | None = None,
     financials: list[dict] | None = None,
+    jobs: list[dict] | None = None,
+    jobs_meta: dict | None = None,
 ) -> dict:
     orgnr = company.orgnr
     src = f"https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
@@ -216,8 +249,6 @@ def assemble_profile(
         add("last_annual_account", company.sisteInnsendteAarsregnskap,
             note="Date of most recently submitted annual accounts per Enhetsregisteret.")
 
-    # ----- Phase 4(a): fields previously discarded from the same Enhetsregisteret payload -----
-
     activity = _join_text(getattr(company, "aktivitet", None))
     if activity:
         add("activity", activity,
@@ -266,14 +297,21 @@ def assemble_profile(
         ))
 
     facts.extend(financial_facts(orgnr, financials, source_meta))
+    facts.extend(job_facts(jobs, jobs_meta))
 
     if extra_facts:
         facts.extend(extra_facts)
+
+    sources = ["brreg"]
+    if financials:
+        sources.append("regnskapsregisteret")
+    if jobs:
+        sources.append("nav-arbeidsplassen")
 
     return {
         "orgnr": orgnr,
         "name": company.navn,
         "facts": facts,
-        "sources_used": ["brreg", "regnskapsregisteret"] if financials else ["brreg"],
+        "sources_used": sources,
         "last_updated": _now_iso(),
     }

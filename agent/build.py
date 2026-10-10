@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 from tqdm.asyncio import tqdm_asyncio
 
-from . import cache, roles_cache
+from . import cache, nav_cache, roles_cache
 from .brreg_client import (
     REGNSKAP_BASE,
     fetch_company,
@@ -18,6 +18,7 @@ from .brreg_client import (
     fetch_roles,
     validate_orgnr,
 )
+from .nav_client import fetch_jobs
 from .assemble import assemble_profile
 
 ENTITY_URL = "https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}"
@@ -40,12 +41,29 @@ async def get_financials_cached(
     return accounts or [], meta
 
 
+async def get_jobs_cached(
+    orgnr: str,
+    company_name: str,
+    client: httpx.AsyncClient,
+    use_cache: bool = True,
+) -> tuple[list[dict], dict | None]:
+    if use_cache:
+        jobs, meta = nav_cache.load(orgnr)
+        if jobs is not None:
+            return jobs, meta
+    try:
+        jobs, meta = await fetch_jobs(company_name, client)
+    except Exception:
+        jobs, meta = [], None
+    nav_cache.save(orgnr, jobs, meta)
+    return jobs or [], meta
+
+
 async def build_profile_dict(
     orgnr: str,
     client: httpx.AsyncClient,
     use_cache: bool = True,
 ) -> tuple[dict | None, list[str]]:
-    """Return (profile, errors). profile is None if the company could not be built."""
     errors: list[str] = []
     if not validate_orgnr(orgnr):
         return None, ["invalid orgnr (MOD11 checksum)"]
@@ -83,9 +101,24 @@ async def build_profile_dict(
     if fin_meta:
         source_meta[fin_url] = fin_meta
 
+    jobs: list[dict] = []
+    jobs_meta: dict | None = None
+    try:
+        jobs, jobs_meta = await get_jobs_cached(
+            orgnr, company.navn, client, use_cache=use_cache
+        )
+    except Exception as e:
+        errors.append(f"jobs fetch error: {type(e).__name__}: {e}")
+        jobs, jobs_meta = [], None
+
     try:
         profile = assemble_profile(
-            company, roles, source_meta=source_meta, financials=financials or []
+            company,
+            roles,
+            source_meta=source_meta,
+            financials=financials or [],
+            jobs=jobs,
+            jobs_meta=jobs_meta,
         )
     except Exception as e:
         return None, errors + [f"assemble error: {type(e).__name__}: {e}"]
@@ -158,7 +191,7 @@ def main() -> int:
     ap.add_argument("--orgnrs", required=True, help="Text file with one orgnr per line")
     ap.add_argument("--output", default="profiles", help="Output directory")
     ap.add_argument("--concurrency", type=int, default=8)
-    ap.add_argument("--no-cache", action="store_true", help="Ignore financial cache and refetch")
+    ap.add_argument("--no-cache", action="store_true", help="Ignore caches and refetch")
     args = ap.parse_args()
 
     orgnrs = load_orgnrs(Path(args.orgnrs))
